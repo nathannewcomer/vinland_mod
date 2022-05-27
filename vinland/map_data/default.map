@@ -1,0 +1,125 @@
+#max_provinces = 1466
+definitions = "definition.csv"
+provinces = "provinces.png"
+#positions = "positions.txt"
+rivers = "rivers.png"
+#terrain_definition = "terrain.txt"
+topology = "heightmap.heightmap"
+#tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+#climate = "climate.txt"
+island_region = "island_region.txt"
+seasons = "seasons.txt"
+
+#############
+# SEA ZONES
+#############
+
+#Atlantic Ocean
+sea_zones = RANGE { 1917 1932 }
+sea_zones = RANGE { 1936 1940 }
+
+#Gulf of St Lawrence
+sea_zones = RANGE { 1933 1935 }
+sea_zones = RANGE { 1941 1965 }
+sea_zones = LIST { 2084 }
+
+#Delaware Bay
+sea_zones = RNAGE { 2071 2076 }
+
+#############
+# GREAT LAKES (Oceans in-game)
+#############
+# Lake Ontario
+sea_zones = LIST { 1985 1986 1987 }
+
+# Lake Erie
+sea_zones = LIST { 1989 1990 1991 }
+
+#Lake St Clair
+sea_zones = LIST { 1992 }
+
+#Lake Huron
+sea_zones = RANGE { 1994 2002 }
+
+#Lake Superior
+sea_zones = RANGE { 2004 2012 }
+
+#Lake Michigan
+sea_zones = RANGE { 2013 2022 }
+
+###############
+# MAJOR RIVERS
+###############
+
+#St Lawrence River
+river_provinces = RANGE { 1966 1970 }
+river_provinces = RANGE { 1980 1984 }
+
+#Ottawa River
+river_provinces = RANGE { 1971 1978 }
+
+#Niagara River
+river_provinces = LIST { 1988 }
+
+#River St Clair
+river_provinces = LIST { 1993 }
+
+#St Marys River
+river_provinces = LIST { 2003 }
+
+#Illinois River
+river_provinces = RANGE { 2023 2029 }
+
+#Mississippi River
+river_provinces = RANGE { 2030 2046 }
+river_provinces = LIST { 2053 2054 2055 }
+
+#Missouri River
+river_provinces = RANGE { 2047 2052 }
+
+#Ohio River
+river_provinces = RANGE { 2056 2070 }
+
+#Rappahannock River
+river_provinces = LIST { 2077 }
+
+#Hudson River
+river_provinces = RANGE { 2078 2083 }
+
+########
+# LAKES
+########
+lakes = LIST { 1979 }
+
+lakes = RANGE { 2094 2187 }
+lakes = RANGE { 2189 2192 }
+
+#####################
+# IMPASSABLE TERRAIN
+#####################
+# Can be colored by whoever owns the most of the province's neighbours.
+# Blocks unit movement.
+
+#Appalachian Mountains
+impassable_mountains = RANGE { 2085 2093 }
+
+############
+# WASTELAND
+############
+# These are actually supposed to be Wasteland:
+# Cannot be colored. Blocks unit movement, used for things like Sahara desert. 
+
+#Canadian Wasteland
+impassable_mountains = LIST { 2188 }
+
+# IMPASSABLE SEA ZONES
+# These sea provinces cannot be crossed/sailed
+
+#Deep Atlantic Ocean
+impassable_seas = LIST { 1916 }
+
+# UNUSED PROVINCES
+# These provinces cause issues because they are passable land, but not part of any title.
+# They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).

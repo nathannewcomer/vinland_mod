@@ -1,0 +1,9 @@
+142610 = {
+	name = "Leif"
+	dynasty_house = house_hvitserk
+	religion = "catholic"
+	culture = norse
+	970.1.1 = {
+		birth = yes
+	}
+}

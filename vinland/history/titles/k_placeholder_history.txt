@@ -1,0 +1,2445 @@
+c_abbotsford = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_akron = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_albert_lee = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_alpena = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_amery = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ames = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_amherst = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_anticosti = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_antigo = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_antigonish = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_appleton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_arcadia = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ashbury_park = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_athens = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_atlantic_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_augusta = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bad_axe = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_baltimore = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bangor = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_barrie = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_batavia = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bay_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_benton_harbor = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bessemer = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_big_rapids = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_black_river_falls = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bloomington_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bolivar = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_boonville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_boston = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_bowling_green_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_boyne_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_brainerd = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_brockport = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_buffalo = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_campbellton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cape_saint_george = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cape_vincent = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_caraquet = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cedar_rapids = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_central_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_centralia_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_channel-port_aux_basques = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cheboygan = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_chequamegon-nicolet = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_chicago = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_chillicothe_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cincinnati = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cleveland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_coldwater = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_columbia_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_columbus = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cooperstown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_coshocton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_covington = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_cresco = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_danbury = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_danville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_davenport = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_dayton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_deerton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_defiance = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_delaware = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_des_moines = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_detroit = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_digby = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_dodgeville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_drummond = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_dubuque = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_duluth = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_eau_claire = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_effie = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_elizabethtown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ely_mn = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_erie = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_escanaba = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fall_river = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_farbault = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_farmington = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_findley = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_flemingsburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_flint = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fond_du_lac = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fort_atkinson = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fort_wayne = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_frankenmuth = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_frankfort = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fredericton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fredonia = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_freeport_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_fremont = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_galena = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_galesburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gallipolis = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gander = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gary = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gaspe = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gaspesie_inland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gaylord = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grand_bend = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grand_manan = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grand_marais = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grand_rapids_mn = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grayson = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_green_bay = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_greenfield = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_greenville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_greenville_michigan = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_grey_river = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_gros_morne = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_halifax = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hamilton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hannibal_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_harbour_deep = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hardin_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hartford = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hayward = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_hermann = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_higginsville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_holland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_houghton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_houghton_lake = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_huntington_in = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_huron-manistee = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_10 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_11 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_12 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_illinois_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_indianapolis = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_international_falls = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ithaca = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_jackson_michigan = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_janesville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_jefferson_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_jeffersonville_in = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kankakee = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kenosha = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kentville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kewanee_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kincardine = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_kitchener = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_la_crosse = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lafayette_in = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lancaster = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lancaster_wi = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lansing = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lebanon_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lexington = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_logansport = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_london_ca = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_long_island = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_louisville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_lunenburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mackinac = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_macon_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_madison = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_madison_in = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_magdalen = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maine_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_manistique = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_manitoulin_island = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_manitowoc = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mansfield = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_marietta = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_marinette = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_marquette = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_maryland_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_marystown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_marysville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mason_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_massachusetts_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_massachusetts_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_massachusetts_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mattawa = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_michigan_x = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_milwaukee = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_minneapolis = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_minocqua = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_moline = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_moncton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_monmouth = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_monroe = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_montreal = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_moose_lake = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mora = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_morgantown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mount_orab = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_mount_pleasant = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_munising = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_brunswick_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_brunswick_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_hampshire_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_hampshire_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_hampshire_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_hampshire_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_hampshire_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_jersey_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_richmond = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_10 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_11 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_12 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_13 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_new_york_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newark = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newberry = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newburyport = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newfoundland_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newfoundland_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_newton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_niagara_falls = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_north_cape_breton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ogdensburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_oglesby = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_oneota = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_10 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_11 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_12 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_13 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_14 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_15 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_16 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_17 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_18 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_19 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_20 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_21 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_22 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_23 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_24 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_25 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_26 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_27 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_28 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_29 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_30 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_31 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_32 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_33 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_34 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_35 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_36 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_37 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_38 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_39 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_40 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_41 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_42 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_43 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_44 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_45 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_46 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_47 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_48 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_49 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_50 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_51 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_52 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_53 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_54 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_55 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_56 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_57 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_58 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_59 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_60 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_61 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_62 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_63 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_64 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_65 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontario_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ontonagon = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_oscoda = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ottawa_forest = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_ottumwa = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_owen_sound = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_owensboro = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_paintsville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_parkersburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_10 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_11 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_12 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pennsylvania_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_perce = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_perryville_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_philadelphia = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_phillips = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pikeville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_pittsburgh = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_plymouth = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_port_huron = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_portland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_prince_edward_island = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_10 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_11 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_12 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_13 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_14 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_15 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_16 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_17 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_18 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_19 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_20 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_21 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_22 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_23 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_24 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_25 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_26 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_27 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_28 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_29 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_30 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_31 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_32 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_33 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_34 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_35 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_36 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_37 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_38 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_39 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_40 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_41 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_42 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_43 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_44 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_45 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_46 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_47 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_48 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_49 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_50 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_51 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_52 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_53 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_54 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quebec_city = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_quincy_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rhinelander = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rhode_island = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rice_lake = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rimouski = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_riviere-du-loup = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rochester = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rochester_mn = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rockford_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_rogersville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_saginaw = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_saint-anne-des-monts = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_saint_clairsville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_saint_george_ca = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_saint_john = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_salem_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sandstone = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sandusky = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sarnia = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sault_ste_marie_usa = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sheboygan = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_shelburne = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sheridan_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sidney = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_silver_bay = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_silver_lake = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_simcoe = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_south_bend = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_south_cape_breton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_springdale = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_springfield_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_st_johns = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_st_louis = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_stanton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sterling_il = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_steubenville = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_stevens_point = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_stratford = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sturgeon_bay = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_suamico = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_sullivan_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_syracuse = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_thunder_bay = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_toledo = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_tomahawk = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_toronto = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_truro = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_uniontown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_unionville_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vermont_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vermont_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vermont_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vermont_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vermont_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_vinland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_8 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_9 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_virginia_mn = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_voyageurs_park = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_warsaw_ms = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_washburn = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_washington_courthouse = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_waterloo_io = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_waterloo_iowa = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_watertown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_waukon = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_waupaca = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_wayland = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_wellsburg = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_branch = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_union = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_1 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_2 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_3 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_4 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_5 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_6 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_west_virginia_7 = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_weston = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_wharton = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_winchendon = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_windsor = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_winona = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_wisconsin_dells = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_worcester = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_yarmouth = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_yellow_lake = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+c_youngstown = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}
+wheeling = {
+	1066.1.1 = {
+		holder = 20842
+	}
+}

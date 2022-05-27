@@ -6,4 +6,4 @@ tags={
 	"Map"
 }
 name="The Saga of Erik The Red"
-supported_version="1.0.3"
+supported_version="1.5.*"
