@@ -26,7 +26,7 @@ sea_zones = RANGE { 1941 1965 }
 sea_zones = LIST { 2084 }
 
 #Delaware Bay
-sea_zones = RNAGE { 2071 2076 }
+sea_zones = RANGE { 2071 2076 }
 
 #############
 # GREAT LAKES (Oceans in-game)

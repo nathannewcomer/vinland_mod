@@ -1,2 +1,1 @@
 ﻿default=plains
-1=plains

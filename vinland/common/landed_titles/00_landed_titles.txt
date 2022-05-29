@@ -2842,7 +2842,7 @@ d_duchy_30 = {
 			color2 = { 0 0 0 }
 			province = 734
 		}
-		barony_province_735 = {
+		b_province_735 = {
 			color = { 0 0 0 }
 			color2 = { 0 0 0 }
 			province = 735
@@ -6930,7 +6930,7 @@ d_duchy_66 = {
 			province = 1479
 		}
 	}
-	wheeling = {
+	c_wheeling = {
 		color = { 0 0 0 }
 		color2 = { 0 0 0 }
 		b_proctor = {

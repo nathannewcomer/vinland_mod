@@ -1,1 +1,4 @@
-﻿
+﻿house_erikson = {
+	name = "dynn_Erikson"
+	dynasty = 200001
+}

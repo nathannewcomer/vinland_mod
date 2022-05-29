@@ -56,52 +56,78 @@
 
 # world_burma
 
-world_europe_west_britannia = {}
-world_europe_west_germania = {}
-world_europe_west_francia = {}
-world_europe_west_iberia = {}
-world_europe_west = {}
-world_europe_north = {}
-world_europe_south_east = {}
-world_europe_south_italy = {}
-world_europe_south = {}
-world_europe_east = {}
-world_asia_minor = {}
-world_middle_east_jerusalem = {}
-world_middle_east_arabia = {}
-world_middle_east_persia = {}
-world_india_deccan = {}
-world_india_bengal = {}
-world_india_rajastan = {}
-world_africa_north_west = {
+world_new_england = {
 	duchies = {
-		d_canarias
+		d_duchy_96 d_duchy_95 d_duchy_111 d_duchy_112 d_duchy_113 d_duchy_110 d_duchy_108 d_duchy_109 d_duchy_106 d_duchy_107
 	}
 }
-world_africa_north_east = {}
-world_africa_sahara = {}
-world_africa_north = {
-	regions = {
-		world_africa_north_west
+
+world_new_brunswick = {
+	duchies = {
+		d_duchy_105 d_duchy_20 d_duchy_19 d_duchy_21 d_duchy_24 d_duchy_23 d_duchy_2
 	}
 }
-world_africa_west = {}
-world_africa_east = {}
-world_africa = {
-	regions = {
-		world_africa_north
+
+world_atlantic_canada = { 
+	duchies = {
+		d_duchy_13 d_duchy_14 d_duchy_15 d_duchy_16 d_duchy_17 d_duchy_18
 	}
 }
-world_steppe_tarim = {}
-world_steppe_west = {}
-world_steppe_east = {}
-world_tibet = {}
-world_himalaya = {}
-world_burma = {}
-world_steppe = {}
-world_europe = {}
-world_middle_east = {}
-world_india = {}
+
+world_quebec = { 
+	duchies = {
+		d_duchy_39 d_duchy_52 d_duchy_51 d_duchy_58 d_duchy_59 d_duchy_60 d_duchy_61
+	}
+}
+
+world_north_ontario = {
+	duchies = {
+		d_duchy_97 d_duchy_98 d_duchy_99 d_duchy_100 d_duchy_101 d_duchy_102 d_duchy_103 d_duchy_104
+	}
+}
+
+world_south_ontario = {
+	duchies = {
+		d_duchy_56 d_duchy_57 d_duchy_55 d_duchy_54 d_duchy_53 d_duchy_27 d_duchy_25 d_duchy_26
+	}
+}
+
+world_mid_atlantic = {
+	duchies = {
+		d_duchy_11 d_duchy_12 d_duchy_41 d_duchy_45 d_duchy_46 d_duchy_63 d_duchy_64 d_duchy_65 d_duchy_92 d_duchy_93 d_duchy_94
+	}
+}
+
+world_appalachia = {
+	duchies = {
+		d_duchy_90 d_duchy_38 d_duchy_42 d_duchy_43 d_duchy_91 d_duchy_66 d_duchy_62 d_duchy_40
+	}
+}
+
+world_great_lakes_east = {
+	duchies = {
+		d_duchy_30 d_duchy_32 d_duchy_31 d_duchy_34 d_duchy_33 d_duchy_35 d_duchy_72 d_duchy_47 d_duchy_73
+	}
+}
+
+world_great_lakes_west = {
+	duchies = {
+		d_duchy_49 d_duchy_50 d_duchy_114 d_duchy_87 d_duchy_89 d_duchy_88 d_duchy_29 d_duchy_28 d_duchy_79 d_duchy_82 d_duchy_83 d_duchy_85 d_duchy_81
+	}
+}
+
+world_interior_midwest_east = {
+	duchies = {
+		d_duchy_67 d_duchy_75 d_duchy_68 d_duchy_78 d_duchy_70 d_duchy_69 d_duchy_77 d_duchy_115 d_duchy_78 d_duchy_44 d_duchy_76 d_duchy_74 d_duchy_70 d_duchy_36 d_duchy_37 d_duchy_2 d_duchy_1 d_duchy_3
+	}
+}
+
+world_interior_midwest_west = {
+	duchies = {
+		d_duchy_4 d_duchy_6 d_duchy_5 d_duchy_7 d_duchy_8 d_duchy_9 d_duchy_10 d_duchy_86 d_duchy_84 d_duchy_80
+	}
+}
+
 
 ###########################################################################
 # Material Regions
@@ -136,18 +162,12 @@ material_wood_yew = {}
 
 # Regional - Mediterranean
 material_woods_mediterranean = {
-	regions = {
-		world_africa_north
-	}
 }
 
 # Regional - Sri Lanka
 material_woods_sri_lanka = {}
 
 material_cloth_no_silk = {
-	regions = {
-		world_africa_west
-	}
 }
 
 material_cloth_linen = {}
@@ -161,10 +181,6 @@ material_metal_damascus = {}
 material_metal_bulat = {}
 
 material_hsb_camel_bone = {
-	regions = {
-		world_africa_north
-		world_africa_west
-	}
 }
 
 material_hsb_deer_antler = {}
@@ -172,33 +188,20 @@ material_hsb_deer_antler = {}
 material_hsb_boar_tusk = {}
 
 material_hsb_ivory_imported = {
-	regions = {
-		world_africa_north
-	}
 }
 
 material_hsb_ivory_native = {
-	regions = {
-		world_africa_west
-	}
 }
 
 material_hsb_mother_of_pearl = {
-	regions = {
-		world_africa_north
-	}
+
 }
 
 material_hsb_tortoiseshell = {
-	regions = {
-		world_africa_north
-	}
+
 }
 
 material_hsb_seashell = {
-	regions = {
-		world_africa_north
-	}
 }
 
 ###########################################################################
@@ -282,7 +285,7 @@ custom_iceland = {}
 
 graphical_western = {}
 
-graphical_mena = { world_africa }
+graphical_mena = { }
 
 graphical_india = {}
 
@@ -298,9 +301,6 @@ world_innovation_elephants = {}
 
 world_innovation_camels = {
 	generate_modifiers = yes
-	regions = {
-		world_africa_north
-	}
 }
 
 #Are these persia regions really used? They overlap with regular world regions. should they be named custom?
@@ -483,8 +483,5 @@ dlc_ep1_southwest_silk_road_trade_region = {}
 ### END RC Regions
 
 divergence_island_regions = {
-	duchies = {
-		d_canarias
-	}
 }
 
