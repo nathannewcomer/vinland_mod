@@ -1,6 +1,6 @@
 # Auto generated file, do not edit manually. Created using console command dump_bookmark_portraits
 # History database id:20842
-bookmark_canaria_guanarigato={
+bookmark_vinland_leif={
 	type=male
 	id=66
 	age=0.270000

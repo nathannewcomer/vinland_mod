@@ -1,15 +1,15 @@
-﻿bm_1066_canarias = {
-	start_date = 1066.10.1
+﻿bm_1000_vinland = {
+	start_date = 1066.1.1
 	is_playable = yes
 
-	# Guanarigato
+	# Leif
 	character = {
-		name = "bookmark_canarias_guanarigato"
+		name = "bookmark_vinland_leif"
 		dynasty = 100848
 		dynasty_splendor_level = 1
 		type = male
 		birth = 1039.1.1
-		title = c_canarias
+		title = c_vinland
 		government = tribal_government
 		culture = baranis
 		religion = "west_african_pagan"

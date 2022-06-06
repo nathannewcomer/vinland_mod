@@ -1,4 +1,4 @@
-d_duchy_1 = {
+﻿d_duchy_1 = {
 	color = { 0 0 0 }
 	color2 = { 0 0 0 }
 	capital = c_higginsville
@@ -3222,7 +3222,7 @@ d_duchy_34 = {
 			color2 = { 0 0 0 }
 			province = 775
 		}
-		b_port hope = {
+		b_port_hope_mi = {
 			color = { 0 0 0 }
 			color2 = { 0 0 0 }
 			province = 776
@@ -3671,7 +3671,7 @@ d_duchy_39 = {
 	c_quebec_1 = {
 		color = { 0 0 0 }
 		color2 = { 0 0 0 }
-		b_province_{prov_id} = {
+		b_province_85 = {
 			color = { 0 0 0 }
 			color2 = { 0 0 0 }
 			province = 85
@@ -8974,7 +8974,7 @@ d_duchy_88 = {
 			color2 = { 0 0 0 }
 			province = 569
 		}
-		b_cedar river = {
+		b_cedar_river = {
 			color = { 0 0 0 }
 			color2 = { 0 0 0 }
 			province = 570

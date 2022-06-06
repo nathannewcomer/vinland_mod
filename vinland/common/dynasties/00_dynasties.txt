@@ -1,6 +1,6 @@
-﻿200001 = {
-	name = "dynn_Erikson"
-	culture = "norse"
+﻿100848 = {
+	name = "dynn_Tikanariyen"
+	culture = "maghrebi"
 }
 
 # Keeping Prydain to dodge a stubborn error.
