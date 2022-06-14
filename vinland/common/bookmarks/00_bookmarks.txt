@@ -1,21 +1,21 @@
 ﻿bm_1000_vinland = {
-	start_date = 1066.1.1
+	start_date = 1000.1.1
 	is_playable = yes
 
 	# Leif
 	character = {
 		name = "bookmark_vinland_leif"
-		dynasty = 100848
+		dynasty = 200001
 		dynasty_splendor_level = 1
 		type = male
-		birth = 1039.1.1
+		birth = 970.1.1
 		title = c_vinland
 		government = tribal_government
-		culture = baranis
-		religion = "west_african_pagan"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 20842
-		position = { 250 750 }
+		culture = norse
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 900002
+		position = { 250 175 }
 
 		animation = happiness
 	}

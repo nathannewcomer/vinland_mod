@@ -3,6 +3,11 @@
 	culture = "maghrebi"
 }
 
+200001 = {
+	name = "dynn_Erikson"
+	culture = norse
+}
+
 # Keeping Prydain to dodge a stubborn error.
 1029001 = {
 	name = "dynn_Prydain"

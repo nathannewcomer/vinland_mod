@@ -1,5 +1,5 @@
-﻿d_duchy_1 = {
-	color = { 0 0 0 }
+d_duchy_1 = {
+	color = { 103 252 98 }
 	color2 = { 0 0 0 }
 	capital = c_higginsville
 	c_jefferson_city = {
@@ -139,7 +139,7 @@
 	}
 }
 d_duchy_2 = {
-	color = { 0 0 0 }
+	color = { 47 252 92 }
 	color2 = { 0 0 0 }
 	capital = c_perryville_ms
 	c_perryville_ms = {
@@ -216,7 +216,7 @@ d_duchy_2 = {
 	}
 }
 d_duchy_3 = {
-	color = { 0 0 0 }
+	color = { 58 124 4 }
 	color2 = { 0 0 0 }
 	capital = c_sullivan_ms
 	c_st_louis = {
@@ -288,7 +288,7 @@ d_duchy_3 = {
 	}
 }
 d_duchy_4 = {
-	color = { 0 0 0 }
+	color = { 167 216 82 }
 	color2 = { 0 0 0 }
 	capital = c_centralia_ms
 	c_centralia_ms = {
@@ -365,7 +365,7 @@ d_duchy_4 = {
 	}
 }
 d_duchy_5 = {
-	color = { 0 0 0 }
+	color = { 73 216 99 }
 	color2 = { 0 0 0 }
 	capital = c_hannibal_ms
 	c_wayland = {
@@ -741,7 +741,7 @@ d_duchy_7 = {
 	}
 }
 d_duchy_8 = {
-	color = { 0 0 0 }
+	color = { 249 210 14 }
 	color2 = { 0 0 0 }
 	capital = c_waterloo_iowa
 	c_mason_city = {
@@ -1001,7 +1001,7 @@ d_duchy_10 = {
 	}
 }
 d_duchy_11 = {
-	color = { 0 0 0 }
+	color = { 136 87 209 }
 	color2 = { 0 0 0 }
 	capital = c_maryland_3
 	c_maryland_2 = {
@@ -1092,7 +1092,7 @@ d_duchy_11 = {
 	}
 }
 d_duchy_12 = {
-	color = { 0 0 0 }
+	color = { 128 73 237 }
 	color2 = { 0 0 0 }
 	capital = c_maryland_6
 	c_baltimore = {
@@ -1188,19 +1188,19 @@ d_duchy_12 = {
 	}
 }
 d_duchy_13 = {
-	color = { 0 0 0 }
+	color = { 35 113 209 }
 	color2 = { 0 0 0 }
 	capital = c_vinland
 	c_vinland = {
 		color = { 0 0 0 }
 		color2 = { 0 0 0 }
 		b_vinland = {
-			color = { 0 0 0 }
+			color = { 84 68 186 }
 			color2 = { 0 0 0 }
 			province = 1
 		}
 		b_port_au_choix = {
-			color = { 0 0 0 }
+			color = { 0 132 99 }
 			color2 = { 0 0 0 }
 			province = 2
 		}
@@ -1446,7 +1446,7 @@ d_duchy_16 = {
 	}
 }
 d_duchy_17 = {
-	color = { 0 0 0 }
+	color = { 2 44 140 }
 	color2 = { 0 0 0 }
 	capital = c_quebec_12
 	c_quebec_5 = {
@@ -1600,7 +1600,7 @@ d_duchy_17 = {
 	}
 }
 d_duchy_18 = {
-	color = { 0 0 0 }
+	color = { 26 87 191 }
 	color2 = { 0 0 0 }
 	capital = c_quebec_6
 	c_anticosti = {
@@ -4340,7 +4340,7 @@ d_duchy_44 = {
 	}
 }
 d_duchy_45 = {
-	color = { 0 0 0 }
+	color = { 38 226 132 }
 	color2 = { 0 0 0 }
 	capital = c_philadelphia
 	c_philadelphia = {
@@ -4436,7 +4436,7 @@ d_duchy_45 = {
 	}
 }
 d_duchy_46 = {
-	color = { 0 0 0 }
+	color = { 47 102 252 }
 	color2 = { 0 0 0 }
 	capital = c_new_york
 	c_new_york = {
@@ -4551,7 +4551,7 @@ d_duchy_46 = {
 	}
 }
 d_duchy_47 = {
-	color = { 0 0 0 }
+	color = { 201 2 71 }
 	color2 = { 0 0 0 }
 	capital = c_cleveland
 	c_cleveland = {
@@ -4786,7 +4786,7 @@ d_duchy_48 = {
 	}
 }
 d_duchy_49 = {
-	color = { 0 0 0 }
+	color = { 74 12 209 }
 	color2 = { 0 0 0 }
 	capital = c_grand_rapids_mn
 	c_grand_rapids_mn = {
@@ -4882,7 +4882,7 @@ d_duchy_49 = {
 	}
 }
 d_duchy_50 = {
-	color = { 0 0 0 }
+	color = { 143 47 252 }
 	color2 = { 0 0 0 }
 	capital = c_duluth
 	c_duluth = {
@@ -7698,7 +7698,7 @@ d_duchy_75 = {
 	}
 }
 d_duchy_76 = {
-	color = { 0 0 0 }
+	color = { 178 132 24 }
 	color2 = { 0 0 0 }
 	capital = c_illinois_4
 	c_illinois_4 = {
@@ -7833,7 +7833,7 @@ d_duchy_76 = {
 	}
 }
 d_duchy_77 = {
-	color = { 0 0 0 }
+	color = { 206 81 4 }
 	color2 = { 0 0 0 }
 	capital = c_springfield_il
 	c_quincy_il = {
@@ -8050,7 +8050,7 @@ d_duchy_78 = {
 	}
 }
 d_duchy_79 = {
-	color = { 0 0 0 }
+	color = { 219 156 98 }
 	color2 = { 0 0 0 }
 	capital = c_chicago
 	c_chicago = {
@@ -9126,7 +9126,7 @@ d_duchy_89 = {
 	}
 }
 d_duchy_90 = {
-	color = { 0 0 0 }
+	color = { 29 155 24 }
 	color2 = { 0 0 0 }
 	capital = c_pennsylvania_1
 	c_erie = {
@@ -9227,7 +9227,7 @@ d_duchy_90 = {
 	}
 }
 d_duchy_91 = {
-	color = { 0 0 0 }
+	color = { 102 206 68 }
 	color2 = { 0 0 0 }
 	capital = c_pennsylvania_10
 	c_pennsylvania_5 = {
@@ -9319,7 +9319,7 @@ d_duchy_91 = {
 	}
 }
 d_duchy_92 = {
-	color = { 0 0 0 }
+	color = { 102 255 183 }
 	color2 = { 0 0 0 }
 	capital = c_pennsylvania_7
 	c_pennsylvania_6 = {
@@ -9799,7 +9799,7 @@ d_duchy_96 = {
 	}
 }
 d_duchy_97 = {
-	color = { 0 0 0 }
+	color = { 252 121 169 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_23
 	c_ontario_21 = {
@@ -10006,7 +10006,7 @@ d_duchy_97 = {
 	}
 }
 d_duchy_98 = {
-	color = { 0 0 0 }
+	color = { 252 136 153 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_28
 	c_ontario_28 = {
@@ -10170,7 +10170,7 @@ d_duchy_98 = {
 	}
 }
 d_duchy_99 = {
-	color = { 0 0 0 }
+	color = { 234 107 105 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_36
 	c_ontario_36 = {
@@ -10276,7 +10276,7 @@ d_duchy_99 = {
 	}
 }
 d_duchy_100 = {
-	color = { 0 0 0 }
+	color = { 252 181 194 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_43
 	c_ontario_40 = {
@@ -10450,7 +10450,7 @@ d_duchy_100 = {
 	}
 }
 d_duchy_101 = {
-	color = { 0 0 0 }
+	color = { 249 187 191 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_45
 	c_thunder_bay = {
@@ -10546,7 +10546,7 @@ d_duchy_101 = {
 	}
 }
 d_duchy_102 = {
-	color = { 0 0 0 }
+	color = { 255 163 181 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_53
 	c_ontario_49 = {
@@ -10701,7 +10701,7 @@ d_duchy_102 = {
 	}
 }
 d_duchy_103 = {
-	color = { 0 0 0 }
+	color = { 244 166 187 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_55
 	c_ontario_52 = {
@@ -10870,7 +10870,7 @@ d_duchy_103 = {
 	}
 }
 d_duchy_104 = {
-	color = { 0 0 0 }
+	color = { 255 186 205 }
 	color2 = { 0 0 0 }
 	capital = c_ontario_63
 	c_ontario_60 = {
@@ -12063,7 +12063,7 @@ d_duchy_114 = {
 	}
 }
 d_duchy_115 = {
-	color = { 0 0 0 }
+	color = { 252 130 60 }
 	color2 = { 0 0 0 }
 	capital = c_illinois_3
 	c_hardin_il = {
