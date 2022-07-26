@@ -1,12 +1,39 @@
 ﻿#################
-# African Pagans
+# Iroquois
 #################
 
-#Siguic:
-#jenne
+iroquois = { # Kingston, Ontario, where the Great Peacemaker was reportedly born
+	county = c_ontario_9
 
-jenne = { # An important centre of Siguic influence, albeit not an intrinsically sacred one.
-	county = c_vinland
+	character_modifier = {
+		name = holy_site_jenne_effect_name
+		diplomacy = 1
+		councillor_opinion = 5
+	}
+}
+
+iroquois = { # Rochester, NY, Great Peacemaker met Jikonsaseh
+	county = c_rochester
+
+	character_modifier = {
+		name = holy_site_jenne_effect_name
+		diplomacy = 1
+		councillor_opinion = 5
+	}
+}
+
+iroquois = { # South of Onondaga Lake, where the sorcerer Tadodaho was persuaded to join the Great Peacemaker
+	county = c_syracuse
+
+	character_modifier = {
+		name = holy_site_jenne_effect_name
+		diplomacy = 1
+		councillor_opinion = 5
+	}
+}
+
+iroquois = { # Albany, NY, where he passed a test given by the Mohawks
+	county = c_new_york_9
 
 	character_modifier = {
 		name = holy_site_jenne_effect_name

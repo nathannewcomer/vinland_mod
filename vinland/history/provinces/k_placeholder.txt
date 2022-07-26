@@ -509,47 +509,47 @@
 	holding = tribal_holding
 }
 103 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 104 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 105 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 106 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 107 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 108 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 109 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 110 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 111 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
@@ -564,782 +564,782 @@
 	holding = tribal_holding
 }
 114 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 115 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 116 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 117 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 118 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 119 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 120 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 121 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 122 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 123 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 124 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 125 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 126 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 127 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 128 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 129 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 130 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 131 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 132 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 133 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 134 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 135 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 136 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 137 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 138 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 139 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 140 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 141 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 142 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 143 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 144 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 145 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 146 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 147 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 148 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 149 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 150 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 151 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 152 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 153 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 154 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 155 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 156 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 157 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 158 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 159 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 160 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 161 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 162 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 163 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 164 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 165 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 166 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 167 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 168 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 169 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 170 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 171 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 172 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 173 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 174 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 175 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 176 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 177 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 178 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 179 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 180 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 181 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 182 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 183 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 184 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 185 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 186 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 187 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 188 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 189 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 190 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 191 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 192 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 193 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 194 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 195 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 196 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 197 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 198 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 199 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 200 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 201 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 202 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 203 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 204 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 205 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 206 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 207 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 208 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 209 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 210 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 211 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 212 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 213 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 214 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 215 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 216 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 217 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 218 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 219 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 220 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 221 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 222 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 223 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 224 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 225 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 226 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 227 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 228 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 229 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 230 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 231 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 232 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 233 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 234 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 235 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 236 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 237 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 238 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 239 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 240 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 241 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 242 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 243 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 244 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 245 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 246 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 247 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 248 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 249 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 250 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 251 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 252 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 253 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 254 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 255 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 256 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 257 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 258 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 259 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 260 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 261 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 262 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 263 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 264 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 265 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 266 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 267 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 268 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 269 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
@@ -1354,62 +1354,62 @@
 	holding = tribal_holding
 }
 272 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 273 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 274 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 275 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 276 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 277 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 278 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 279 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 280 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 281 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 282 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 283 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
@@ -1439,82 +1439,82 @@
 	holding = tribal_holding
 }
 289 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 290 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 291 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 292 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 293 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 294 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 295 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 296 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 297 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 298 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 299 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 300 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 301 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 302 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 303 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 304 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
@@ -1539,1452 +1539,1452 @@
 	holding = tribal_holding
 }
 309 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 310 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 311 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 312 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 313 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 314 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 315 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 316 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 317 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 318 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 319 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 320 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 321 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 322 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 323 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 324 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 325 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 326 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 327 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 328 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 329 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 330 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 331 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 332 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 333 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 334 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 335 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 336 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 337 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 338 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 339 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 340 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 341 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 342 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 343 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 344 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 345 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 346 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 347 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 348 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 349 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 350 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 351 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 352 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 353 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 354 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 355 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 356 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 357 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 358 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 359 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 360 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 361 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 362 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 363 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 364 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 365 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 366 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 367 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 368 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 369 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 370 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 371 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 372 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 373 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 374 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 375 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 376 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 377 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 378 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 379 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 380 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 381 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 382 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 383 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 384 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 385 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 386 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 387 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 388 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 389 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 390 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 391 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 392 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 393 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 394 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 395 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 396 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 397 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 398 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 399 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 400 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 401 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 402 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 403 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 404 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 405 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 406 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 407 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 408 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 409 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 410 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 411 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 412 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 413 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 414 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 415 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 416 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 417 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 418 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 419 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 420 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 421 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 422 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 423 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 424 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 425 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 426 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 427 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 428 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 429 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 430 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 431 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 432 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 433 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 434 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 435 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 436 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 437 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 438 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 439 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 440 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 441 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 442 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 443 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 444 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 445 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 446 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 447 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 448 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 449 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 450 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 451 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 452 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 453 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 454 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 455 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 456 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 457 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 458 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 459 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 460 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 461 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 462 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 463 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 464 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 465 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 466 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 467 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 468 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 469 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 470 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 471 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 472 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 473 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 474 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 475 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 476 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 477 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 478 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 479 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 480 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 481 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 482 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 483 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 484 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 485 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 486 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 487 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 488 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 489 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 490 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 491 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 492 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 493 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 494 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 495 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 496 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 497 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 498 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 499 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 500 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 501 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 502 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 503 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 504 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 505 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 506 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 507 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 508 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 509 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 510 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 511 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 512 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 513 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 514 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 515 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 516 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 517 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 518 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 519 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 520 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 521 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 522 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 523 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 524 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 525 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 526 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 527 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 528 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 529 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 530 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 531 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 532 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 533 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 534 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 535 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 536 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 537 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 538 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 539 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 540 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 541 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 542 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 543 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 544 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 545 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 546 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 547 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 548 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 549 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 550 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 551 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 552 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 553 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 554 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 555 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 556 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 557 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 558 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 559 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 560 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 561 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 562 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 563 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 564 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 565 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 566 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 567 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 568 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 569 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 570 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 571 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 572 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 573 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 574 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 575 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 576 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 577 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 578 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 579 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 580 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 581 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 582 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 583 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 584 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 585 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 586 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 587 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 588 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 589 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 590 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 591 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 592 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 593 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 594 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 595 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 596 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 597 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 598 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
@@ -3004,357 +3004,357 @@
 	holding = tribal_holding
 }
 602 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 603 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 604 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 605 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 606 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 607 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 608 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 609 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 610 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 611 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 612 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 613 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 614 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 615 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 616 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 617 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 618 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 619 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 620 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 621 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 622 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 623 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 624 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 625 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 626 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 627 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 628 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 629 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 630 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 631 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 632 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 633 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 634 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 635 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 636 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 637 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 638 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 639 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 640 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 641 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 642 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 643 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 644 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 645 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 646 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 647 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 648 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 649 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 650 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 651 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 652 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 653 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 654 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 655 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 656 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 657 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 658 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 659 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 660 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 661 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 662 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 663 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 664 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 665 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 666 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 667 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 668 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 669 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 670 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 671 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 672 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
@@ -3364,4907 +3364,4907 @@
 	holding = tribal_holding
 }
 674 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 675 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 676 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 677 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 678 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 679 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 680 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 681 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 682 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 683 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 684 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 685 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 686 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 687 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 688 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 689 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 690 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 691 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 692 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 693 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 694 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 695 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 696 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 697 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 698 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 699 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 700 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 701 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 702 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 703 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 704 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 705 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 706 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 707 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 708 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 709 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 710 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 711 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 712 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 713 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 714 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 715 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 716 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 717 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 718 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 719 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 720 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 721 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 722 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 723 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 724 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 725 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 726 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 727 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 728 = {
-	culture = norse
+	culture = wyandot
 	religion = animist
 	holding = tribal_holding
 }
 729 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 730 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 731 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 732 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 733 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 734 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 735 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 736 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 737 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 738 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 739 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 740 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 741 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 742 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 743 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 744 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 745 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 746 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 747 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 748 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 749 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 750 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 751 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 752 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 753 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 754 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 755 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 756 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 757 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 758 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 759 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 760 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 761 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 762 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 763 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 764 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 765 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 766 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 767 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 768 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 769 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 770 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 771 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 772 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 773 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 774 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 775 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 776 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 777 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 778 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 779 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 780 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 781 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 782 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 783 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 784 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 785 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 786 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 787 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 788 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 789 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 790 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 791 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 792 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 793 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 794 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 795 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 796 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 797 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 798 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 799 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 800 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 801 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 802 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 803 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 804 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 805 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 806 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 807 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 808 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 809 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 810 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 811 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 812 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 813 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 814 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 815 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 816 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 817 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 818 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 819 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 820 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 821 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 822 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 823 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 824 = {
-	culture = norse
+	culture = michigan
 	religion = animist
 	holding = tribal_holding
 }
 825 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 826 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 827 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 828 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 829 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 830 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 831 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 832 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 833 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 834 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 835 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 836 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 837 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 838 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 839 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 840 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 841 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 842 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 843 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 844 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 845 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 846 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 847 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 848 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 849 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 850 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 851 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 852 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 853 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 854 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 855 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 856 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 857 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 858 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 859 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 860 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 861 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 862 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 863 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 864 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 865 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 866 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 867 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 868 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 869 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 870 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 871 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 872 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 873 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 874 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 875 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 876 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 877 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 878 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 879 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 880 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 881 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 882 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 883 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 884 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 885 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 886 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 887 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 888 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 889 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 890 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 891 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 892 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 893 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 894 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 895 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 896 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 897 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 898 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 899 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 900 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 901 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 902 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 903 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 904 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 905 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 906 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 907 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 908 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 909 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 910 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 911 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 912 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 913 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 914 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 915 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 916 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 917 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 918 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 919 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 920 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 921 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 922 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 923 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 924 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 925 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 926 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 927 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 928 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 929 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 930 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 931 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 932 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 933 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 934 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 935 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 936 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 937 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 938 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 939 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 940 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 941 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 942 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 943 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 944 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 945 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 946 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 947 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 948 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 949 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 950 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 951 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 952 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 953 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 954 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 955 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 956 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 957 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 958 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 959 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 960 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 961 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 962 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 963 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 964 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 965 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 966 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 967 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 968 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 969 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 970 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 971 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 972 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 973 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 974 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 975 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 976 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 977 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 978 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 979 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 980 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 981 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 982 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 983 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 984 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 985 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 986 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 987 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 988 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 989 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 990 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 991 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 992 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 993 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 994 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 995 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 996 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 997 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 998 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 999 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1000 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1001 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1002 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1003 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1004 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1005 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1006 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1007 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1008 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1009 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1010 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1011 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1012 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1013 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1014 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1015 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 1016 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 1017 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 1018 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 1019 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1020 = {
-	culture = norse
+	culture = ohio
 	religion = animist
 	holding = tribal_holding
 }
 1021 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1022 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1023 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1024 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1025 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1026 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1027 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1028 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1029 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1030 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1031 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1032 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1033 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1034 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1035 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1036 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1037 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1038 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1039 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1040 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1041 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1042 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1043 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1044 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1045 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1046 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1047 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1048 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1049 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1050 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1051 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1052 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1053 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1054 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1055 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1056 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1057 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1058 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1059 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1060 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1061 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1062 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1063 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1064 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1065 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1066 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1067 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1068 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1069 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1070 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1071 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1072 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1073 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1074 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1075 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1076 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1077 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1078 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1079 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1080 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1081 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1082 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1083 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1084 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1085 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1086 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1087 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1088 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1089 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1090 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1091 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1092 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1093 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1094 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1095 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1096 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1097 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1098 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1099 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1100 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1101 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1102 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1103 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1104 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1105 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1106 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1107 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1108 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1109 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1110 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1111 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1112 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1113 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1114 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1115 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1116 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1117 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1118 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1119 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1120 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1121 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1122 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1123 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1124 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1125 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1126 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1127 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1128 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1129 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1130 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1131 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1132 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1133 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1134 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1135 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1136 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1137 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1138 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1139 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1140 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1141 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1142 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1143 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1144 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1145 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1146 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1147 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1148 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1149 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1150 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1151 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1152 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1153 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1154 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1155 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1156 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1157 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1158 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1159 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1160 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1161 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1162 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1163 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1164 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1165 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1166 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1167 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1168 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1169 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1170 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1171 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1172 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1173 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1174 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1175 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1176 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1177 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1178 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1179 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1180 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1181 = {
-	culture = norse
+	culture = caddoan
 	religion = animist
 	holding = tribal_holding
 }
 1182 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1183 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1184 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1185 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1186 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1187 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1188 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1189 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1190 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1191 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1192 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1193 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1194 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1195 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1196 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1197 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1198 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1199 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1200 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1201 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1202 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1203 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1204 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1205 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1206 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1207 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1208 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1209 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1210 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1211 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1212 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1213 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1214 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1215 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1216 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1217 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1218 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1219 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1220 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1221 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1222 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1223 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1224 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1225 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1226 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1227 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1228 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1229 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1230 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1231 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1232 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1233 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1234 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1235 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1236 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1237 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1238 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1239 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1240 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1241 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1242 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1243 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1244 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1245 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1246 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1247 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1248 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1249 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1250 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1251 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1252 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1253 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1254 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1255 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1256 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1257 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1258 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1259 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1260 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1261 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1262 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1263 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1264 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1265 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1266 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1267 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1268 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1269 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1270 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1271 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1272 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1273 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1274 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1275 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1276 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1277 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1278 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1279 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1280 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1281 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1282 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1283 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1284 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1285 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1286 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1287 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1288 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1289 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1290 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1291 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1292 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1293 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1294 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1295 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1296 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1297 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1298 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1299 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1300 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1301 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1302 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1303 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1304 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1305 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1306 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1307 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1308 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 1309 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1310 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1311 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1312 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1313 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1314 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1315 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1316 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1317 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1318 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1319 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1320 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1321 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1322 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1323 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1324 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1325 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1326 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1327 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1328 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1329 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1330 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1331 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1332 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1333 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1334 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1335 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1336 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1337 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1338 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1339 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1340 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1341 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1342 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1343 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1344 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1345 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1346 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1347 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1348 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1349 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1350 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1351 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1352 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1353 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1354 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1355 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1356 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1357 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1358 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1359 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1360 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1361 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1362 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1363 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1364 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1365 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1366 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1367 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1368 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1369 = {
-	culture = norse
+	culture = dakota
 	religion = animist
 	holding = tribal_holding
 }
 1370 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1371 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1372 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1373 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1374 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1375 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1376 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1377 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1378 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1379 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1380 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1381 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1382 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1383 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1384 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1385 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1386 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1387 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1388 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1389 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1390 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1391 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1392 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1393 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1394 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1395 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1396 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1397 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1398 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1399 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 1400 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1401 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1402 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1403 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1404 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1405 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1406 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1407 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1408 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1409 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1410 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1411 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1412 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1413 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1414 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1415 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1416 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1417 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1418 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1419 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1420 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1421 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1422 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1423 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1424 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1425 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1426 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1427 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1428 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1429 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1430 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1431 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1432 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1433 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1434 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1435 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1436 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1437 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1438 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1439 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1440 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1441 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1442 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1443 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1444 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1445 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1446 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1447 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1448 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1449 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1450 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1451 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1452 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1453 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1454 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1455 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1456 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1457 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1458 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1459 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1460 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1461 = {
 	culture = seneca
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1462 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1463 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1464 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1465 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1466 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1467 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1468 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1469 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1470 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1471 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1472 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1473 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1474 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1475 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1476 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1477 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1478 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1479 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1480 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1481 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1482 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1483 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1484 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1485 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1486 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1487 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1488 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1489 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1490 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1491 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1492 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1493 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1494 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1495 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1496 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1497 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1498 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1499 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1500 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1501 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1502 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1503 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1504 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1505 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1506 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1507 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1508 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1509 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1510 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1511 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1512 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1513 = {
-	culture = norse
+	culture = monongahela
 	religion = animist
 	holding = tribal_holding
 }
 1514 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1515 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1516 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1517 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1518 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1519 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1520 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1521 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1522 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1523 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1524 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1525 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1526 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1527 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1528 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1529 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1530 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1531 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1532 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1533 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1534 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1535 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1536 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1537 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1538 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1539 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1540 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1541 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1542 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1543 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1544 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1545 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1546 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1547 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1548 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1549 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1550 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1551 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1552 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1553 = {
-	culture = norse
+	culture = powhatan
 	religion = animist
 	holding = tribal_holding
 }
 1554 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1555 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1556 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1557 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1558 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1559 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1560 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1561 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1562 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1563 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1564 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1565 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1566 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1567 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1568 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1569 = {
-	culture = norse
+	culture = nanticoke
 	religion = animist
 	holding = tribal_holding
 }
 1570 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1571 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1572 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1573 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1574 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1575 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1576 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1577 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1578 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1579 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1580 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1581 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1582 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1583 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1584 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1585 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1586 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1587 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1588 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1589 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1590 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1591 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1592 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1593 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1594 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1595 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1596 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1597 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1598 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1599 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1600 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1601 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1602 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1603 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1604 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1605 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1606 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1607 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1608 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1609 = {
 	culture = cayuga
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1610 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1611 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1612 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1613 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1614 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1615 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1616 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1617 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1618 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1619 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1620 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1621 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1622 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1623 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1624 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1625 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1626 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1627 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1628 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1629 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1630 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1631 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1632 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1633 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1634 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1635 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1636 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1637 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1638 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1639 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1640 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1641 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1642 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1643 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1644 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1645 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1646 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1647 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1648 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1649 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1650 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1651 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1652 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1653 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1654 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
@@ -8279,52 +8279,52 @@
 	holding = tribal_holding
 }
 1657 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1658 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1659 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1660 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1661 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1662 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1663 = {
-	culture = norse
+	culture = abanaki
 	religion = animist
 	holding = tribal_holding
 }
 1664 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1665 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1666 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
@@ -8379,162 +8379,162 @@
 	holding = tribal_holding
 }
 1677 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1678 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1679 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1680 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1681 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1682 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1683 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1684 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1685 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1686 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 1687 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1688 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1689 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1690 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1691 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1692 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1693 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1694 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1695 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1696 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1697 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1698 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1699 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1700 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1701 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1702 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1703 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1704 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1705 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1706 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1707 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1708 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
@@ -8554,22 +8554,22 @@
 	holding = tribal_holding
 }
 1712 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1713 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1714 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1715 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
@@ -8604,42 +8604,42 @@
 	holding = tribal_holding
 }
 1722 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1723 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1724 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1725 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1726 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1727 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1728 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
 1729 = {
-	culture = norse
+	culture = massachusett
 	religion = animist
 	holding = tribal_holding
 }
@@ -8674,32 +8674,32 @@
 	holding = tribal_holding
 }
 1736 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1737 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1738 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1739 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1740 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1741 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
@@ -8734,67 +8734,67 @@
 	holding = tribal_holding
 }
 1748 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1749 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1750 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1751 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1752 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1753 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1754 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1755 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1756 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1757 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1758 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1759 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1760 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
@@ -8809,67 +8809,67 @@
 	holding = tribal_holding
 }
 1763 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1764 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1765 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1766 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1767 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1768 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1769 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1770 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1771 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1772 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1773 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1774 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
 1775 = {
-	culture = norse
+	culture = penobscot
 	religion = animist
 	holding = tribal_holding
 }
@@ -9024,37 +9024,37 @@
 	holding = tribal_holding
 }
 1806 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1807 = {
-	culture = norse
+	culture = maliseet
 	religion = animist
 	holding = tribal_holding
 }
 1808 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1809 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1810 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1811 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1812 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
@@ -9074,17 +9074,17 @@
 	holding = tribal_holding
 }
 1816 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1817 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
 1818 = {
-	culture = norse
+	culture = mikmaq
 	religion = animist
 	holding = tribal_holding
 }
@@ -9565,26 +9565,26 @@
 }
 1914 = {
 	culture = mohawk
-	religion = animist
+	religion = iroquois
 	holding = tribal_holding
 }
 1915 = {
-	culture = norse
+	culture = lenape
 	religion = animist
 	holding = tribal_holding
 }
 2184 = {
-	culture = norse
+	culture = oneota
 	religion = animist
 	holding = tribal_holding
 }
 2185 = {
-	culture = norse
+	culture = middle_miss
 	religion = animist
 	holding = tribal_holding
 }
 2186 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }

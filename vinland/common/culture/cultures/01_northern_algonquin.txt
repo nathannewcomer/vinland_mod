@@ -1,0 +1,340 @@
+northern_algonquin_group= {
+	graphical_cultures = {
+		steppe_building_gfx
+		steppe_coa_gfx
+		mongol_clothing_gfx
+		mongol_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_place_horde" }
+		{ name = "mercenary_company_army_under_the_sky" }
+		{ name = "mercenary_company_mongolic_riders_of_place" }
+		{ name = "mercenary_company_true_khans_faithful" }
+		{ name = "mercenary_company_company_of_the_yurt" }
+		{ name = "mercenary_company_mongolic_riders_of_place" }
+		{ name = "mercenary_company_steppe_dancers_band" }
+		{ name = "mercenary_company_mongolic_riders_of_place" }
+		{ name = "mercenary_company_chastisement_of_place" }
+		{ name = "mercenary_company_mongolic_riders_of_place" }
+		{ name = "mercenary_company_band_of_the_father" }
+		{ name = "mercenary_company_company_of_the_goad" }
+		{ name = "mercenary_company_mongolic_riders_of_place" }
+	}
+
+	# Newfoundland
+	beothuk = {
+		
+		color = { 1.0 0.2 0.1 }
+
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+
+		dynasty_names = {
+			"dynn_Sartaq"
+			"dynn_Mengu-Timur"
+			"dynn_Timurid"
+			"dynn_Uriankhai"
+			"dynn_Bujakhin"
+			"dynn_Besud"
+			"dynn_Noyan"
+			"dynn_Jochid"
+			"dynn_Chagatayid"
+			"dynn_Borjigin"
+			"dynn_Chupanid"
+			"dynn_Injuid"
+			"dynn_Toluid"
+			"dynn_Ganbold"
+			"dynn_Bolormaa"
+			"dynn_Otgonbayar"
+			"dynn_Enkhtuyaa"
+			"dynn_Gantulga"
+			"dynn_LkhagvasU_ren"
+			"dynn_Enkhjargal"
+			"dynn_Ganzorig"
+			"dynn_Narantsetseg"
+			"dynn_PU_revsU_ren"
+			"dynn_Ganbaatar"
+			"dynn_MO_nkhtsetseg"
+			"dynn_MO_nkhbat"
+			"dynn_MO_nkh-Erdene"
+			"dynn_Jalair"
+			"dynn_Sartuul"
+			"dynn_Olkhunut"
+			"dynn_Khatagin"
+			"dynn_Iljigin"
+			"dynn_Tsookhor"
+			"dynn_Onggirat"
+			"dynn_Onggirat"
+			"dynn_Khunggirad"
+			"dynn_Mergid"
+			"dynn_Telingid"
+			"dynn_Borjigin"
+			"dynn_Aralkum"
+			"dynn_Dana"
+			"dynn_AqtO_be"
+			"dynn_Bailjar"
+			"dynn_Kaztal"
+			"dynn_Pecha"
+			"dynn_Kangly"
+			"dynn_Jadaran"
+			"dynn_Baarin"
+			"dynn_Bargujin"
+			"dynn_Borogchin"
+			"dynn_Mongoljin"
+			"dynn_Quralas"
+			#"dynn_Uvas_Mergid"
+			"dynn_Tatar"
+			"dynn_ZU_bU_"
+			"dynn_Ikheres"
+			"dynn_Eljigin"
+			"dynn_Bairam"
+			"dynn_Orduk"
+			"dynn_Arpardi"
+			"dynn_Barlas"
+			"dynn_Khorchi"
+			"dynn_Qaraunas"
+			"dynn_Arlat"
+			"dynn_Dughlat"
+			"dynn_Kereyit"
+			"dynn_Begchik"
+			"dynn_Sunit"
+			"dynn_Keshmiti"
+			"dynn_Uduyid"
+			"dynn_Uvas"
+			"dynn_Khaad"
+			"dynn_Khalka"
+		}
+
+		male_names = {
+			# real
+			Nonosbasut
+
+			# words in their language that could be names
+			Ashooging Washawet Gwashuwet Obditch Bashoodite Maudzyke Woodch Aenameen Thubathew Dapathook Methabeet Berroick Methie Bobboosoret Osweet Mammasamit Emoethook
+			Iwish Mattuis Koorae Washewch Ahune Wasemook Momau Trawnasoo Dewis Petothorish Ebauthoo Moisamadrook Wadawhegh
+		}
+		female_names = {
+			# real
+			Oubee Shanawdithit Demasduit
+
+			# words that could be names
+			Maumshet Mamshet Paushee Deynyad Deynyadrook Popadish Bodchmoot Bemoot Obodish Abidesoot Anin Yewone Jiggamint Bedoret Whoishme Madabooch Kuus Odemen Egibiduish
+			Puthuauth Causabow Shawwayet Zebathoong Imamus Wasumaweeseek
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+
+		ethnicities = {
+			10 = asian
+		}
+	}
+
+	innu = {
+		
+		color = { 1.0 0.2 0.1 }
+
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+
+		dynasty_names = {
+			"dynn_Sartaq"
+			"dynn_Mengu-Timur"
+			"dynn_Timurid"
+			"dynn_Uriankhai"
+			"dynn_Bujakhin"
+			"dynn_Besud"
+			"dynn_Noyan"
+			"dynn_Jochid"
+			"dynn_Chagatayid"
+			"dynn_Borjigin"
+			"dynn_Chupanid"
+			"dynn_Injuid"
+			"dynn_Toluid"
+			"dynn_Ganbold"
+			"dynn_Bolormaa"
+			"dynn_Otgonbayar"
+			"dynn_Enkhtuyaa"
+			"dynn_Gantulga"
+			"dynn_LkhagvasU_ren"
+			"dynn_Enkhjargal"
+			"dynn_Ganzorig"
+			"dynn_Narantsetseg"
+			"dynn_PU_revsU_ren"
+			"dynn_Ganbaatar"
+			"dynn_MO_nkhtsetseg"
+			"dynn_MO_nkhbat"
+			"dynn_MO_nkh-Erdene"
+			"dynn_Jalair"
+			"dynn_Sartuul"
+			"dynn_Olkhunut"
+			"dynn_Khatagin"
+			"dynn_Iljigin"
+			"dynn_Tsookhor"
+			"dynn_Onggirat"
+			"dynn_Onggirat"
+			"dynn_Khunggirad"
+			"dynn_Mergid"
+			"dynn_Telingid"
+			"dynn_Borjigin"
+			"dynn_Aralkum"
+			"dynn_Dana"
+			"dynn_AqtO_be"
+			"dynn_Bailjar"
+			"dynn_Kaztal"
+			"dynn_Pecha"
+			"dynn_Kangly"
+			"dynn_Jadaran"
+			"dynn_Baarin"
+			"dynn_Bargujin"
+			"dynn_Borogchin"
+			"dynn_Mongoljin"
+			"dynn_Quralas"
+			#"dynn_Uvas_Mergid"
+			"dynn_Tatar"
+			"dynn_ZU_bU_"
+			"dynn_Ikheres"
+			"dynn_Eljigin"
+			"dynn_Bairam"
+			"dynn_Orduk"
+			"dynn_Arpardi"
+			"dynn_Barlas"
+			"dynn_Khorchi"
+			"dynn_Qaraunas"
+			"dynn_Arlat"
+			"dynn_Dughlat"
+			"dynn_Kereyit"
+			"dynn_Begchik"
+			"dynn_Sunit"
+			"dynn_Keshmiti"
+			"dynn_Uduyid"
+			"dynn_Uvas"
+			"dynn_Khaad"
+			"dynn_Khalka"
+		}
+
+		male_names = {
+			todo
+		}
+		female_names = {
+			# real
+			Oubee Shanawdithit
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+
+		ethnicities = {
+			10 = asian
+		}
+	}
+	
+	# Broadly Ontario
+	ojibwe = {
+		
+		color = { 0.2 0.7 0.2 }
+
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+
+		dynasty_names = {
+			"dynn_Sartaq"
+			"dynn_Mengu-Timur"
+			"dynn_Timurid"
+			"dynn_Uriankhai"
+			"dynn_Bujakhin"
+			"dynn_Besud"
+			"dynn_Noyan"
+			"dynn_Jochid"
+			"dynn_Chagatayid"
+			"dynn_Borjigin"
+			"dynn_Chupanid"
+			"dynn_Injuid"
+			"dynn_Toluid"
+			"dynn_Ganbold"
+			"dynn_Bolormaa"
+			"dynn_Otgonbayar"
+			"dynn_Enkhtuyaa"
+			"dynn_Gantulga"
+			"dynn_LkhagvasU_ren"
+			"dynn_Enkhjargal"
+			"dynn_Ganzorig"
+			"dynn_Narantsetseg"
+			"dynn_PU_revsU_ren"
+			"dynn_Ganbaatar"
+			"dynn_MO_nkhtsetseg"
+			"dynn_MO_nkhbat"
+			"dynn_MO_nkh-Erdene"
+			"dynn_Jalair"
+			"dynn_Sartuul"
+			"dynn_Olkhunut"
+			"dynn_Khatagin"
+			"dynn_Iljigin"
+			"dynn_Tsookhor"
+			"dynn_Onggirat"
+			"dynn_Onggirat"
+			"dynn_Khunggirad"
+			"dynn_Mergid"
+			"dynn_Telingid"
+			"dynn_Borjigin"
+			"dynn_Aralkum"
+			"dynn_Dana"
+			"dynn_AqtO_be"
+			"dynn_Bailjar"
+			"dynn_Kaztal"
+			"dynn_Pecha"
+			"dynn_Kangly"
+			"dynn_Jadaran"
+			"dynn_Baarin"
+			"dynn_Bargujin"
+			"dynn_Borogchin"
+			"dynn_Mongoljin"
+			"dynn_Quralas"
+			#"dynn_Uvas_Mergid"
+			"dynn_Tatar"
+			"dynn_ZU_bU_"
+			"dynn_Ikheres"
+			"dynn_Eljigin"
+			"dynn_Bairam"
+			"dynn_Orduk"
+			"dynn_Arpardi"
+			"dynn_Barlas"
+			"dynn_Khorchi"
+			"dynn_Qaraunas"
+			"dynn_Arlat"
+			"dynn_Dughlat"
+			"dynn_Kereyit"
+			"dynn_Begchik"
+			"dynn_Sunit"
+			"dynn_Keshmiti"
+			"dynn_Uduyid"
+			"dynn_Uvas"
+			"dynn_Khaad"
+			"dynn_Khalka"
+		}
+
+		male_names = {
+			# Real names
+			Asiginaak Giiwedin Maa’ingan Makade Makwa Nimkii Noodin Waabshkaande Anang Kechewaishke Makwa Nodin Sabe Wabanquot Wenabozho Winabojo Zheewegonab
+		}
+		female_names = {
+			# Real names
+			Daanis Daunis Kishkedee Mishiiminens Omagakiins Zaagaasikwe Naawakwegiizhigokwe Aanakwadikwe Nakoma Okimaskew Ontonagon Thanadelthur 
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+
+		ethnicities = {
+			10 = asian
+		}
+	}
+}
