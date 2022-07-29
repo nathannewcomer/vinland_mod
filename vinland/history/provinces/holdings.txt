@@ -6,12 +6,12 @@
 2 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 3 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 4 = {
 	culture = beothuk
@@ -21,12 +21,12 @@
 5 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 6 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 7 = {
 	culture = beothuk
@@ -36,12 +36,12 @@
 8 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 9 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 10 = {
 	culture = beothuk
@@ -51,12 +51,12 @@
 11 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 12 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 13 = {
 	culture = beothuk
@@ -66,7 +66,7 @@
 14 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 15 = {
 	culture = beothuk
@@ -76,22 +76,22 @@
 16 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 17 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 18 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 19 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 20 = {
 	culture = beothuk
@@ -106,22 +106,22 @@
 22 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 23 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 24 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 25 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 26 = {
 	culture = beothuk
@@ -131,7 +131,7 @@
 27 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 28 = {
 	culture = innu
@@ -141,7 +141,7 @@
 29 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 30 = {
 	culture = innu
@@ -151,12 +151,12 @@
 31 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 32 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 33 = {
 	culture = innu
@@ -166,22 +166,22 @@
 34 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 35 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 36 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 37 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 38 = {
 	culture = innu
@@ -191,12 +191,12 @@
 39 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 40 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 41 = {
 	culture = innu
@@ -206,32 +206,32 @@
 42 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 43 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 44 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 45 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 46 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 47 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 48 = {
 	culture = innu
@@ -246,32 +246,32 @@
 50 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 51 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 52 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 53 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 54 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 55 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 56 = {
 	culture = innu
@@ -281,7 +281,7 @@
 57 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 58 = {
 	culture = innu
@@ -291,22 +291,22 @@
 59 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 60 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 61 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 62 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 63 = {
 	culture = innu
@@ -316,7 +316,7 @@
 64 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 65 = {
 	culture = innu
@@ -326,32 +326,32 @@
 66 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 67 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 68 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 69 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 70 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 71 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 72 = {
 	culture = innu
@@ -361,7 +361,7 @@
 73 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 74 = {
 	culture = innu
@@ -371,27 +371,27 @@
 75 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 76 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 77 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 78 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 79 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 80 = {
 	culture = innu
@@ -401,22 +401,22 @@
 81 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 82 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 83 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 84 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 85 = {
 	culture = innu
@@ -426,17 +426,17 @@
 86 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 87 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 88 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 89 = {
 	culture = innu
@@ -446,22 +446,22 @@
 90 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 91 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 92 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 93 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 94 = {
 	culture = innu
@@ -471,22 +471,22 @@
 95 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 96 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 97 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 98 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 99 = {
 	culture = innu
@@ -496,17 +496,17 @@
 100 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 101 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 102 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 103 = {
 	culture = ojibwe
@@ -516,7 +516,7 @@
 104 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 105 = {
 	culture = ojibwe
@@ -526,17 +526,17 @@
 106 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 107 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 108 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 109 = {
 	culture = ojibwe
@@ -546,22 +546,22 @@
 110 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 111 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 112 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 113 = {
 	culture = innu
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 114 = {
 	culture = ojibwe
@@ -571,17 +571,17 @@
 115 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 116 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 117 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 118 = {
 	culture = ojibwe
@@ -596,37 +596,37 @@
 120 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 121 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 122 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 123 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 124 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 125 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 126 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 127 = {
 	culture = ojibwe
@@ -636,17 +636,17 @@
 128 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 129 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 130 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 131 = {
 	culture = ojibwe
@@ -656,12 +656,12 @@
 132 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 133 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 134 = {
 	culture = ojibwe
@@ -671,7 +671,7 @@
 135 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 136 = {
 	culture = ojibwe
@@ -681,7 +681,7 @@
 137 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 138 = {
 	culture = ojibwe
@@ -691,47 +691,47 @@
 139 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 140 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 141 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 142 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 143 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 144 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 145 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 146 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 147 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 148 = {
 	culture = ojibwe
@@ -741,7 +741,7 @@
 149 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 150 = {
 	culture = ojibwe
@@ -751,7 +751,7 @@
 151 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 152 = {
 	culture = ojibwe
@@ -761,27 +761,27 @@
 153 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 154 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 155 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 156 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 157 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 158 = {
 	culture = ojibwe
@@ -791,12 +791,12 @@
 159 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 160 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 161 = {
 	culture = ojibwe
@@ -806,12 +806,12 @@
 162 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 163 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 164 = {
 	culture = ojibwe
@@ -821,7 +821,7 @@
 165 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 166 = {
 	culture = ojibwe
@@ -831,17 +831,17 @@
 167 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 168 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 169 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 170 = {
 	culture = ojibwe
@@ -851,32 +851,32 @@
 171 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 172 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 173 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 174 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 175 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 176 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 177 = {
 	culture = ojibwe
@@ -886,32 +886,32 @@
 178 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 179 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 180 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 181 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 182 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 183 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 184 = {
 	culture = ojibwe
@@ -921,27 +921,27 @@
 185 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 186 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 187 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 188 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 189 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 190 = {
 	culture = ojibwe
@@ -951,12 +951,12 @@
 191 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 192 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 193 = {
 	culture = ojibwe
@@ -966,17 +966,17 @@
 194 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 195 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 196 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 197 = {
 	culture = ojibwe
@@ -986,22 +986,22 @@
 198 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 199 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 200 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 201 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 202 = {
 	culture = ojibwe
@@ -1011,17 +1011,17 @@
 203 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 204 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 205 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 206 = {
 	culture = ojibwe
@@ -1031,12 +1031,12 @@
 207 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 208 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 209 = {
 	culture = ojibwe
@@ -1046,22 +1046,22 @@
 210 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 211 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 212 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 213 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 214 = {
 	culture = ojibwe
@@ -1071,52 +1071,52 @@
 215 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 216 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 217 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 218 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 219 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 220 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 221 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 222 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 223 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 224 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 225 = {
 	culture = ojibwe
@@ -1126,12 +1126,12 @@
 226 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 227 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 228 = {
 	culture = ojibwe
@@ -1141,17 +1141,17 @@
 229 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 230 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 231 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 232 = {
 	culture = ojibwe
@@ -1161,12 +1161,12 @@
 233 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 234 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 235 = {
 	culture = ojibwe
@@ -1176,37 +1176,37 @@
 236 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 237 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 238 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 239 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 240 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 241 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 242 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 243 = {
 	culture = ojibwe
@@ -1216,17 +1216,17 @@
 244 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 245 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 246 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 247 = {
 	culture = ojibwe
@@ -1236,17 +1236,17 @@
 248 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 249 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 250 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 251 = {
 	culture = ojibwe
@@ -1256,7 +1256,7 @@
 252 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 253 = {
 	culture = ojibwe
@@ -1266,37 +1266,37 @@
 254 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 255 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 256 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 257 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 258 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 259 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 260 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 261 = {
 	culture = ojibwe
@@ -1306,22 +1306,22 @@
 262 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 263 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 264 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 265 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 266 = {
 	culture = ojibwe
@@ -1331,12 +1331,12 @@
 267 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 268 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 269 = {
 	culture = wyandot
@@ -1344,14 +1344,14 @@
 	holding = tribal_holding
 }
 270 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 271 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 272 = {
 	culture = ojibwe
@@ -1361,12 +1361,12 @@
 273 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 274 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 275 = {
 	culture = ojibwe
@@ -1376,12 +1376,12 @@
 276 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 277 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 278 = {
 	culture = ojibwe
@@ -1391,17 +1391,17 @@
 279 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 280 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 281 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 282 = {
 	culture = ojibwe
@@ -1411,47 +1411,47 @@
 283 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 284 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 285 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 286 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 287 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 288 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 289 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 290 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 291 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 292 = {
 	culture = ojibwe
@@ -1461,7 +1461,7 @@
 293 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 294 = {
 	culture = ojibwe
@@ -1471,17 +1471,17 @@
 295 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 296 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 297 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 298 = {
 	culture = ojibwe
@@ -1491,27 +1491,27 @@
 299 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 300 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 301 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 302 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 303 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 304 = {
 	culture = ojibwe
@@ -1519,24 +1519,24 @@
 	holding = tribal_holding
 }
 305 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 306 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 307 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 308 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 309 = {
 	culture = ojibwe
@@ -1546,32 +1546,32 @@
 310 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 311 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 312 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 313 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 314 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 315 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 316 = {
 	culture = ojibwe
@@ -1581,22 +1581,22 @@
 317 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 318 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 319 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 320 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 321 = {
 	culture = ojibwe
@@ -1606,12 +1606,12 @@
 322 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 323 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 324 = {
 	culture = ojibwe
@@ -1621,47 +1621,47 @@
 325 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 326 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 327 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 328 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 329 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 330 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 331 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 332 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 333 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 334 = {
 	culture = ojibwe
@@ -1671,12 +1671,12 @@
 335 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 336 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 337 = {
 	culture = ojibwe
@@ -1686,17 +1686,17 @@
 338 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 339 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 340 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 341 = {
 	culture = ojibwe
@@ -1706,17 +1706,17 @@
 342 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 343 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 344 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 345 = {
 	culture = ojibwe
@@ -1726,22 +1726,22 @@
 346 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 347 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 348 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 349 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 350 = {
 	culture = ojibwe
@@ -1751,12 +1751,12 @@
 351 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 352 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 353 = {
 	culture = ojibwe
@@ -1766,47 +1766,47 @@
 354 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 355 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 356 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 357 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 358 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 359 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 360 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 361 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 362 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 363 = {
 	culture = ojibwe
@@ -1821,7 +1821,7 @@
 365 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 366 = {
 	culture = ojibwe
@@ -1831,52 +1831,52 @@
 367 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 368 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 369 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 370 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 371 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 372 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 373 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 374 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 375 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 376 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 377 = {
 	culture = ojibwe
@@ -1886,12 +1886,12 @@
 378 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 379 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 380 = {
 	culture = ojibwe
@@ -1901,12 +1901,12 @@
 381 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 382 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 383 = {
 	culture = ojibwe
@@ -1916,17 +1916,17 @@
 384 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 385 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 386 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 387 = {
 	culture = ojibwe
@@ -1936,22 +1936,22 @@
 388 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 389 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 390 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 391 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 392 = {
 	culture = ojibwe
@@ -1961,12 +1961,12 @@
 393 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 394 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 395 = {
 	culture = ojibwe
@@ -1976,17 +1976,17 @@
 396 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 397 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 398 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 399 = {
 	culture = ojibwe
@@ -2001,27 +2001,27 @@
 401 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 402 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 403 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 404 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 405 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 406 = {
 	culture = ojibwe
@@ -2031,42 +2031,42 @@
 407 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 408 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 409 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 410 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 411 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 412 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 413 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 414 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 415 = {
 	culture = ojibwe
@@ -2076,32 +2076,32 @@
 416 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 417 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 418 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 419 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 420 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 421 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 422 = {
 	culture = ojibwe
@@ -2111,12 +2111,12 @@
 423 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 424 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 425 = {
 	culture = ojibwe
@@ -2126,7 +2126,7 @@
 426 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 427 = {
 	culture = dakota
@@ -2136,22 +2136,22 @@
 428 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 429 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 430 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 431 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 432 = {
 	culture = ojibwe
@@ -2161,17 +2161,17 @@
 433 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 434 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 435 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 436 = {
 	culture = ojibwe
@@ -2181,22 +2181,22 @@
 437 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 438 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 439 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 440 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 441 = {
 	culture = ojibwe
@@ -2206,7 +2206,7 @@
 442 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 443 = {
 	culture = ojibwe
@@ -2216,27 +2216,27 @@
 444 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 445 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 446 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 447 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 448 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 449 = {
 	culture = ojibwe
@@ -2246,17 +2246,17 @@
 450 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 451 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 452 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 453 = {
 	culture = ojibwe
@@ -2266,22 +2266,22 @@
 454 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 455 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 456 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 457 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 458 = {
 	culture = ojibwe
@@ -2291,57 +2291,57 @@
 459 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 460 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 461 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 462 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 463 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 464 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 465 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 466 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 467 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 468 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 469 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 470 = {
 	culture = dakota
@@ -2356,12 +2356,12 @@
 472 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 473 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 474 = {
 	culture = dakota
@@ -2371,12 +2371,12 @@
 475 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 476 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 477 = {
 	culture = dakota
@@ -2391,47 +2391,47 @@
 479 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 480 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 481 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 482 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 483 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 484 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 485 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 486 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 487 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 488 = {
 	culture = dakota
@@ -2441,17 +2441,17 @@
 489 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 490 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 491 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 492 = {
 	culture = dakota
@@ -2461,7 +2461,7 @@
 493 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 494 = {
 	culture = dakota
@@ -2471,12 +2471,12 @@
 495 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 496 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 497 = {
 	culture = dakota
@@ -2486,12 +2486,12 @@
 498 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 499 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 500 = {
 	culture = dakota
@@ -2501,22 +2501,22 @@
 501 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 502 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 503 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 504 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 505 = {
 	culture = dakota
@@ -2526,17 +2526,17 @@
 506 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 507 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 508 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 509 = {
 	culture = dakota
@@ -2546,17 +2546,17 @@
 510 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 511 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 512 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 513 = {
 	culture = dakota
@@ -2566,7 +2566,7 @@
 514 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 515 = {
 	culture = dakota
@@ -2576,27 +2576,27 @@
 516 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 517 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 518 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 519 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 520 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 521 = {
 	culture = dakota
@@ -2611,27 +2611,27 @@
 523 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 524 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 525 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 526 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 527 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 528 = {
 	culture = dakota
@@ -2641,22 +2641,22 @@
 529 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 530 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 531 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 532 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 533 = {
 	culture = dakota
@@ -2666,27 +2666,27 @@
 534 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 535 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 536 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 537 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 538 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 539 = {
 	culture = oneota
@@ -2706,7 +2706,7 @@
 542 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 543 = {
 	culture = oneota
@@ -2716,27 +2716,27 @@
 544 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 545 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 546 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 547 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 548 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 549 = {
 	culture = oneota
@@ -2746,12 +2746,12 @@
 550 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 551 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 552 = {
 	culture = oneota
@@ -2761,7 +2761,7 @@
 553 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 554 = {
 	culture = oneota
@@ -2771,12 +2771,12 @@
 555 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 556 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 557 = {
 	culture = oneota
@@ -2786,17 +2786,17 @@
 558 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 559 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 560 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 561 = {
 	culture = oneota
@@ -2806,22 +2806,22 @@
 562 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 563 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 564 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 565 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 566 = {
 	culture = oneota
@@ -2836,17 +2836,17 @@
 568 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 569 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 570 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 571 = {
 	culture = oneota
@@ -2856,12 +2856,12 @@
 572 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 573 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 574 = {
 	culture = michigan
@@ -2871,27 +2871,27 @@
 575 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 576 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 577 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 578 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 579 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 580 = {
 	culture = michigan
@@ -2906,27 +2906,27 @@
 582 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 583 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 584 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 585 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 586 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 587 = {
 	culture = michigan
@@ -2936,17 +2936,17 @@
 588 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 589 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 590 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 591 = {
 	culture = michigan
@@ -2956,7 +2956,7 @@
 592 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 593 = {
 	culture = michigan
@@ -2966,17 +2966,17 @@
 594 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 595 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 596 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 597 = {
 	culture = michigan
@@ -2986,32 +2986,32 @@
 598 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 599 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
 	holding = tribal_holding
 }
 600 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 601 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 602 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 603 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 604 = {
 	culture = wyandot
@@ -3021,7 +3021,7 @@
 605 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 606 = {
 	culture = wyandot
@@ -3036,12 +3036,12 @@
 608 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 609 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 610 = {
 	culture = wyandot
@@ -3051,12 +3051,12 @@
 611 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 612 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 613 = {
 	culture = wyandot
@@ -3066,7 +3066,7 @@
 614 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 615 = {
 	culture = wyandot
@@ -3076,12 +3076,12 @@
 616 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 617 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 618 = {
 	culture = wyandot
@@ -3091,27 +3091,27 @@
 619 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 620 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 621 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 622 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 623 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 624 = {
 	culture = wyandot
@@ -3126,12 +3126,12 @@
 626 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 627 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 628 = {
 	culture = wyandot
@@ -3141,7 +3141,7 @@
 629 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 630 = {
 	culture = wyandot
@@ -3151,32 +3151,32 @@
 631 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 632 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 633 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 634 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 635 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 636 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 637 = {
 	culture = wyandot
@@ -3186,27 +3186,27 @@
 638 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 639 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 640 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 641 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 642 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 643 = {
 	culture = wyandot
@@ -3216,22 +3216,22 @@
 644 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 645 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 646 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 647 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 648 = {
 	culture = wyandot
@@ -3241,47 +3241,47 @@
 649 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 650 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 651 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 652 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 653 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 654 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 655 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 656 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 657 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 658 = {
 	culture = wyandot
@@ -3291,7 +3291,7 @@
 659 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 660 = {
 	culture = wyandot
@@ -3301,17 +3301,17 @@
 661 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 662 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 663 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 664 = {
 	culture = wyandot
@@ -3321,22 +3321,22 @@
 665 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 666 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 667 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 668 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 669 = {
 	culture = wyandot
@@ -3351,47 +3351,47 @@
 671 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 672 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 673 = {
-	culture = norse
+	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 674 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 675 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 676 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 677 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 678 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 679 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 680 = {
 	culture = wyandot
@@ -3401,32 +3401,32 @@
 681 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 682 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 683 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 684 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 685 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 686 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 687 = {
 	culture = wyandot
@@ -3436,7 +3436,7 @@
 688 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 689 = {
 	culture = wyandot
@@ -3446,7 +3446,7 @@
 690 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 691 = {
 	culture = wyandot
@@ -3456,12 +3456,12 @@
 692 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 693 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 694 = {
 	culture = wyandot
@@ -3471,37 +3471,37 @@
 695 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 696 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 697 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 698 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 699 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 700 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 701 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 702 = {
 	culture = wyandot
@@ -3511,7 +3511,7 @@
 703 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 704 = {
 	culture = wyandot
@@ -3521,7 +3521,7 @@
 705 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 706 = {
 	culture = wyandot
@@ -3536,32 +3536,32 @@
 708 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 709 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 710 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 711 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 712 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 713 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 714 = {
 	culture = wyandot
@@ -3571,7 +3571,7 @@
 715 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 716 = {
 	culture = wyandot
@@ -3581,7 +3581,7 @@
 717 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 718 = {
 	culture = wyandot
@@ -3591,27 +3591,27 @@
 719 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 720 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 721 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 722 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 723 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 724 = {
 	culture = wyandot
@@ -3621,12 +3621,12 @@
 725 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 726 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 727 = {
 	culture = wyandot
@@ -3636,7 +3636,7 @@
 728 = {
 	culture = wyandot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 729 = {
 	culture = michigan
@@ -3646,12 +3646,12 @@
 730 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 731 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 732 = {
 	culture = michigan
@@ -3661,17 +3661,17 @@
 733 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 734 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 735 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 736 = {
 	culture = michigan
@@ -3681,7 +3681,7 @@
 737 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 738 = {
 	culture = michigan
@@ -3691,7 +3691,7 @@
 739 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 740 = {
 	culture = michigan
@@ -3706,27 +3706,27 @@
 742 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 743 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 744 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 745 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 746 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 747 = {
 	culture = michigan
@@ -3736,12 +3736,12 @@
 748 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 749 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 750 = {
 	culture = michigan
@@ -3751,27 +3751,27 @@
 751 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 752 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 753 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 754 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 755 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 756 = {
 	culture = michigan
@@ -3781,12 +3781,12 @@
 757 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 758 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 759 = {
 	culture = michigan
@@ -3796,17 +3796,17 @@
 760 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 761 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 762 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 763 = {
 	culture = michigan
@@ -3816,17 +3816,17 @@
 764 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 765 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 766 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 767 = {
 	culture = michigan
@@ -3836,17 +3836,17 @@
 768 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 769 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 770 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 771 = {
 	culture = michigan
@@ -3856,17 +3856,17 @@
 772 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 773 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 774 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 775 = {
 	culture = michigan
@@ -3876,7 +3876,7 @@
 776 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 777 = {
 	culture = michigan
@@ -3891,27 +3891,27 @@
 779 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 780 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 781 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 782 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 783 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 784 = {
 	culture = michigan
@@ -3921,12 +3921,12 @@
 785 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 786 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 787 = {
 	culture = michigan
@@ -3936,37 +3936,37 @@
 788 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 789 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 790 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 791 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 792 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 793 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 794 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 795 = {
 	culture = michigan
@@ -3976,17 +3976,17 @@
 796 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 797 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 798 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 799 = {
 	culture = michigan
@@ -3996,12 +3996,12 @@
 800 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 801 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 802 = {
 	culture = michigan
@@ -4011,7 +4011,7 @@
 803 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 804 = {
 	culture = michigan
@@ -4021,17 +4021,17 @@
 805 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 806 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 807 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 808 = {
 	culture = michigan
@@ -4041,12 +4041,12 @@
 809 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 810 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 811 = {
 	culture = michigan
@@ -4056,27 +4056,27 @@
 812 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 813 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 814 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 815 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 816 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 817 = {
 	culture = michigan
@@ -4086,37 +4086,37 @@
 818 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 819 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 820 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 821 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 822 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 823 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 824 = {
 	culture = michigan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 825 = {
 	culture = middle_miss
@@ -4126,12 +4126,12 @@
 826 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 827 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 828 = {
 	culture = middle_miss
@@ -4141,7 +4141,7 @@
 829 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 830 = {
 	culture = ohio
@@ -4151,7 +4151,7 @@
 831 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 832 = {
 	culture = ohio
@@ -4161,7 +4161,7 @@
 833 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 834 = {
 	culture = ohio
@@ -4171,12 +4171,12 @@
 835 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 836 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 837 = {
 	culture = ohio
@@ -4186,12 +4186,12 @@
 838 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 839 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 840 = {
 	culture = monongahela
@@ -4206,12 +4206,12 @@
 842 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 843 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 844 = {
 	culture = ohio
@@ -4221,7 +4221,7 @@
 845 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 846 = {
 	culture = ohio
@@ -4236,22 +4236,22 @@
 848 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 849 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 850 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 851 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 852 = {
 	culture = ohio
@@ -4261,37 +4261,37 @@
 853 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 854 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 855 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 856 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 857 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 858 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 859 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 860 = {
 	culture = middle_miss
@@ -4301,7 +4301,7 @@
 861 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 862 = {
 	culture = oneota
@@ -4316,7 +4316,7 @@
 864 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 865 = {
 	culture = middle_miss
@@ -4326,12 +4326,12 @@
 866 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 867 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 868 = {
 	culture = middle_miss
@@ -4341,12 +4341,12 @@
 869 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 870 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 871 = {
 	culture = ohio
@@ -4356,7 +4356,7 @@
 872 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 873 = {
 	culture = ohio
@@ -4366,7 +4366,7 @@
 874 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 875 = {
 	culture = ohio
@@ -4376,22 +4376,22 @@
 876 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 877 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 878 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 879 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 880 = {
 	culture = ohio
@@ -4401,22 +4401,22 @@
 881 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 882 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 883 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 884 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 885 = {
 	culture = ohio
@@ -4426,12 +4426,12 @@
 886 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 887 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 888 = {
 	culture = ohio
@@ -4441,27 +4441,27 @@
 889 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 890 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 891 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 892 = {
-	culture = oneota
+	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 893 = {
-	culture = oneota
+	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 894 = {
 	culture = ohio
@@ -4476,7 +4476,7 @@
 896 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 897 = {
 	culture = ohio
@@ -4491,27 +4491,27 @@
 899 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 900 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 901 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 902 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 903 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 904 = {
 	culture = ohio
@@ -4526,37 +4526,37 @@
 906 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 907 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 908 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 909 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 910 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 911 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 912 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 913 = {
 	culture = ohio
@@ -4566,7 +4566,7 @@
 914 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 915 = {
 	culture = ohio
@@ -4576,17 +4576,17 @@
 916 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 917 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 918 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 919 = {
 	culture = ohio
@@ -4596,7 +4596,7 @@
 920 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 921 = {
 	culture = ohio
@@ -4606,27 +4606,27 @@
 922 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 923 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 924 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 925 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 926 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 927 = {
 	culture = oneota
@@ -4636,12 +4636,12 @@
 928 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 929 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 930 = {
 	culture = middle_miss
@@ -4651,12 +4651,12 @@
 931 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 932 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 933 = {
 	culture = middle_miss
@@ -4666,7 +4666,7 @@
 934 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 935 = {
 	culture = middle_miss
@@ -4676,17 +4676,17 @@
 936 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 937 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 938 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 939 = {
 	culture = oneota
@@ -4696,22 +4696,22 @@
 940 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 941 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 942 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 943 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 944 = {
 	culture = middle_miss
@@ -4721,27 +4721,27 @@
 945 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 946 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 947 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 948 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 949 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 950 = {
 	culture = middle_miss
@@ -4751,22 +4751,22 @@
 951 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 952 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 953 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 954 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 955 = {
 	culture = middle_miss
@@ -4781,27 +4781,27 @@
 957 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 958 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 959 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 960 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 961 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 962 = {
 	culture = middle_miss
@@ -4811,17 +4811,17 @@
 963 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 964 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 965 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 966 = {
 	culture = middle_miss
@@ -4831,17 +4831,17 @@
 967 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 968 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 969 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 970 = {
 	culture = middle_miss
@@ -4851,22 +4851,22 @@
 971 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 972 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 973 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 974 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 975 = {
 	culture = middle_miss
@@ -4876,17 +4876,17 @@
 976 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 977 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 978 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 979 = {
 	culture = oneota
@@ -4896,32 +4896,32 @@
 980 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 981 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 982 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 983 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 984 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 985 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 986 = {
 	culture = middle_miss
@@ -4931,32 +4931,32 @@
 987 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 988 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 989 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 990 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 991 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 992 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 993 = {
 	culture = middle_miss
@@ -4966,7 +4966,7 @@
 994 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 995 = {
 	culture = middle_miss
@@ -4976,12 +4976,12 @@
 996 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 997 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 998 = {
 	culture = middle_miss
@@ -4991,22 +4991,22 @@
 999 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1000 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1001 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1002 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1003 = {
 	culture = middle_miss
@@ -5016,22 +5016,22 @@
 1004 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1005 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1006 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1007 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1008 = {
 	culture = middle_miss
@@ -5041,32 +5041,32 @@
 1009 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1010 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1011 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1012 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1013 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1014 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1015 = {
 	culture = ohio
@@ -5076,27 +5076,27 @@
 1016 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1017 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1018 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1019 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1020 = {
 	culture = ohio
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1021 = {
 	culture = middle_miss
@@ -5106,12 +5106,12 @@
 1022 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1023 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1024 = {
 	culture = middle_miss
@@ -5121,17 +5121,17 @@
 1025 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1026 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1027 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1028 = {
 	culture = middle_miss
@@ -5146,17 +5146,17 @@
 1030 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1031 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1032 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1033 = {
 	culture = middle_miss
@@ -5166,7 +5166,7 @@
 1034 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1035 = {
 	culture = middle_miss
@@ -5176,12 +5176,12 @@
 1036 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1037 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1038 = {
 	culture = middle_miss
@@ -5191,17 +5191,17 @@
 1039 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1040 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1041 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1042 = {
 	culture = middle_miss
@@ -5211,7 +5211,7 @@
 1043 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1044 = {
 	culture = middle_miss
@@ -5221,12 +5221,12 @@
 1045 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1046 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1047 = {
 	culture = middle_miss
@@ -5236,17 +5236,17 @@
 1048 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1049 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1050 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1051 = {
 	culture = middle_miss
@@ -5256,7 +5256,7 @@
 1052 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1053 = {
 	culture = middle_miss
@@ -5266,12 +5266,12 @@
 1054 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1055 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1056 = {
 	culture = middle_miss
@@ -5281,22 +5281,22 @@
 1057 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1058 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1059 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1060 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1061 = {
 	culture = monongahela
@@ -5306,7 +5306,7 @@
 1062 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1063 = {
 	culture = monongahela
@@ -5316,32 +5316,32 @@
 1064 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1065 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1066 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1067 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1068 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1069 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1070 = {
 	culture = monongahela
@@ -5351,12 +5351,12 @@
 1071 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1072 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1073 = {
 	culture = monongahela
@@ -5366,12 +5366,12 @@
 1074 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1075 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1076 = {
 	culture = monongahela
@@ -5386,12 +5386,12 @@
 1078 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1079 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1080 = {
 	culture = monongahela
@@ -5401,47 +5401,47 @@
 1081 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1082 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1083 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1084 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1085 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1086 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1087 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1088 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1089 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1090 = {
 	culture = monongahela
@@ -5456,42 +5456,42 @@
 1092 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1093 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1094 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1095 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1096 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1097 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1098 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1099 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1100 = {
 	culture = monongahela
@@ -5506,12 +5506,12 @@
 1102 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1103 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1104 = {
 	culture = caddoan
@@ -5526,12 +5526,12 @@
 1106 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1107 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1108 = {
 	culture = caddoan
@@ -5541,22 +5541,22 @@
 1109 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1110 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1111 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1112 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1113 = {
 	culture = caddoan
@@ -5566,22 +5566,22 @@
 1114 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1115 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1116 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1117 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1118 = {
 	culture = caddoan
@@ -5591,17 +5591,17 @@
 1119 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1120 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1121 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1122 = {
 	culture = caddoan
@@ -5611,17 +5611,17 @@
 1123 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1124 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1125 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1126 = {
 	culture = caddoan
@@ -5631,22 +5631,22 @@
 1127 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1128 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1129 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1130 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1131 = {
 	culture = caddoan
@@ -5656,7 +5656,7 @@
 1132 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1133 = {
 	culture = caddoan
@@ -5666,17 +5666,17 @@
 1134 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1135 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1136 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1137 = {
 	culture = caddoan
@@ -5686,47 +5686,47 @@
 1138 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1139 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1140 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1141 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1142 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1143 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1144 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1145 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1146 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1147 = {
 	culture = caddoan
@@ -5736,12 +5736,12 @@
 1148 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1149 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1150 = {
 	culture = caddoan
@@ -5751,12 +5751,12 @@
 1151 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1152 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1153 = {
 	culture = caddoan
@@ -5766,7 +5766,7 @@
 1154 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1155 = {
 	culture = caddoan
@@ -5776,22 +5776,22 @@
 1156 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1157 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1158 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1159 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1160 = {
 	culture = caddoan
@@ -5801,7 +5801,7 @@
 1161 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1162 = {
 	culture = caddoan
@@ -5811,42 +5811,42 @@
 1163 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1164 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1165 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1166 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1167 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1168 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1169 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1170 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1171 = {
 	culture = caddoan
@@ -5856,12 +5856,12 @@
 1172 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1173 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1174 = {
 	culture = oneota
@@ -5871,17 +5871,17 @@
 1175 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1176 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1177 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1178 = {
 	culture = caddoan
@@ -5891,7 +5891,7 @@
 1179 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1180 = {
 	culture = oneota
@@ -5901,7 +5901,7 @@
 1181 = {
 	culture = caddoan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1182 = {
 	culture = oneota
@@ -5911,22 +5911,22 @@
 1183 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1184 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1185 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1186 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1187 = {
 	culture = oneota
@@ -5936,47 +5936,47 @@
 1188 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1189 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1190 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1191 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1192 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1193 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1194 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1195 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1196 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1197 = {
 	culture = oneota
@@ -5986,17 +5986,17 @@
 1198 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1199 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1200 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1201 = {
 	culture = oneota
@@ -6011,37 +6011,37 @@
 1203 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1204 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1205 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1206 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1207 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1208 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1209 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1210 = {
 	culture = oneota
@@ -6051,17 +6051,17 @@
 1211 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1212 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1213 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1214 = {
 	culture = oneota
@@ -6071,17 +6071,17 @@
 1215 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1216 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1217 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1218 = {
 	culture = oneota
@@ -6091,22 +6091,22 @@
 1219 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1220 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1221 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1222 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1223 = {
 	culture = oneota
@@ -6116,22 +6116,22 @@
 1224 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1225 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1226 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1227 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1228 = {
 	culture = oneota
@@ -6141,17 +6141,17 @@
 1229 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1230 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1231 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1232 = {
 	culture = oneota
@@ -6161,12 +6161,12 @@
 1233 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1234 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1235 = {
 	culture = oneota
@@ -6176,7 +6176,7 @@
 1236 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1237 = {
 	culture = dakota
@@ -6186,7 +6186,7 @@
 1238 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1239 = {
 	culture = oneota
@@ -6196,17 +6196,17 @@
 1240 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1241 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1242 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1243 = {
 	culture = oneota
@@ -6216,22 +6216,22 @@
 1244 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1245 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1246 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1247 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1248 = {
 	culture = oneota
@@ -6241,12 +6241,12 @@
 1249 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1250 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1251 = {
 	culture = oneota
@@ -6256,27 +6256,27 @@
 1252 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1253 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1254 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1255 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1256 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1257 = {
 	culture = oneota
@@ -6286,42 +6286,42 @@
 1258 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1259 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1260 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1261 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1262 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1263 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1264 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1265 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1266 = {
 	culture = dakota
@@ -6336,42 +6336,42 @@
 1268 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1269 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1270 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1271 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1272 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1273 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1274 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1275 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1276 = {
 	culture = oneota
@@ -6386,12 +6386,12 @@
 1278 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1279 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1280 = {
 	culture = oneota
@@ -6401,17 +6401,17 @@
 1281 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1282 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1283 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1284 = {
 	culture = oneota
@@ -6421,12 +6421,12 @@
 1285 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1286 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1287 = {
 	culture = oneota
@@ -6436,12 +6436,12 @@
 1288 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1289 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1290 = {
 	culture = oneota
@@ -6456,7 +6456,7 @@
 1292 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1293 = {
 	culture = oneota
@@ -6466,12 +6466,12 @@
 1294 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1295 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1296 = {
 	culture = middle_miss
@@ -6481,7 +6481,7 @@
 1297 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1298 = {
 	culture = middle_miss
@@ -6491,27 +6491,27 @@
 1299 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1300 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1301 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1302 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1303 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1304 = {
 	culture = middle_miss
@@ -6521,22 +6521,22 @@
 1305 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1306 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1307 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1308 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1309 = {
 	culture = oneota
@@ -6546,32 +6546,32 @@
 1310 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1311 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1312 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1313 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1314 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1315 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1316 = {
 	culture = oneota
@@ -6581,47 +6581,47 @@
 1317 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1318 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1319 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1320 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1321 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1322 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1323 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1324 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1325 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1326 = {
 	culture = oneota
@@ -6631,12 +6631,12 @@
 1327 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1328 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1329 = {
 	culture = oneota
@@ -6646,7 +6646,7 @@
 1330 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1331 = {
 	culture = oneota
@@ -6661,7 +6661,7 @@
 1333 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1334 = {
 	culture = oneota
@@ -6671,62 +6671,62 @@
 1335 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1336 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1337 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1338 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1339 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1340 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1341 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1342 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1343 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1344 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1345 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1346 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1347 = {
 	culture = oneota
@@ -6736,12 +6736,12 @@
 1348 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1349 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1350 = {
 	culture = oneota
@@ -6751,17 +6751,17 @@
 1351 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1352 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1353 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1354 = {
 	culture = oneota
@@ -6771,12 +6771,12 @@
 1355 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1356 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1357 = {
 	culture = oneota
@@ -6786,7 +6786,7 @@
 1358 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1359 = {
 	culture = oneota
@@ -6796,42 +6796,42 @@
 1360 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1361 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1362 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1363 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1364 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1365 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1366 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1367 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1368 = {
 	culture = oneota
@@ -6841,47 +6841,47 @@
 1369 = {
 	culture = dakota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1370 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1371 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1372 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1373 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1374 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1375 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1376 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1377 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1378 = {
 	culture = oneota
@@ -6891,7 +6891,7 @@
 1379 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1380 = {
 	culture = oneota
@@ -6901,32 +6901,32 @@
 1381 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1382 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1383 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1384 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1385 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1386 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1387 = {
 	culture = oneota
@@ -6936,7 +6936,7 @@
 1388 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1389 = {
 	culture = oneota
@@ -6946,12 +6946,12 @@
 1390 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1391 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1392 = {
 	culture = oneota
@@ -6961,7 +6961,7 @@
 1393 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1394 = {
 	culture = oneota
@@ -6971,32 +6971,32 @@
 1395 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1396 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1397 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1398 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1399 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1400 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1401 = {
 	culture = monongahela
@@ -7006,7 +7006,7 @@
 1402 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1403 = {
 	culture = seneca
@@ -7021,7 +7021,7 @@
 1405 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1406 = {
 	culture = seneca
@@ -7031,12 +7031,12 @@
 1407 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1408 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1409 = {
 	culture = seneca
@@ -7046,7 +7046,7 @@
 1410 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1411 = {
 	culture = mohawk
@@ -7061,7 +7061,7 @@
 1413 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1414 = {
 	culture = cayuga
@@ -7071,12 +7071,12 @@
 1415 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1416 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1417 = {
 	culture = seneca
@@ -7086,42 +7086,42 @@
 1418 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1419 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1420 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1421 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1422 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1423 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1424 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1425 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1426 = {
 	culture = monongahela
@@ -7131,17 +7131,17 @@
 1427 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1428 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1429 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1430 = {
 	culture = monongahela
@@ -7151,12 +7151,12 @@
 1431 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1432 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1433 = {
 	culture = monongahela
@@ -7171,12 +7171,12 @@
 1435 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1436 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1437 = {
 	culture = seneca
@@ -7186,7 +7186,7 @@
 1438 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1439 = {
 	culture = seneca
@@ -7196,7 +7196,7 @@
 1440 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1441 = {
 	culture = monongahela
@@ -7206,27 +7206,27 @@
 1442 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1443 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1444 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1445 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1446 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1447 = {
 	culture = seneca
@@ -7236,7 +7236,7 @@
 1448 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1449 = {
 	culture = lenape
@@ -7246,22 +7246,22 @@
 1450 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1451 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1452 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1453 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1454 = {
 	culture = cayuga
@@ -7271,37 +7271,37 @@
 1455 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1456 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1457 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1458 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1459 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1460 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1461 = {
 	culture = seneca
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1462 = {
 	culture = cayuga
@@ -7311,12 +7311,12 @@
 1463 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1464 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1465 = {
 	culture = lenape
@@ -7326,77 +7326,77 @@
 1466 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1467 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1468 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1469 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1470 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1471 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1472 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1473 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1474 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1475 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1476 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1477 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1478 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1479 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1480 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1481 = {
 	culture = monongahela
@@ -7411,27 +7411,27 @@
 1483 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1484 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1485 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1486 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1487 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1488 = {
 	culture = powhatan
@@ -7441,7 +7441,7 @@
 1489 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1490 = {
 	culture = powhatan
@@ -7451,12 +7451,12 @@
 1491 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1492 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1493 = {
 	culture = powhatan
@@ -7466,7 +7466,7 @@
 1494 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1495 = {
 	culture = powhatan
@@ -7481,47 +7481,47 @@
 1497 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1498 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1499 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1500 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1501 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1502 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1503 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1504 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1505 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1506 = {
 	culture = powhatan
@@ -7531,12 +7531,12 @@
 1507 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1508 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1509 = {
 	culture = powhatan
@@ -7551,27 +7551,27 @@
 1511 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1512 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1513 = {
 	culture = monongahela
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1514 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1515 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1516 = {
 	culture = powhatan
@@ -7581,12 +7581,12 @@
 1517 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1518 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1519 = {
 	culture = powhatan
@@ -7596,7 +7596,7 @@
 1520 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1521 = {
 	culture = powhatan
@@ -7606,42 +7606,42 @@
 1522 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1523 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1524 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1525 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1526 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1527 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1528 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1529 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1530 = {
 	culture = powhatan
@@ -7651,12 +7651,12 @@
 1531 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1532 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1533 = {
 	culture = powhatan
@@ -7666,12 +7666,12 @@
 1534 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1535 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1536 = {
 	culture = powhatan
@@ -7681,7 +7681,7 @@
 1537 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1538 = {
 	culture = powhatan
@@ -7691,37 +7691,37 @@
 1539 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1540 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1541 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1542 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1543 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1544 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1545 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1546 = {
 	culture = powhatan
@@ -7731,12 +7731,12 @@
 1547 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1548 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1549 = {
 	culture = lenape
@@ -7746,27 +7746,27 @@
 1550 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1551 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1552 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1553 = {
 	culture = powhatan
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1554 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1555 = {
 	culture = lenape
@@ -7781,7 +7781,7 @@
 1557 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1558 = {
 	culture = nanticoke
@@ -7791,7 +7791,7 @@
 1559 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1560 = {
 	culture = nanticoke
@@ -7801,22 +7801,22 @@
 1561 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1562 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1563 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1564 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1565 = {
 	culture = nanticoke
@@ -7826,27 +7826,27 @@
 1566 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1567 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1568 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1569 = {
 	culture = nanticoke
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1570 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1571 = {
 	culture = lenape
@@ -7856,7 +7856,7 @@
 1572 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1573 = {
 	culture = lenape
@@ -7866,7 +7866,7 @@
 1574 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1575 = {
 	culture = lenape
@@ -7876,32 +7876,32 @@
 1576 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1577 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1578 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1579 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1580 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1581 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1582 = {
 	culture = lenape
@@ -7911,12 +7911,12 @@
 1583 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1584 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1585 = {
 	culture = lenape
@@ -7926,27 +7926,27 @@
 1586 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1587 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1588 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1589 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1590 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1591 = {
 	culture = lenape
@@ -7956,22 +7956,22 @@
 1592 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1593 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1594 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1595 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1596 = {
 	culture = lenape
@@ -7981,7 +7981,7 @@
 1597 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1598 = {
 	culture = lenape
@@ -7991,37 +7991,37 @@
 1599 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1600 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1601 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1602 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1603 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1604 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1605 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1606 = {
 	culture = cayuga
@@ -8031,17 +8031,17 @@
 1607 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1608 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1609 = {
 	culture = cayuga
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1610 = {
 	culture = mohawk
@@ -8051,17 +8051,17 @@
 1611 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1612 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1613 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1614 = {
 	culture = mohawk
@@ -8071,12 +8071,12 @@
 1615 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1616 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1617 = {
 	culture = mohawk
@@ -8086,27 +8086,27 @@
 1618 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1619 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1620 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1621 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1622 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1623 = {
 	culture = mohawk
@@ -8121,37 +8121,37 @@
 1625 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1626 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1627 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1628 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1629 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1630 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1631 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1632 = {
 	culture = mohawk
@@ -8161,7 +8161,7 @@
 1633 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1634 = {
 	culture = mohawk
@@ -8171,12 +8171,12 @@
 1635 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1636 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1637 = {
 	culture = mohawk
@@ -8186,42 +8186,42 @@
 1638 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1639 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1640 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1641 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1642 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1643 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1644 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1645 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1646 = {
 	culture = mohawk
@@ -8231,7 +8231,7 @@
 1647 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1648 = {
 	culture = mohawk
@@ -8241,22 +8241,22 @@
 1649 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1650 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1651 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1652 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1653 = {
 	culture = abanaki
@@ -8266,7 +8266,7 @@
 1654 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1655 = {
 	culture = abanaki
@@ -8276,17 +8276,17 @@
 1656 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1657 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1658 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1659 = {
 	culture = abanaki
@@ -8296,12 +8296,12 @@
 1660 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1661 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1662 = {
 	culture = penobscot
@@ -8311,17 +8311,17 @@
 1663 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1664 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1665 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1666 = {
 	culture = penobscot
@@ -8331,7 +8331,7 @@
 1667 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1668 = {
 	culture = abanaki
@@ -8341,17 +8341,17 @@
 1669 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1670 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1671 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1672 = {
 	culture = abanaki
@@ -8366,7 +8366,7 @@
 1674 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1675 = {
 	culture = abanaki
@@ -8376,7 +8376,7 @@
 1676 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1677 = {
 	culture = massachusett
@@ -8386,17 +8386,17 @@
 1678 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1679 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1680 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1681 = {
 	culture = massachusett
@@ -8406,12 +8406,12 @@
 1682 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1683 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1684 = {
 	culture = lenape
@@ -8421,17 +8421,17 @@
 1685 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1686 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1687 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1688 = {
 	culture = massachusett
@@ -8441,7 +8441,7 @@
 1689 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1690 = {
 	culture = massachusett
@@ -8461,32 +8461,32 @@
 1693 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1694 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1695 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1696 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1697 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1698 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1699 = {
 	culture = massachusett
@@ -8496,7 +8496,7 @@
 1700 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1701 = {
 	culture = massachusett
@@ -8511,37 +8511,37 @@
 1703 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1704 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1705 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1706 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1707 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1708 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1709 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1710 = {
 	culture = abanaki
@@ -8551,7 +8551,7 @@
 1711 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1712 = {
 	culture = massachusett
@@ -8561,22 +8561,22 @@
 1713 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1714 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1715 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1716 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1717 = {
 	culture = abanaki
@@ -8586,22 +8586,22 @@
 1718 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1719 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1720 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1721 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1722 = {
 	culture = massachusett
@@ -8616,12 +8616,12 @@
 1724 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1725 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1726 = {
 	culture = penobscot
@@ -8631,17 +8631,17 @@
 1727 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1728 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1729 = {
 	culture = massachusett
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1730 = {
 	culture = abanaki
@@ -8651,37 +8651,37 @@
 1731 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1732 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1733 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1734 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1735 = {
 	culture = abanaki
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1736 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1737 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1738 = {
 	culture = penobscot
@@ -8691,17 +8691,17 @@
 1739 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1740 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1741 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1742 = {
 	culture = maliseet
@@ -8711,7 +8711,7 @@
 1743 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1744 = {
 	culture = maliseet
@@ -8721,47 +8721,47 @@
 1745 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1746 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1747 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1748 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1749 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1750 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1751 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1752 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1753 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1754 = {
 	culture = penobscot
@@ -8771,12 +8771,12 @@
 1755 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1756 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1757 = {
 	culture = maliseet
@@ -8786,7 +8786,7 @@
 1758 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1759 = {
 	culture = maliseet
@@ -8796,7 +8796,7 @@
 1760 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1761 = {
 	culture = maliseet
@@ -8811,17 +8811,17 @@
 1763 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1764 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1765 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1766 = {
 	culture = penobscot
@@ -8831,27 +8831,27 @@
 1767 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1768 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1769 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1770 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1771 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1772 = {
 	culture = penobscot
@@ -8861,17 +8861,17 @@
 1773 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1774 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1775 = {
 	culture = penobscot
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1776 = {
 	culture = maliseet
@@ -8881,32 +8881,32 @@
 1777 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1778 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1779 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1780 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1781 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1782 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1783 = {
 	culture = maliseet
@@ -8921,17 +8921,17 @@
 1785 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1786 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1787 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1788 = {
 	culture = maliseet
@@ -8941,17 +8941,17 @@
 1789 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1790 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1791 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1792 = {
 	culture = maliseet
@@ -8961,27 +8961,27 @@
 1793 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1794 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1795 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1796 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1797 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1798 = {
 	culture = mikmaq
@@ -8991,17 +8991,17 @@
 1799 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1800 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1801 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1802 = {
 	culture = mikmaq
@@ -9011,17 +9011,17 @@
 1803 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1804 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1805 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1806 = {
 	culture = mikmaq
@@ -9031,17 +9031,17 @@
 1807 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1808 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1809 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1810 = {
 	culture = mikmaq
@@ -9051,12 +9051,12 @@
 1811 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1812 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1813 = {
 	culture = mikmaq
@@ -9066,7 +9066,7 @@
 1814 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1815 = {
 	culture = mikmaq
@@ -9076,17 +9076,17 @@
 1816 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1817 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1818 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1819 = {
 	culture = mikmaq
@@ -9096,12 +9096,12 @@
 1820 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1821 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1822 = {
 	culture = mikmaq
@@ -9111,22 +9111,22 @@
 1823 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1824 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1825 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1826 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1827 = {
 	culture = mikmaq
@@ -9136,22 +9136,22 @@
 1828 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1829 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1830 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1831 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1832 = {
 	culture = mikmaq
@@ -9161,27 +9161,27 @@
 1833 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1834 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1835 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1836 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1837 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1838 = {
 	culture = mikmaq
@@ -9191,42 +9191,42 @@
 1839 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1840 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1841 = {
 	culture = maliseet
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1842 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1843 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1844 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1845 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1846 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1847 = {
 	culture = mikmaq
@@ -9236,17 +9236,17 @@
 1848 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1849 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1850 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1851 = {
 	culture = mikmaq
@@ -9256,7 +9256,7 @@
 1852 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1853 = {
 	culture = mikmaq
@@ -9266,12 +9266,12 @@
 1854 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1855 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1856 = {
 	culture = mikmaq
@@ -9281,27 +9281,27 @@
 1857 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1858 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1859 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1860 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1861 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1862 = {
 	culture = mikmaq
@@ -9311,27 +9311,27 @@
 1863 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1864 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1865 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1866 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1867 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1868 = {
 	culture = mikmaq
@@ -9341,12 +9341,12 @@
 1869 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1870 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1871 = {
 	culture = mikmaq
@@ -9361,7 +9361,7 @@
 1873 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1874 = {
 	culture = mikmaq
@@ -9371,17 +9371,17 @@
 1875 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1876 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1877 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1878 = {
 	culture = mikmaq
@@ -9391,17 +9391,17 @@
 1879 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1880 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1881 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1882 = {
 	culture = mikmaq
@@ -9411,17 +9411,17 @@
 1883 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1884 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1885 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1886 = {
 	culture = mikmaq
@@ -9431,12 +9431,12 @@
 1887 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1888 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1889 = {
 	culture = mikmaq
@@ -9446,22 +9446,22 @@
 1890 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1891 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1892 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1893 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1894 = {
 	culture = mikmaq
@@ -9471,17 +9471,17 @@
 1895 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1896 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1897 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1898 = {
 	culture = mikmaq
@@ -9491,17 +9491,17 @@
 1899 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1900 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1901 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1902 = {
 	culture = mikmaq
@@ -9511,22 +9511,22 @@
 1903 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1904 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1905 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1906 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1907 = {
 	culture = mikmaq
@@ -9536,12 +9536,12 @@
 1908 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1909 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1910 = {
 	culture = mikmaq
@@ -9551,40 +9551,40 @@
 1911 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1912 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1913 = {
 	culture = mikmaq
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 1914 = {
 	culture = mohawk
 	religion = iroquois
-	holding = tribal_holding
+	holding = none
 }
 1915 = {
 	culture = lenape
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 2184 = {
 	culture = oneota
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 2185 = {
 	culture = middle_miss
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
 2186 = {
 	culture = ojibwe
 	religion = animist
-	holding = tribal_holding
+	holding = none
 }
