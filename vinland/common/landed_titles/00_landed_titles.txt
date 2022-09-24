@@ -11,7 +11,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_buffalo
 			c_buffalo = {
-				color = { 0 0 0 }
+				color = { 117 218 77 }
 				color2 = { 0 0 0 }
 				b_angola = {
 					color = { 0 0 0 }
@@ -35,7 +35,7 @@ e_iroquois = {
 				}
 			}
 			c_brockport = {
-				color = { 0 0 0 }
+				color = { 86 214 83 }
 				color2 = { 0 0 0 }
 				b_niagara_falls = {
 					color = { 0 0 0 }
@@ -54,7 +54,7 @@ e_iroquois = {
 				}
 			}
 			c_rochester = {
-				color = { 0 0 0 }
+				color = { 39 100 200 }
 				color2 = { 0 0 0 }
 				b_rochester = {
 					color = { 0 0 0 }
@@ -73,7 +73,7 @@ e_iroquois = {
 				}
 			}
 			c_batavia = {
-				color = { 0 0 0 }
+				color = { 11 232 161 }
 				color2 = { 0 0 0 }
 				b_new_york_1417 = {
 					color = { 0 0 0 }
@@ -102,7 +102,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_new_york_2
 			c_fredonia = {
-				color = { 0 0 0 }
+				color = { 209 84 122 }
 				color2 = { 0 0 0 }
 				b_fredonia = {
 					color = { 0 0 0 }
@@ -121,7 +121,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_2 = {
-				color = { 0 0 0 }
+				color = { 16 246 106 }
 				color2 = { 0 0 0 }
 				b_province_1439 = {
 					color = { 0 0 0 }
@@ -145,7 +145,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_3 = {
-				color = { 0 0 0 }
+				color = { 49 47 180 }
 				color2 = { 0 0 0 }
 				b_province_1437 = {
 					color = { 0 0 0 }
@@ -169,7 +169,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_4 = {
-				color = { 0 0 0 }
+				color = { 137 90 163 }
 				color2 = { 0 0 0 }
 				b_province_1447 = {
 					color = { 0 0 0 }
@@ -198,7 +198,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_new_york_5
 			c_syracuse = {
-				color = { 0 0 0 }
+				color = { 98 92 1 }
 				color2 = { 0 0 0 }
 				b_new_york_1412 = {
 					color = { 0 0 0 }
@@ -222,7 +222,7 @@ e_iroquois = {
 				}
 			}
 			c_ithaca = {
-				color = { 0 0 0 }
+				color = { 133 16 228 }
 				color2 = { 0 0 0 }
 				b_new_york_1414 = {
 					color = { 0 0 0 }
@@ -241,7 +241,7 @@ e_iroquois = {
 				}
 			}
 			c_oneota = {
-				color = { 0 0 0 }
+				color = { 107 90 138 }
 				color2 = { 0 0 0 }
 				b_province_1606 = {
 					color = { 0 0 0 }
@@ -265,7 +265,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_5 = {
-				color = { 0 0 0 }
+				color = { 22 5 36 }
 				color2 = { 0 0 0 }
 				b_province_1454 = {
 					color = { 0 0 0 }
@@ -294,7 +294,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_6 = {
-				color = { 0 0 0 }
+				color = { 217 51 127 }
 				color2 = { 0 0 0 }
 				b_province_1462 = {
 					color = { 0 0 0 }
@@ -328,7 +328,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_boonville
 			c_watertown = {
-				color = { 0 0 0 }
+				color = { 145 37 70 }
 				color2 = { 0 0 0 }
 				b_oswego = {
 					color = { 0 0 0 }
@@ -347,7 +347,7 @@ e_iroquois = {
 				}
 			}
 			c_boonville = {
-				color = { 0 0 0 }
+				color = { 79 207 4 }
 				color2 = { 0 0 0 }
 				b_camden = {
 					color = { 0 0 0 }
@@ -376,7 +376,7 @@ e_iroquois = {
 				}
 			}
 			c_cooperstown = {
-				color = { 0 0 0 }
+				color = { 244 99 116 }
 				color2 = { 0 0 0 }
 				b_province_1610 = {
 					color = { 0 0 0 }
@@ -400,7 +400,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_9 = {
-				color = { 0 0 0 }
+				color = { 26 145 192 }
 				color2 = { 0 0 0 }
 				b_johnstown = {
 					color = { 0 0 0 }
@@ -429,7 +429,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_10 = {
-				color = { 0 0 0 }
+				color = { 170 172 80 }
 				color2 = { 0 0 0 }
 				b_ferris_lake = {
 					color = { 0 0 0 }
@@ -468,7 +468,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_24
 			c_cape_vincent = {
-				color = { 0 0 0 }
+				color = { 138 127 135 }
 				color2 = { 0 0 0 }
 				b_cape_vincent = {
 					color = { 0 0 0 }
@@ -487,7 +487,7 @@ e_iroquois = {
 				}
 			}
 			c_ogdensburg = {
-				color = { 0 0 0 }
+				color = { 22 169 12 }
 				color2 = { 0 0 0 }
 				b_philadelphia = {
 					color = { 0 0 0 }
@@ -511,7 +511,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_11 = {
-				color = { 0 0 0 }
+				color = { 37 106 141 }
 				color2 = { 0 0 0 }
 				b_belfort = {
 					color = { 0 0 0 }
@@ -540,7 +540,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_12 = {
-				color = { 0 0 0 }
+				color = { 201 16 168 }
 				color2 = { 0 0 0 }
 				b_plattsburg = {
 					color = { 0 0 0 }
@@ -564,7 +564,7 @@ e_iroquois = {
 				}
 			}
 			c_new_york_13 = {
-				color = { 0 0 0 }
+				color = { 225 60 68 }
 				color2 = { 0 0 0 }
 				b_ticonderoga = {
 					color = { 0 0 0 }
@@ -578,7 +578,7 @@ e_iroquois = {
 				}
 			}
 			c_quebec_24 = {
-				color = { 0 0 0 }
+				color = { 26 179 238 }
 				color2 = { 0 0 0 }
 				b_massena = {
 					color = { 0 0 0 }
@@ -612,7 +612,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_sarnia
 			c_windsor = {
-				color = { 0 0 0 }
+				color = { 74 164 6 }
 				color2 = { 0 0 0 }
 				b_chatham = {
 					color = { 0 0 0 }
@@ -626,7 +626,7 @@ e_iroquois = {
 				}
 			}
 			c_sarnia = {
-				color = { 0 0 0 }
+				color = { 41 132 226 }
 				color2 = { 0 0 0 }
 				b_sarnia = {
 					color = { 0 0 0 }
@@ -645,7 +645,7 @@ e_iroquois = {
 				}
 			}
 			c_london_ca = {
-				color = { 0 0 0 }
+				color = { 144 85 248 }
 				color2 = { 0 0 0 }
 				b_ontario_716 = {
 					color = { 0 0 0 }
@@ -669,7 +669,7 @@ e_iroquois = {
 				}
 			}
 			c_grand_bend = {
-				color = { 0 0 0 }
+				color = { 26 96 121 }
 				color2 = { 0 0 0 }
 				b_ontario_714 = {
 					color = { 0 0 0 }
@@ -688,7 +688,7 @@ e_iroquois = {
 				}
 			}
 			c_stratford = {
-				color = { 0 0 0 }
+				color = { 31 119 108 }
 				color2 = { 0 0 0 }
 				b_ontario_702 = {
 					color = { 0 0 0 }
@@ -712,7 +712,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_simcoe
 			c_niagara_falls = {
-				color = { 0 0 0 }
+				color = { 95 140 32 }
 				color2 = { 0 0 0 }
 				b_hamilton = {
 					color = { 0 0 0 }
@@ -726,7 +726,7 @@ e_iroquois = {
 				}
 			}
 			c_hamilton = {
-				color = { 0 0 0 }
+				color = { 97 235 61 }
 				color2 = { 0 0 0 }
 				b_mississauga = {
 					color = { 0 0 0 }
@@ -745,7 +745,7 @@ e_iroquois = {
 				}
 			}
 			c_simcoe = {
-				color = { 0 0 0 }
+				color = { 56 231 109 }
 				color2 = { 0 0 0 }
 				b_ontario_718 = {
 					color = { 0 0 0 }
@@ -764,7 +764,7 @@ e_iroquois = {
 				}
 			}
 			c_kitchener = {
-				color = { 0 0 0 }
+				color = { 228 49 146 }
 				color2 = { 0 0 0 }
 				b_ontario_704 = {
 					color = { 0 0 0 }
@@ -793,7 +793,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_owen_sound
 			c_wharton = {
-				color = { 0 0 0 }
+				color = { 210 170 20 }
 				color2 = { 0 0 0 }
 				b_ontario_691 = {
 					color = { 0 0 0 }
@@ -812,7 +812,7 @@ e_iroquois = {
 				}
 			}
 			c_kincardine = {
-				color = { 0 0 0 }
+				color = { 134 21 53 }
 				color2 = { 0 0 0 }
 				b_ontario_694 = {
 					color = { 0 0 0 }
@@ -836,7 +836,7 @@ e_iroquois = {
 				}
 			}
 			c_shelburne = {
-				color = { 0 0 0 }
+				color = { 236 222 8 }
 				color2 = { 0 0 0 }
 				b_ontario_687 = {
 					color = { 0 0 0 }
@@ -860,7 +860,7 @@ e_iroquois = {
 				}
 			}
 			c_owen_sound = {
-				color = { 0 0 0 }
+				color = { 236 125 79 }
 				color2 = { 0 0 0 }
 				b_ontario_689 = {
 					color = { 0 0 0 }
@@ -879,7 +879,7 @@ e_iroquois = {
 				}
 			}
 			c_barrie = {
-				color = { 0 0 0 }
+				color = { 42 109 76 }
 				color2 = { 0 0 0 }
 				b_ontario_680 = {
 					color = { 0 0 0 }
@@ -908,7 +908,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_toronto
 			c_toronto = {
-				color = { 0 0 0 }
+				color = { 221 242 31 }
 				color2 = { 0 0 0 }
 				b_oshawa = {
 					color = { 0 0 0 }
@@ -932,7 +932,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_3 = {
-				color = { 0 0 0 }
+				color = { 49 158 232 }
 				color2 = { 0 0 0 }
 				b_brighton = {
 					color = { 0 0 0 }
@@ -956,7 +956,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_4 = {
-				color = { 0 0 0 }
+				color = { 127 152 169 }
 				color2 = { 0 0 0 }
 				b_ontario_660 = {
 					color = { 0 0 0 }
@@ -980,7 +980,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_5 = {
-				color = { 0 0 0 }
+				color = { 81 199 54 }
 				color2 = { 0 0 0 }
 				b_greater_napanee = {
 					color = { 0 0 0 }
@@ -1004,7 +1004,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_10
 			c_ontario_6 = {
-				color = { 0 0 0 }
+				color = { 24 43 154 }
 				color2 = { 0 0 0 }
 				b_hawkesbury_615 = {
 					color = { 0 0 0 }
@@ -1023,7 +1023,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_7 = {
-				color = { 0 0 0 }
+				color = { 128 15 142 }
 				color2 = { 0 0 0 }
 				b_cumberland = {
 					color = { 0 0 0 }
@@ -1047,7 +1047,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_8 = {
-				color = { 0 0 0 }
+				color = { 221 55 87 }
 				color2 = { 0 0 0 }
 				b_cornwall = {
 					color = { 0 0 0 }
@@ -1066,7 +1066,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_9 = {
-				color = { 0 0 0 }
+				color = { 18 3 130 }
 				color2 = { 0 0 0 }
 				b_westport = {
 					color = { 0 0 0 }
@@ -1090,7 +1090,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_10 = {
-				color = { 0 0 0 }
+				color = { 126 212 176 }
 				color2 = { 0 0 0 }
 				b_renfrew = {
 					color = { 0 0 0 }
@@ -1119,7 +1119,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_12
 			c_ontario_12 = {
-				color = { 0 0 0 }
+				color = { 15 113 59 }
 				color2 = { 0 0 0 }
 				b_cloyne = {
 					color = { 0 0 0 }
@@ -1148,7 +1148,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_13 = {
-				color = { 0 0 0 }
+				color = { 9 70 210 }
 				color2 = { 0 0 0 }
 				b_calabogie = {
 					color = { 0 0 0 }
@@ -1167,7 +1167,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_14 = {
-				color = { 0 0 0 }
+				color = { 171 111 49 }
 				color2 = { 0 0 0 }
 				b_deep_river = {
 					color = { 0 0 0 }
@@ -1201,7 +1201,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_15 = {
-				color = { 0 0 0 }
+				color = { 251 203 192 }
 				color2 = { 0 0 0 }
 				b_lake_st_peter = {
 					color = { 0 0 0 }
@@ -1220,7 +1220,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_17 = {
-				color = { 0 0 0 }
+				color = { 68 242 184 }
 				color2 = { 0 0 0 }
 				b_stonecliffe = {
 					color = { 0 0 0 }
@@ -1249,7 +1249,7 @@ e_iroquois = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_2
 			c_ontario_1 = {
-				color = { 0 0 0 }
+				color = { 219 171 147 }
 				color2 = { 0 0 0 }
 				b_ontario_669 = {
 					color = { 0 0 0 }
@@ -1273,7 +1273,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_2 = {
-				color = { 0 0 0 }
+				color = { 187 128 226 }
 				color2 = { 0 0 0 }
 				b_ontario_670 = {
 					color = { 0 0 0 }
@@ -1302,7 +1302,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_11 = {
-				color = { 0 0 0 }
+				color = { 146 247 2 }
 				color2 = { 0 0 0 }
 				b_ontario_658 = {
 					color = { 0 0 0 }
@@ -1326,7 +1326,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_16 = {
-				color = { 0 0 0 }
+				color = { 171 187 25 }
 				color2 = { 0 0 0 }
 				b_ontario_648 = {
 					color = { 0 0 0 }
@@ -1355,7 +1355,7 @@ e_iroquois = {
 				}
 			}
 			c_ontario_18 = {
-				color = { 0 0 0 }
+				color = { 16 146 46 }
 				color2 = { 0 0 0 }
 				b_notre_dame_du_lac = {
 					color = { 0 0 0 }
@@ -1384,7 +1384,7 @@ e_iroquois = {
 				}
 			}
 			c_mattawa = {
-				color = { 0 0 0 }
+				color = { 111 168 116 }
 				color2 = { 0 0 0 }
 				b_corbeil = {
 					color = { 0 0 0 }
@@ -1428,7 +1428,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_vinland
 			c_vinland = {
-				color = { 0 0 0 }
+				color = { 137 147 147 }
 				color2 = { 0 0 0 }
 				b_vinland = {
 					color = { 84 68 186 }
@@ -1447,7 +1447,7 @@ e_vinland = {
 				}
 			}
 			c_gros_morne = {
-				color = { 0 0 0 }
+				color = { 66 249 151 }
 				color2 = { 0 0 0 }
 				b_harbour_deep = {
 					color = { 0 0 0 }
@@ -1466,7 +1466,7 @@ e_vinland = {
 				}
 			}
 			c_cape_saint_george = {
-				color = { 0 0 0 }
+				color = { 59 137 115 }
 				color2 = { 0 0 0 }
 				b_deer_lake = {
 					color = { 0 0 0 }
@@ -1490,7 +1490,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_channel-port_aux_basques
 			c_channel-port_aux_basques = {
-				color = { 0 0 0 }
+				color = { 187 18 114 }
 				color2 = { 0 0 0 }
 				b_st_davids = {
 					color = { 0 0 0 }
@@ -1509,7 +1509,7 @@ e_vinland = {
 				}
 			}
 			c_grey_river = {
-				color = { 0 0 0 }
+				color = { 115 51 96 }
 				color2 = { 0 0 0 }
 				b_ramea = {
 					color = { 0 0 0 }
@@ -1528,7 +1528,7 @@ e_vinland = {
 				}
 			}
 			c_springdale = {
-				color = { 0 0 0 }
+				color = { 145 227 228 }
 				color2 = { 0 0 0 }
 				b_buchans = {
 					color = { 0 0 0 }
@@ -1557,7 +1557,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_marystown
 			c_marystown = {
-				color = { 0 0 0 }
+				color = { 75 137 121 }
 				color2 = { 0 0 0 }
 				b_saint_albans = {
 					color = { 0 0 0 }
@@ -1576,7 +1576,7 @@ e_vinland = {
 				}
 			}
 			c_gander = {
-				color = { 0 0 0 }
+				color = { 8 19 58 }
 				color2 = { 0 0 0 }
 				b_middle_newf = {
 					color = { 0 0 0 }
@@ -1595,7 +1595,7 @@ e_vinland = {
 				}
 			}
 			c_st_johns = {
-				color = { 0 0 0 }
+				color = { 15 245 69 }
 				color2 = { 0 0 0 }
 				b_avalon = {
 					color = { 0 0 0 }
@@ -1614,7 +1614,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_newfoundland_2
 			c_quebec_7 = {
-				color = { 0 0 0 }
+				color = { 67 167 188 }
 				color2 = { 0 0 0 }
 				b_cote_nord_33 = {
 					color = { 0 0 0 }
@@ -1643,7 +1643,7 @@ e_vinland = {
 				}
 			}
 			c_newfoundland_1 = {
-				color = { 0 0 0 }
+				color = { 87 221 181 }
 				color2 = { 0 0 0 }
 				b_west_port_hope = {
 					color = { 0 0 0 }
@@ -1662,7 +1662,7 @@ e_vinland = {
 				}
 			}
 			c_newfoundland_2 = {
-				color = { 0 0 0 }
+				color = { 153 255 108 }
 				color2 = { 0 0 0 }
 				b_marys_harbour = {
 					color = { 0 0 0 }
@@ -1686,7 +1686,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_12
 			c_quebec_5 = {
-				color = { 0 0 0 }
+				color = { 200 244 104 }
 				color2 = { 0 0 0 }
 				b_cote_nord_56 = {
 					color = { 0 0 0 }
@@ -1715,7 +1715,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_8 = {
-				color = { 0 0 0 }
+				color = { 205 44 203 }
 				color2 = { 0 0 0 }
 				b_cote_nord_38 = {
 					color = { 0 0 0 }
@@ -1749,7 +1749,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_9 = {
-				color = { 0 0 0 }
+				color = { 83 71 151 }
 				color2 = { 0 0 0 }
 				b_tete-a-la-baleine = {
 					color = { 0 0 0 }
@@ -1768,7 +1768,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_10 = {
-				color = { 0 0 0 }
+				color = { 28 219 70 }
 				color2 = { 0 0 0 }
 				b_cote_nord_49 = {
 					color = { 0 0 0 }
@@ -1797,7 +1797,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_11 = {
-				color = { 0 0 0 }
+				color = { 19 1 37 }
 				color2 = { 0 0 0 }
 				b_cote_nord_58 = {
 					color = { 0 0 0 }
@@ -1816,7 +1816,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_12 = {
-				color = { 0 0 0 }
+				color = { 67 178 117 }
 				color2 = { 0 0 0 }
 				b_cote_nord_48 = {
 					color = { 0 0 0 }
@@ -1840,7 +1840,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_6
 			c_anticosti = {
-				color = { 0 0 0 }
+				color = { 163 169 87 }
 				color2 = { 0 0 0 }
 				b_port-menier = {
 					color = { 0 0 0 }
@@ -1864,7 +1864,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_3 = {
-				color = { 0 0 0 }
+				color = { 176 115 177 }
 				color2 = { 0 0 0 }
 				b_cote_nord_74 = {
 					color = { 0 0 0 }
@@ -1893,7 +1893,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_4 = {
-				color = { 0 0 0 }
+				color = { 70 235 144 }
 				color2 = { 0 0 0 }
 				b_cote_nord_72 = {
 					color = { 0 0 0 }
@@ -1912,7 +1912,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_6 = {
-				color = { 0 0 0 }
+				color = { 227 87 123 }
 				color2 = { 0 0 0 }
 				b_cote_nord_63 = {
 					color = { 0 0 0 }
@@ -1946,7 +1946,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_14
 			c_quebec_1 = {
-				color = { 0 0 0 }
+				color = { 152 144 207 }
 				color2 = { 0 0 0 }
 				b_province_85 = {
 					color = { 0 0 0 }
@@ -1970,7 +1970,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_2 = {
-				color = { 0 0 0 }
+				color = { 220 112 20 }
 				color2 = { 0 0 0 }
 				b_port_cartier = {
 					color = { 0 0 0 }
@@ -1999,7 +1999,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_13 = {
-				color = { 0 0 0 }
+				color = { 17 171 88 }
 				color2 = { 0 0 0 }
 				b_province_89 = {
 					color = { 0 0 0 }
@@ -2028,7 +2028,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_14 = {
-				color = { 0 0 0 }
+				color = { 84 141 105 }
 				color2 = { 0 0 0 }
 				b_province_94 = {
 					color = { 0 0 0 }
@@ -2057,7 +2057,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_15 = {
-				color = { 0 0 0 }
+				color = { 162 25 23 }
 				color2 = { 0 0 0 }
 				b_province_99 = {
 					color = { 0 0 0 }
@@ -2096,7 +2096,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_city
 			c_quebec_city = {
-				color = { 0 0 0 }
+				color = { 90 225 9 }
 				color2 = { 0 0 0 }
 				b_baie-saint-paul = {
 					color = { 0 0 0 }
@@ -2115,7 +2115,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_27 = {
-				color = { 0 0 0 }
+				color = { 10 40 94 }
 				color2 = { 0 0 0 }
 				b_province_105 = {
 					color = { 0 0 0 }
@@ -2139,7 +2139,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_28 = {
-				color = { 0 0 0 }
+				color = { 182 210 223 }
 				color2 = { 0 0 0 }
 				b_riviere-eternite = {
 					color = { 0 0 0 }
@@ -2163,7 +2163,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_29 = {
-				color = { 0 0 0 }
+				color = { 234 7 162 }
 				color2 = { 0 0 0 }
 				b_province_118 = {
 					color = { 0 0 0 }
@@ -2182,7 +2182,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_30 = {
-				color = { 0 0 0 }
+				color = { 46 135 177 }
 				color2 = { 0 0 0 }
 				b_province_136 = {
 					color = { 0 0 0 }
@@ -2216,7 +2216,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_34
 			c_quebec_16 = {
-				color = { 0 0 0 }
+				color = { 189 223 191 }
 				color2 = { 0 0 0 }
 				b_province_103 = {
 					color = { 0 0 0 }
@@ -2240,7 +2240,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_25 = {
-				color = { 0 0 0 }
+				color = { 9 228 106 }
 				color2 = { 0 0 0 }
 				b_province_114 = {
 					color = { 0 0 0 }
@@ -2264,7 +2264,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_26 = {
-				color = { 0 0 0 }
+				color = { 82 50 66 }
 				color2 = { 0 0 0 }
 				b_province_109 = {
 					color = { 0 0 0 }
@@ -2293,7 +2293,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_31 = {
-				color = { 0 0 0 }
+				color = { 67 63 128 }
 				color2 = { 0 0 0 }
 				b_province_131 = {
 					color = { 0 0 0 }
@@ -2322,7 +2322,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_32 = {
-				color = { 0 0 0 }
+				color = { 68 252 198 }
 				color2 = { 0 0 0 }
 				b_alma_127 = {
 					color = { 0 0 0 }
@@ -2341,7 +2341,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_34 = {
-				color = { 0 0 0 }
+				color = { 75 220 230 }
 				color2 = { 0 0 0 }
 				b_chambord = {
 					color = { 0 0 0 }
@@ -2370,7 +2370,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_36 = {
-				color = { 0 0 0 }
+				color = { 138 207 155 }
 				color2 = { 0 0 0 }
 				b_province_148 = {
 					color = { 0 0 0 }
@@ -2399,7 +2399,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_montreal
 			c_montreal = {
-				color = { 0 0 0 }
+				color = { 238 165 177 }
 				color2 = { 0 0 0 }
 				b_province_197 = {
 					color = { 0 0 0 }
@@ -2428,7 +2428,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_33 = {
-				color = { 0 0 0 }
+				color = { 79 90 200 }
 				color2 = { 0 0 0 }
 				b_province_152 = {
 					color = { 0 0 0 }
@@ -2457,7 +2457,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_35 = {
-				color = { 0 0 0 }
+				color = { 228 235 25 }
 				color2 = { 0 0 0 }
 				b_province_150 = {
 					color = { 0 0 0 }
@@ -2481,7 +2481,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_37 = {
-				color = { 0 0 0 }
+				color = { 115 153 116 }
 				color2 = { 0 0 0 }
 				b_province_170 = {
 					color = { 0 0 0 }
@@ -2510,7 +2510,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_38 = {
-				color = { 0 0 0 }
+				color = { 91 186 176 }
 				color2 = { 0 0 0 }
 				b_province_166 = {
 					color = { 0 0 0 }
@@ -2529,7 +2529,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_44 = {
-				color = { 0 0 0 }
+				color = { 13 114 105 }
 				color2 = { 0 0 0 }
 				b_province_193 = {
 					color = { 0 0 0 }
@@ -2563,7 +2563,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_47
 			c_quebec_39 = {
-				color = { 0 0 0 }
+				color = { 116 54 227 }
 				color2 = { 0 0 0 }
 				b_province_164 = {
 					color = { 0 0 0 }
@@ -2587,7 +2587,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_40 = {
-				color = { 0 0 0 }
+				color = { 149 254 195 }
 				color2 = { 0 0 0 }
 				b_province_158 = {
 					color = { 0 0 0 }
@@ -2606,7 +2606,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_41 = {
-				color = { 0 0 0 }
+				color = { 183 205 138 }
 				color2 = { 0 0 0 }
 				b_province_161 = {
 					color = { 0 0 0 }
@@ -2640,7 +2640,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_46 = {
-				color = { 0 0 0 }
+				color = { 50 97 69 }
 				color2 = { 0 0 0 }
 				b_province_184 = {
 					color = { 0 0 0 }
@@ -2669,7 +2669,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_47 = {
-				color = { 0 0 0 }
+				color = { 51 14 32 }
 				color2 = { 0 0 0 }
 				b_province_177 = {
 					color = { 0 0 0 }
@@ -2698,7 +2698,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_49 = {
-				color = { 0 0 0 }
+				color = { 29 56 97 }
 				color2 = { 0 0 0 }
 				b_province_190 = {
 					color = { 0 0 0 }
@@ -2732,7 +2732,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_45
 			c_quebec_42 = {
-				color = { 0 0 0 }
+				color = { 243 250 110 }
 				color2 = { 0 0 0 }
 				b_province_209 = {
 					color = { 0 0 0 }
@@ -2761,7 +2761,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_43 = {
-				color = { 0 0 0 }
+				color = { 199 29 50 }
 				color2 = { 0 0 0 }
 				b_province_202 = {
 					color = { 0 0 0 }
@@ -2785,7 +2785,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_45 = {
-				color = { 0 0 0 }
+				color = { 250 173 34 }
 				color2 = { 0 0 0 }
 				b_province_214 = {
 					color = { 0 0 0 }
@@ -2819,7 +2819,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_48 = {
-				color = { 0 0 0 }
+				color = { 174 160 186 }
 				color2 = { 0 0 0 }
 				b_province_206 = {
 					color = { 0 0 0 }
@@ -2848,7 +2848,7 @@ e_vinland = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_54
 			c_quebec_50 = {
-				color = { 0 0 0 }
+				color = { 54 163 104 }
 				color2 = { 0 0 0 }
 				b_province_235 = {
 					color = { 0 0 0 }
@@ -2872,7 +2872,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_51 = {
-				color = { 0 0 0 }
+				color = { 197 102 208 }
 				color2 = { 0 0 0 }
 				b_province_232 = {
 					color = { 0 0 0 }
@@ -2901,7 +2901,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_52 = {
-				color = { 0 0 0 }
+				color = { 96 25 206 }
 				color2 = { 0 0 0 }
 				b_province_225 = {
 					color = { 0 0 0 }
@@ -2925,7 +2925,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_53 = {
-				color = { 0 0 0 }
+				color = { 255 20 230 }
 				color2 = { 0 0 0 }
 				b_province_228 = {
 					color = { 0 0 0 }
@@ -2954,7 +2954,7 @@ e_vinland = {
 				}
 			}
 			c_quebec_54 = {
-				color = { 0 0 0 }
+				color = { 90 187 25 }
 				color2 = { 0 0 0 }
 				b_province_243 = {
 					color = { 0 0 0 }
@@ -2993,7 +2993,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_gaylord
 			c_boyne_city = {
-				color = { 0 0 0 }
+				color = { 243 101 14 }
 				color2 = { 0 0 0 }
 				b_michigan_736 = {
 					color = { 0 0 0 }
@@ -3012,7 +3012,7 @@ e_ohio = {
 				}
 			}
 			c_cheboygan = {
-				color = { 0 0 0 }
+				color = { 124 44 244 }
 				color2 = { 0 0 0 }
 				b_beaver_island = {
 					color = { 0 0 0 }
@@ -3031,7 +3031,7 @@ e_ohio = {
 				}
 			}
 			c_alpena = {
-				color = { 0 0 0 }
+				color = { 58 243 112 }
 				color2 = { 0 0 0 }
 				b_michigan_732 = {
 					color = { 0 0 0 }
@@ -3055,7 +3055,7 @@ e_ohio = {
 				}
 			}
 			c_gaylord = {
-				color = { 0 0 0 }
+				color = { 52 170 8 }
 				color2 = { 0 0 0 }
 				b_michigan_740 = {
 					color = { 0 0 0 }
@@ -3084,7 +3084,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_huron-manistee
 			c_huron-manistee = {
-				color = { 0 0 0 }
+				color = { 34 202 202 }
 				color2 = { 0 0 0 }
 				b_michigan_750 = {
 					color = { 0 0 0 }
@@ -3113,7 +3113,7 @@ e_ohio = {
 				}
 			}
 			c_houghton_lake = {
-				color = { 0 0 0 }
+				color = { 10 123 64 }
 				color2 = { 0 0 0 }
 				b_michigan_747 = {
 					color = { 0 0 0 }
@@ -3137,7 +3137,7 @@ e_ohio = {
 				}
 			}
 			c_silver_lake = {
-				color = { 0 0 0 }
+				color = { 247 183 40 }
 				color2 = { 0 0 0 }
 				b_michigan_767 = {
 					color = { 0 0 0 }
@@ -3156,7 +3156,7 @@ e_ohio = {
 				}
 			}
 			c_big_rapids = {
-				color = { 0 0 0 }
+				color = { 155 204 33 }
 				color2 = { 0 0 0 }
 				b_michigan_763 = {
 					color = { 0 0 0 }
@@ -3180,7 +3180,7 @@ e_ohio = {
 				}
 			}
 			c_michigan_x = {
-				color = { 0 0 0 }
+				color = { 63 106 233 }
 				color2 = { 0 0 0 }
 				b_michigan_738 = {
 					color = { 0 0 0 }
@@ -3204,7 +3204,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_bay_city
 			c_oscoda = {
-				color = { 0 0 0 }
+				color = { 78 233 133 }
 				color2 = { 0 0 0 }
 				b_michigan_741 = {
 					color = { 0 0 0 }
@@ -3228,7 +3228,7 @@ e_ohio = {
 				}
 			}
 			c_west_branch = {
-				color = { 0 0 0 }
+				color = { 191 224 11 }
 				color2 = { 0 0 0 }
 				b_michigan_756 = {
 					color = { 0 0 0 }
@@ -3257,7 +3257,7 @@ e_ohio = {
 				}
 			}
 			c_bay_city = {
-				color = { 0 0 0 }
+				color = { 110 207 21 }
 				color2 = { 0 0 0 }
 				b_michigan_759 = {
 					color = { 0 0 0 }
@@ -3286,7 +3286,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_benton_harbor
 			c_benton_harbor = {
-				color = { 0 0 0 }
+				color = { 166 161 199 }
 				color2 = { 0 0 0 }
 				b_plainwell = {
 					color = { 0 0 0 }
@@ -3315,7 +3315,7 @@ e_ohio = {
 				}
 			}
 			c_holland = {
-				color = { 0 0 0 }
+				color = { 3 213 73 }
 				color2 = { 0 0 0 }
 				b_coopersville = {
 					color = { 0 0 0 }
@@ -3339,7 +3339,7 @@ e_ohio = {
 				}
 			}
 			c_coldwater = {
-				color = { 0 0 0 }
+				color = { 133 85 230 }
 				color2 = { 0 0 0 }
 				b_battle_creek = {
 					color = { 0 0 0 }
@@ -3363,7 +3363,7 @@ e_ohio = {
 				}
 			}
 			c_lansing = {
-				color = { 0 0 0 }
+				color = { 8 120 65 }
 				color2 = { 0 0 0 }
 				b_lansing = {
 					color = { 0 0 0 }
@@ -3387,7 +3387,7 @@ e_ohio = {
 				}
 			}
 			c_greenville_michigan = {
-				color = { 0 0 0 }
+				color = { 167 206 22 }
 				color2 = { 0 0 0 }
 				b_ithaca = {
 					color = { 0 0 0 }
@@ -3421,7 +3421,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_saginaw
 			c_bad_axe = {
-				color = { 0 0 0 }
+				color = { 219 83 20 }
 				color2 = { 0 0 0 }
 				b_sand_point = {
 					color = { 0 0 0 }
@@ -3435,7 +3435,7 @@ e_ohio = {
 				}
 			}
 			c_saginaw = {
-				color = { 0 0 0 }
+				color = { 227 129 254 }
 				color2 = { 0 0 0 }
 				b_alma = {
 					color = { 0 0 0 }
@@ -3459,7 +3459,7 @@ e_ohio = {
 				}
 			}
 			c_frankenmuth = {
-				color = { 0 0 0 }
+				color = { 93 184 199 }
 				color2 = { 0 0 0 }
 				b_port_sanilac = {
 					color = { 0 0 0 }
@@ -3483,7 +3483,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_detroit
 			c_detroit = {
-				color = { 0 0 0 }
+				color = { 216 220 164 }
 				color2 = { 0 0 0 }
 				b_detroit = {
 					color = { 0 0 0 }
@@ -3507,7 +3507,7 @@ e_ohio = {
 				}
 			}
 			c_monroe = {
-				color = { 0 0 0 }
+				color = { 46 156 56 }
 				color2 = { 0 0 0 }
 				b_monroe = {
 					color = { 0 0 0 }
@@ -3526,7 +3526,7 @@ e_ohio = {
 				}
 			}
 			c_jackson_michigan = {
-				color = { 0 0 0 }
+				color = { 246 237 185 }
 				color2 = { 0 0 0 }
 				b_chelsea = {
 					color = { 0 0 0 }
@@ -3550,7 +3550,7 @@ e_ohio = {
 				}
 			}
 			c_flint = {
-				color = { 0 0 0 }
+				color = { 157 184 24 }
 				color2 = { 0 0 0 }
 				b_flint = {
 					color = { 0 0 0 }
@@ -3574,7 +3574,7 @@ e_ohio = {
 				}
 			}
 			c_port_huron = {
-				color = { 0 0 0 }
+				color = { 163 155 136 }
 				color2 = { 0 0 0 }
 				b_fort_gratiot = {
 					color = { 0 0 0 }
@@ -3608,7 +3608,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_louisville
 			c_uniontown = {
-				color = { 0 0 0 }
+				color = { 190 71 181 }
 				color2 = { 0 0 0 }
 				b_kentucky_1021 = {
 					color = { 0 0 0 }
@@ -3627,7 +3627,7 @@ e_ohio = {
 				}
 			}
 			c_owensboro = {
-				color = { 0 0 0 }
+				color = { 152 43 85 }
 				color2 = { 0 0 0 }
 				b_kentucky_1024 = {
 					color = { 0 0 0 }
@@ -3651,7 +3651,7 @@ e_ohio = {
 				}
 			}
 			c_louisville = {
-				color = { 0 0 0 }
+				color = { 3 0 222 }
 				color2 = { 0 0 0 }
 				b_kentucky_1029 = {
 					color = { 0 0 0 }
@@ -3670,7 +3670,7 @@ e_ohio = {
 				}
 			}
 			c_elizabethtown = {
-				color = { 0 0 0 }
+				color = { 91 217 23 }
 				color2 = { 0 0 0 }
 				b_kentucky_1028 = {
 					color = { 0 0 0 }
@@ -3694,7 +3694,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_flemingsburg
 			c_covington = {
-				color = { 0 0 0 }
+				color = { 9 138 13 }
 				color2 = { 0 0 0 }
 				b_warsaw = {
 					color = { 0 0 0 }
@@ -3708,7 +3708,7 @@ e_ohio = {
 				}
 			}
 			c_frankfort = {
-				color = { 0 0 0 }
+				color = { 122 43 71 }
 				color2 = { 0 0 0 }
 				b_kentucky_1035 = {
 					color = { 0 0 0 }
@@ -3727,7 +3727,7 @@ e_ohio = {
 				}
 			}
 			c_lexington = {
-				color = { 0 0 0 }
+				color = { 15 129 178 }
 				color2 = { 0 0 0 }
 				b_kentucky_1033 = {
 					color = { 0 0 0 }
@@ -3746,7 +3746,7 @@ e_ohio = {
 				}
 			}
 			c_danville = {
-				color = { 0 0 0 }
+				color = { 84 145 163 }
 				color2 = { 0 0 0 }
 				b_kentucky_1038 = {
 					color = { 0 0 0 }
@@ -3765,7 +3765,7 @@ e_ohio = {
 				}
 			}
 			c_flemingsburg = {
-				color = { 0 0 0 }
+				color = { 48 40 208 }
 				color2 = { 0 0 0 }
 				b_lenoxburg = {
 					color = { 0 0 0 }
@@ -3794,7 +3794,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_grayson
 			c_grayson = {
-				color = { 0 0 0 }
+				color = { 179 159 167 }
 				color2 = { 0 0 0 }
 				b_vanceburg = {
 					color = { 0 0 0 }
@@ -3818,7 +3818,7 @@ e_ohio = {
 				}
 			}
 			c_pikeville = {
-				color = { 0 0 0 }
+				color = { 152 159 11 }
 				color2 = { 0 0 0 }
 				b_whitesburg = {
 					color = { 0 0 0 }
@@ -3837,7 +3837,7 @@ e_ohio = {
 				}
 			}
 			c_paintsville = {
-				color = { 0 0 0 }
+				color = { 222 181 87 }
 				color2 = { 0 0 0 }
 				b_crockett = {
 					color = { 0 0 0 }
@@ -3856,7 +3856,7 @@ e_ohio = {
 				}
 			}
 			c_stanton = {
-				color = { 0 0 0 }
+				color = { 36 223 113 }
 				color2 = { 0 0 0 }
 				b_stanton = {
 					color = { 0 0 0 }
@@ -3880,7 +3880,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_illinois_2
 			c_illinois_1 = {
-				color = { 0 0 0 }
+				color = { 48 106 185 }
 				color2 = { 0 0 0 }
 				b_province_956 = {
 					color = { 0 0 0 }
@@ -3904,7 +3904,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_2 = {
-				color = { 0 0 0 }
+				color = { 1 41 245 }
 				color2 = { 0 0 0 }
 				b_province_950 = {
 					color = { 0 0 0 }
@@ -3933,7 +3933,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_7 = {
-				color = { 0 0 0 }
+				color = { 116 33 20 }
 				color2 = { 0 0 0 }
 				b_province_955 = {
 					color = { 0 0 0 }
@@ -3957,7 +3957,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_12 = {
-				color = { 0 0 0 }
+				color = { 226 158 197 }
 				color2 = { 0 0 0 }
 				b_province_970 = {
 					color = { 0 0 0 }
@@ -3996,7 +3996,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_madison_in
 			c_madison_in = {
-				color = { 0 0 0 }
+				color = { 39 65 107 }
 				color2 = { 0 0 0 }
 				b_province_1008 = {
 					color = { 0 0 0 }
@@ -4020,7 +4020,7 @@ e_ohio = {
 				}
 			}
 			c_jeffersonville_in = {
-				color = { 0 0 0 }
+				color = { 228 163 254 }
 				color2 = { 0 0 0 }
 				b_province_993 = {
 					color = { 0 0 0 }
@@ -4054,7 +4054,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_cleveland
 			c_cleveland = {
-				color = { 0 0 0 }
+				color = { 119 171 139 }
 				color2 = { 0 0 0 }
 				b_lorain = {
 					color = { 0 0 0 }
@@ -4078,7 +4078,7 @@ e_ohio = {
 				}
 			}
 			c_sandusky = {
-				color = { 0 0 0 }
+				color = { 79 163 139 }
 				color2 = { 0 0 0 }
 				b_ottowa_refuge = {
 					color = { 0 0 0 }
@@ -4097,7 +4097,7 @@ e_ohio = {
 				}
 			}
 			c_fremont = {
-				color = { 0 0 0 }
+				color = { 206 177 10 }
 				color2 = { 0 0 0 }
 				b_bucyrus = {
 					color = { 0 0 0 }
@@ -4121,7 +4121,7 @@ e_ohio = {
 				}
 			}
 			c_akron = {
-				color = { 0 0 0 }
+				color = { 131 217 37 }
 				color2 = { 0 0 0 }
 				b_akron = {
 					color = { 0 0 0 }
@@ -4145,7 +4145,7 @@ e_ohio = {
 				}
 			}
 			c_mansfield = {
-				color = { 0 0 0 }
+				color = { 80 143 134 }
 				color2 = { 0 0 0 }
 				b_ruggles = {
 					color = { 0 0 0 }
@@ -4164,7 +4164,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_steubenville
 			c_youngstown = {
-				color = { 0 0 0 }
+				color = { 155 109 57 }
 				color2 = { 0 0 0 }
 				b_orwell = {
 					color = { 0 0 0 }
@@ -4183,7 +4183,7 @@ e_ohio = {
 				}
 			}
 			c_saint_clairsville = {
-				color = { 0 0 0 }
+				color = { 202 40 245 }
 				color2 = { 0 0 0 }
 				b_ohio_919 = {
 					color = { 0 0 0 }
@@ -4202,7 +4202,7 @@ e_ohio = {
 				}
 			}
 			c_steubenville = {
-				color = { 0 0 0 }
+				color = { 197 204 74 }
 				color2 = { 0 0 0 }
 				b_minerva = {
 					color = { 0 0 0 }
@@ -4226,7 +4226,7 @@ e_ohio = {
 				}
 			}
 			c_coshocton = {
-				color = { 0 0 0 }
+				color = { 6 30 202 }
 				color2 = { 0 0 0 }
 				b_new_philadelphia = {
 					color = { 0 0 0 }
@@ -4255,7 +4255,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_columbus
 			c_columbus = {
-				color = { 0 0 0 }
+				color = { 162 169 78 }
 				color2 = { 0 0 0 }
 				b_granville = {
 					color = { 0 0 0 }
@@ -4274,7 +4274,7 @@ e_ohio = {
 				}
 			}
 			c_dayton = {
-				color = { 0 0 0 }
+				color = { 97 112 47 }
 				color2 = { 0 0 0 }
 				b_dayton = {
 					color = { 0 0 0 }
@@ -4293,7 +4293,7 @@ e_ohio = {
 				}
 			}
 			c_delaware = {
-				color = { 0 0 0 }
+				color = { 198 208 101 }
 				color2 = { 0 0 0 }
 				b_delaware = {
 					color = { 0 0 0 }
@@ -4312,7 +4312,7 @@ e_ohio = {
 				}
 			}
 			c_marysville = {
-				color = { 0 0 0 }
+				color = { 243 238 90 }
 				color2 = { 0 0 0 }
 				b_province_873 = {
 					color = { 0 0 0 }
@@ -4341,7 +4341,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_lancaster
 			c_gallipolis = {
-				color = { 0 0 0 }
+				color = { 90 254 57 }
 				color2 = { 0 0 0 }
 				b_portsmouth = {
 					color = { 0 0 0 }
@@ -4365,7 +4365,7 @@ e_ohio = {
 				}
 			}
 			c_athens = {
-				color = { 0 0 0 }
+				color = { 232 176 220 }
 				color2 = { 0 0 0 }
 				b_ohio_913 = {
 					color = { 0 0 0 }
@@ -4384,7 +4384,7 @@ e_ohio = {
 				}
 			}
 			c_marietta = {
-				color = { 0 0 0 }
+				color = { 202 123 93 }
 				color2 = { 0 0 0 }
 				b_ohio_921 = {
 					color = { 0 0 0 }
@@ -4403,7 +4403,7 @@ e_ohio = {
 				}
 			}
 			c_newark = {
-				color = { 0 0 0 }
+				color = { 83 167 167 }
 				color2 = { 0 0 0 }
 				b_ohio_915 = {
 					color = { 0 0 0 }
@@ -4422,7 +4422,7 @@ e_ohio = {
 				}
 			}
 			c_lancaster = {
-				color = { 0 0 0 }
+				color = { 197 29 8 }
 				color2 = { 0 0 0 }
 				b_piketon = {
 					color = { 0 0 0 }
@@ -4451,7 +4451,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_cincinnati
 			c_cincinnati = {
-				color = { 0 0 0 }
+				color = { 55 214 5 }
 				color2 = { 0 0 0 }
 				b_mason = {
 					color = { 0 0 0 }
@@ -4475,7 +4475,7 @@ e_ohio = {
 				}
 			}
 			c_washington_courthouse = {
-				color = { 0 0 0 }
+				color = { 6 4 120 }
 				color2 = { 0 0 0 }
 				b_wilmington_897 = {
 					color = { 0 0 0 }
@@ -4494,7 +4494,7 @@ e_ohio = {
 				}
 			}
 			c_mount_orab = {
-				color = { 0 0 0 }
+				color = { 6 41 19 }
 				color2 = { 0 0 0 }
 				b_batavia = {
 					color = { 0 0 0 }
@@ -4518,7 +4518,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_greenville
 			c_greenville = {
-				color = { 0 0 0 }
+				color = { 60 45 175 }
 				color2 = { 0 0 0 }
 				b_sidney = {
 					color = { 0 0 0 }
@@ -4542,7 +4542,7 @@ e_ohio = {
 				}
 			}
 			c_sidney = {
-				color = { 0 0 0 }
+				color = { 31 244 191 }
 				color2 = { 0 0 0 }
 				b_province_871 = {
 					color = { 0 0 0 }
@@ -4561,7 +4561,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_toledo
 			c_toledo = {
-				color = { 0 0 0 }
+				color = { 1 201 140 }
 				color2 = { 0 0 0 }
 				b_swanton = {
 					color = { 0 0 0 }
@@ -4580,7 +4580,7 @@ e_ohio = {
 				}
 			}
 			c_findley = {
-				color = { 0 0 0 }
+				color = { 148 150 140 }
 				color2 = { 0 0 0 }
 				b_findley = {
 					color = { 0 0 0 }
@@ -4599,7 +4599,7 @@ e_ohio = {
 				}
 			}
 			c_defiance = {
-				color = { 0 0 0 }
+				color = { 76 15 16 }
 				color2 = { 0 0 0 }
 				b_montpelier = {
 					color = { 0 0 0 }
@@ -4628,7 +4628,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_south_bend
 			c_gary = {
-				color = { 0 0 0 }
+				color = { 13 38 237 }
 				color2 = { 0 0 0 }
 				b_michigan_city = {
 					color = { 0 0 0 }
@@ -4642,7 +4642,7 @@ e_ohio = {
 				}
 			}
 			c_south_bend = {
-				color = { 0 0 0 }
+				color = { 100 169 37 }
 				color2 = { 0 0 0 }
 				b_michigan_city_825 = {
 					color = { 0 0 0 }
@@ -4671,7 +4671,7 @@ e_ohio = {
 				}
 			}
 			c_fort_wayne = {
-				color = { 0 0 0 }
+				color = { 61 93 93 }
 				color2 = { 0 0 0 }
 				b_kendallville = {
 					color = { 0 0 0 }
@@ -4695,7 +4695,7 @@ e_ohio = {
 				}
 			}
 			c_logansport = {
-				color = { 0 0 0 }
+				color = { 49 235 52 }
 				color2 = { 0 0 0 }
 				b_province_865 = {
 					color = { 0 0 0 }
@@ -4724,7 +4724,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_lafayette_in
 			c_huntington_in = {
-				color = { 0 0 0 }
+				color = { 225 242 161 }
 				color2 = { 0 0 0 }
 				b_province_868 = {
 					color = { 0 0 0 }
@@ -4748,7 +4748,7 @@ e_ohio = {
 				}
 			}
 			c_indianapolis = {
-				color = { 0 0 0 }
+				color = { 73 186 192 }
 				color2 = { 0 0 0 }
 				b_province_1003 = {
 					color = { 0 0 0 }
@@ -4772,7 +4772,7 @@ e_ohio = {
 				}
 			}
 			c_lafayette_in = {
-				color = { 0 0 0 }
+				color = { 142 203 74 }
 				color2 = { 0 0 0 }
 				b_province_998 = {
 					color = { 0 0 0 }
@@ -4801,7 +4801,7 @@ e_ohio = {
 				}
 			}
 			c_bloomington_ms = {
-				color = { 0 0 0 }
+				color = { 89 179 162 }
 				color2 = { 0 0 0 }
 				b_province_995 = {
 					color = { 0 0 0 }
@@ -4830,7 +4830,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_illinois_4
 			c_illinois_4 = {
-				color = { 0 0 0 }
+				color = { 231 100 166 }
 				color2 = { 0 0 0 }
 				b_province_944 = {
 					color = { 0 0 0 }
@@ -4864,7 +4864,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_8 = {
-				color = { 0 0 0 }
+				color = { 25 184 193 }
 				color2 = { 0 0 0 }
 				b_province_962 = {
 					color = { 0 0 0 }
@@ -4883,7 +4883,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_9 = {
-				color = { 0 0 0 }
+				color = { 98 146 68 }
 				color2 = { 0 0 0 }
 				b_province_966 = {
 					color = { 0 0 0 }
@@ -4907,7 +4907,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_10 = {
-				color = { 0 0 0 }
+				color = { 120 144 249 }
 				color2 = { 0 0 0 }
 				b_province_986 = {
 					color = { 0 0 0 }
@@ -4931,7 +4931,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_11 = {
-				color = { 0 0 0 }
+				color = { 104 127 121 }
 				color2 = { 0 0 0 }
 				b_province_975 = {
 					color = { 0 0 0 }
@@ -4965,7 +4965,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_springfield_il
 			c_quincy_il = {
-				color = { 0 0 0 }
+				color = { 231 197 194 }
 				color2 = { 0 0 0 }
 				b_province_1298 = {
 					color = { 0 0 0 }
@@ -4989,7 +4989,7 @@ e_ohio = {
 				}
 			}
 			c_springfield_il = {
-				color = { 0 0 0 }
+				color = { 231 154 233 }
 				color2 = { 0 0 0 }
 				b_province_930 = {
 					color = { 0 0 0 }
@@ -5018,7 +5018,7 @@ e_ohio = {
 				}
 			}
 			c_monmouth = {
-				color = { 0 0 0 }
+				color = { 55 139 3 }
 				color2 = { 0 0 0 }
 				b_province_1296 = {
 					color = { 0 0 0 }
@@ -5037,7 +5037,7 @@ e_ohio = {
 				}
 			}
 			c_galesburg = {
-				color = { 0 0 0 }
+				color = { 175 43 11 }
 				color2 = { 0 0 0 }
 				b_province_1304 = {
 					color = { 0 0 0 }
@@ -5066,7 +5066,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_oglesby
 			c_kankakee = {
-				color = { 0 0 0 }
+				color = { 8 166 154 }
 				color2 = { 0 0 0 }
 				b_province_863 = {
 					color = { 0 0 0 }
@@ -5090,7 +5090,7 @@ e_ohio = {
 				}
 			}
 			c_oglesby = {
-				color = { 0 0 0 }
+				color = { 228 4 178 }
 				color2 = { 0 0 0 }
 				b_province_927 = {
 					color = { 0 0 0 }
@@ -5119,7 +5119,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_5 = {
-				color = { 0 0 0 }
+				color = { 243 38 91 }
 				color2 = { 0 0 0 }
 				b_province_979 = {
 					color = { 0 0 0 }
@@ -5148,7 +5148,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_6 = {
-				color = { 0 0 0 }
+				color = { 142 10 20 }
 				color2 = { 0 0 0 }
 				b_province_939 = {
 					color = { 0 0 0 }
@@ -5172,7 +5172,7 @@ e_ohio = {
 			color2 = { 0 0 0 }
 			capital = c_illinois_3
 			c_hardin_il = {
-				color = { 0 0 0 }
+				color = { 221 84 220 }
 				color2 = { 0 0 0 }
 				b_province_933 = {
 					color = { 0 0 0 }
@@ -5196,7 +5196,7 @@ e_ohio = {
 				}
 			}
 			c_illinois_3 = {
-				color = { 0 0 0 }
+				color = { 212 156 83 }
 				color2 = { 0 0 0 }
 				b_province_935 = {
 					color = { 0 0 0 }
@@ -5235,7 +5235,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_plymouth
 			c_rhode_island = {
-				color = { 0 0 0 }
+				color = { 107 15 163 }
 				color2 = { 0 0 0 }
 				b_province_1690 = {
 					color = { 0 0 0 }
@@ -5249,7 +5249,7 @@ e_nova_scotia = {
 				}
 			}
 			c_plymouth = {
-				color = { 0 0 0 }
+				color = { 191 128 2 }
 				color2 = { 0 0 0 }
 				b_nantucket = {
 					color = { 0 0 0 }
@@ -5263,7 +5263,7 @@ e_nova_scotia = {
 				}
 			}
 			c_fall_river = {
-				color = { 0 0 0 }
+				color = { 173 232 239 }
 				color2 = { 0 0 0 }
 				b_newport = {
 					color = { 0 0 0 }
@@ -5282,7 +5282,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_danbury
 			c_hartford = {
-				color = { 0 0 0 }
+				color = { 85 51 6 }
 				color2 = { 0 0 0 }
 				b_province_1688 = {
 					color = { 0 0 0 }
@@ -5306,7 +5306,7 @@ e_nova_scotia = {
 				}
 			}
 			c_danbury = {
-				color = { 0 0 0 }
+				color = { 90 172 7 }
 				color2 = { 0 0 0 }
 				b_province_1681 = {
 					color = { 0 0 0 }
@@ -5335,7 +5335,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_boston
 			c_boston = {
-				color = { 0 0 0 }
+				color = { 128 113 122 }
 				color2 = { 0 0 0 }
 				b_foxborough = {
 					color = { 0 0 0 }
@@ -5359,7 +5359,7 @@ e_nova_scotia = {
 				}
 			}
 			c_newburyport = {
-				color = { 0 0 0 }
+				color = { 51 127 153 }
 				color2 = { 0 0 0 }
 				b_province_1712 = {
 					color = { 0 0 0 }
@@ -5383,7 +5383,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_hampshire_1 = {
-				color = { 0 0 0 }
+				color = { 244 108 227 }
 				color2 = { 0 0 0 }
 				b_province_1723 = {
 					color = { 0 0 0 }
@@ -5407,7 +5407,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_hampshire_3 = {
-				color = { 0 0 0 }
+				color = { 231 229 163 }
 				color2 = { 0 0 0 }
 				b_province_1722 = {
 					color = { 0 0 0 }
@@ -5431,7 +5431,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_massachusetts_1
 			c_worcester = {
-				color = { 0 0 0 }
+				color = { 229 121 221 }
 				color2 = { 0 0 0 }
 				b_province_1701 = {
 					color = { 0 0 0 }
@@ -5445,7 +5445,7 @@ e_nova_scotia = {
 				}
 			}
 			c_massachusetts_1 = {
-				color = { 0 0 0 }
+				color = { 0 254 99 }
 				color2 = { 0 0 0 }
 				b_hudson = {
 					color = { 0 0 0 }
@@ -5469,7 +5469,7 @@ e_nova_scotia = {
 				}
 			}
 			c_massachusetts_2 = {
-				color = { 0 0 0 }
+				color = { 127 34 116 }
 				color2 = { 0 0 0 }
 				b_province_1699 = {
 					color = { 0 0 0 }
@@ -5498,7 +5498,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_vermont_3
 			c_winchendon = {
-				color = { 0 0 0 }
+				color = { 7 37 205 }
 				color2 = { 0 0 0 }
 				b_province_1710 = {
 					color = { 0 0 0 }
@@ -5517,7 +5517,7 @@ e_nova_scotia = {
 				}
 			}
 			c_massachusetts_3 = {
-				color = { 0 0 0 }
+				color = { 4 118 158 }
 				color2 = { 0 0 0 }
 				b_hoosick_falls = {
 					color = { 0 0 0 }
@@ -5536,7 +5536,7 @@ e_nova_scotia = {
 				}
 			}
 			c_vermont_3 = {
-				color = { 0 0 0 }
+				color = { 18 188 156 }
 				color2 = { 0 0 0 }
 				b_castleton = {
 					color = { 0 0 0 }
@@ -5560,7 +5560,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_hampshire_2 = {
-				color = { 0 0 0 }
+				color = { 232 40 166 }
 				color2 = { 0 0 0 }
 				b_province_1717 = {
 					color = { 0 0 0 }
@@ -5594,7 +5594,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_augusta
 			c_grand_manan = {
-				color = { 0 0 0 }
+				color = { 5 139 177 }
 				color2 = { 0 0 0 }
 				b_province_1792 = {
 					color = { 0 0 0 }
@@ -5618,7 +5618,7 @@ e_nova_scotia = {
 				}
 			}
 			c_bangor = {
-				color = { 0 0 0 }
+				color = { 245 111 74 }
 				color2 = { 0 0 0 }
 				b_province_1744 = {
 					color = { 0 0 0 }
@@ -5642,7 +5642,7 @@ e_nova_scotia = {
 				}
 			}
 			c_augusta = {
-				color = { 0 0 0 }
+				color = { 117 201 170 }
 				color2 = { 0 0 0 }
 				b_province_1742 = {
 					color = { 0 0 0 }
@@ -5666,7 +5666,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_1 = {
-				color = { 0 0 0 }
+				color = { 50 151 62 }
 				color2 = { 0 0 0 }
 				b_province_1788 = {
 					color = { 0 0 0 }
@@ -5695,7 +5695,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_6 = {
-				color = { 0 0 0 }
+				color = { 124 228 198 }
 				color2 = { 0 0 0 }
 				b_province_1776 = {
 					color = { 0 0 0 }
@@ -5724,7 +5724,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_maine_2
 			c_maine_2 = {
-				color = { 0 0 0 }
+				color = { 71 16 162 }
 				color2 = { 0 0 0 }
 				b_province_1784 = {
 					color = { 0 0 0 }
@@ -5748,7 +5748,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_3 = {
-				color = { 0 0 0 }
+				color = { 28 56 195 }
 				color2 = { 0 0 0 }
 				b_province_1783 = {
 					color = { 0 0 0 }
@@ -5772,7 +5772,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_4 = {
-				color = { 0 0 0 }
+				color = { 150 204 219 }
 				color2 = { 0 0 0 }
 				b_province_1761 = {
 					color = { 0 0 0 }
@@ -5791,7 +5791,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_5 = {
-				color = { 0 0 0 }
+				color = { 193 91 232 }
 				color2 = { 0 0 0 }
 				b_province_1762 = {
 					color = { 0 0 0 }
@@ -5820,7 +5820,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_quebec_23
 			c_quebec_18 = {
-				color = { 0 0 0 }
+				color = { 61 187 242 }
 				color2 = { 0 0 0 }
 				b_province_1757 = {
 					color = { 0 0 0 }
@@ -5849,7 +5849,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_19 = {
-				color = { 0 0 0 }
+				color = { 90 44 5 }
 				color2 = { 0 0 0 }
 				b_province_1754 = {
 					color = { 0 0 0 }
@@ -5878,7 +5878,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_20 = {
-				color = { 0 0 0 }
+				color = { 66 86 2 }
 				color2 = { 0 0 0 }
 				b_province_1766 = {
 					color = { 0 0 0 }
@@ -5897,7 +5897,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_21 = {
-				color = { 0 0 0 }
+				color = { 124 97 26 }
 				color2 = { 0 0 0 }
 				b_sorel-tracy = {
 					color = { 0 0 0 }
@@ -5916,7 +5916,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_22 = {
-				color = { 0 0 0 }
+				color = { 185 81 213 }
 				color2 = { 0 0 0 }
 				b_val-des-sources = {
 					color = { 0 0 0 }
@@ -5950,7 +5950,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_23 = {
-				color = { 0 0 0 }
+				color = { 49 75 126 }
 				color2 = { 0 0 0 }
 				b_brossard = {
 					color = { 0 0 0 }
@@ -5984,7 +5984,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_portland
 			c_portland = {
-				color = { 0 0 0 }
+				color = { 112 145 13 }
 				color2 = { 0 0 0 }
 				b_province_1726 = {
 					color = { 0 0 0 }
@@ -6013,7 +6013,7 @@ e_nova_scotia = {
 				}
 			}
 			c_vermont_5 = {
-				color = { 0 0 0 }
+				color = { 2 142 129 }
 				color2 = { 0 0 0 }
 				b_newport_1666 = {
 					color = { 0 0 0 }
@@ -6032,7 +6032,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_hampshire_5 = {
-				color = { 0 0 0 }
+				color = { 152 138 139 }
 				color2 = { 0 0 0 }
 				b_province_1738 = {
 					color = { 0 0 0 }
@@ -6056,7 +6056,7 @@ e_nova_scotia = {
 				}
 			}
 			c_maine_7 = {
-				color = { 0 0 0 }
+				color = { 169 129 38 }
 				color2 = { 0 0 0 }
 				b_province_1772 = {
 					color = { 0 0 0 }
@@ -6085,7 +6085,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_vermont_4
 			c_vermont_1 = {
-				color = { 0 0 0 }
+				color = { 191 103 151 }
 				color2 = { 0 0 0 }
 				b_alburgh = {
 					color = { 0 0 0 }
@@ -6109,7 +6109,7 @@ e_nova_scotia = {
 				}
 			}
 			c_vermont_2 = {
-				color = { 0 0 0 }
+				color = { 147 168 105 }
 				color2 = { 0 0 0 }
 				b_stowe = {
 					color = { 0 0 0 }
@@ -6133,7 +6133,7 @@ e_nova_scotia = {
 				}
 			}
 			c_vermont_4 = {
-				color = { 0 0 0 }
+				color = { 113 138 108 }
 				color2 = { 0 0 0 }
 				b_middlebury = {
 					color = { 0 0 0 }
@@ -6152,7 +6152,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_hampshire_4 = {
-				color = { 0 0 0 }
+				color = { 171 120 116 }
 				color2 = { 0 0 0 }
 				b_province_1730 = {
 					color = { 0 0 0 }
@@ -6176,7 +6176,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_perce
 			c_gaspe = {
-				color = { 0 0 0 }
+				color = { 174 36 99 }
 				color2 = { 0 0 0 }
 				b_lanse-pleureuse = {
 					color = { 0 0 0 }
@@ -6200,7 +6200,7 @@ e_nova_scotia = {
 				}
 			}
 			c_perce = {
-				color = { 0 0 0 }
+				color = { 119 71 77 }
 				color2 = { 0 0 0 }
 				b_province_1832 = {
 					color = { 0 0 0 }
@@ -6229,7 +6229,7 @@ e_nova_scotia = {
 				}
 			}
 			c_gaspesie_inland = {
-				color = { 0 0 0 }
+				color = { 35 198 165 }
 				color2 = { 0 0 0 }
 				b_amqui = {
 					color = { 0 0 0 }
@@ -6253,7 +6253,7 @@ e_nova_scotia = {
 				}
 			}
 			c_saint-anne-des-monts = {
-				color = { 0 0 0 }
+				color = { 174 60 58 }
 				color2 = { 0 0 0 }
 				b_matane = {
 					color = { 0 0 0 }
@@ -6272,7 +6272,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_richmond = {
-				color = { 0 0 0 }
+				color = { 183 202 121 }
 				color2 = { 0 0 0 }
 				b_pointe-a-la-croix = {
 					color = { 0 0 0 }
@@ -6296,7 +6296,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_rogersville
 			c_campbellton = {
-				color = { 0 0 0 }
+				color = { 149 162 157 }
 				color2 = { 0 0 0 }
 				b_campbellton = {
 					color = { 0 0 0 }
@@ -6320,7 +6320,7 @@ e_nova_scotia = {
 				}
 			}
 			c_caraquet = {
-				color = { 0 0 0 }
+				color = { 150 31 76 }
 				color2 = { 0 0 0 }
 				b_province_1847 = {
 					color = { 0 0 0 }
@@ -6344,7 +6344,7 @@ e_nova_scotia = {
 				}
 			}
 			c_rogersville = {
-				color = { 0 0 0 }
+				color = { 38 214 47 }
 				color2 = { 0 0 0 }
 				b_province_1851 = {
 					color = { 0 0 0 }
@@ -6368,7 +6368,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_brunswick_1 = {
-				color = { 0 0 0 }
+				color = { 149 86 114 }
 				color2 = { 0 0 0 }
 				b_plaster_rock = {
 					color = { 0 0 0 }
@@ -6397,7 +6397,7 @@ e_nova_scotia = {
 				}
 			}
 			c_new_brunswick_2 = {
-				color = { 0 0 0 }
+				color = { 235 176 124 }
 				color2 = { 0 0 0 }
 				b_rapids_depot = {
 					color = { 0 0 0 }
@@ -6421,7 +6421,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_saint_george_ca
 			c_moncton = {
-				color = { 0 0 0 }
+				color = { 120 206 31 }
 				color2 = { 0 0 0 }
 				b_province_1853 = {
 					color = { 0 0 0 }
@@ -6445,7 +6445,7 @@ e_nova_scotia = {
 				}
 			}
 			c_saint_john = {
-				color = { 0 0 0 }
+				color = { 235 171 210 }
 				color2 = { 0 0 0 }
 				b_province_1862 = {
 					color = { 0 0 0 }
@@ -6469,7 +6469,7 @@ e_nova_scotia = {
 				}
 			}
 			c_fredericton = {
-				color = { 0 0 0 }
+				color = { 106 106 142 }
 				color2 = { 0 0 0 }
 				b_province_1856 = {
 					color = { 0 0 0 }
@@ -6493,7 +6493,7 @@ e_nova_scotia = {
 				}
 			}
 			c_saint_george_ca = {
-				color = { 0 0 0 }
+				color = { 140 117 136 }
 				color2 = { 0 0 0 }
 				b_province_1798 = {
 					color = { 0 0 0 }
@@ -6522,7 +6522,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_rimouski
 			c_rimouski = {
-				color = { 0 0 0 }
+				color = { 33 20 19 }
 				color2 = { 0 0 0 }
 				b_saint-fabien = {
 					color = { 0 0 0 }
@@ -6551,7 +6551,7 @@ e_nova_scotia = {
 				}
 			}
 			c_riviere-du-loup = {
-				color = { 0 0 0 }
+				color = { 76 248 130 }
 				color2 = { 0 0 0 }
 				b_temiscouata-sur-le-lac = {
 					color = { 0 0 0 }
@@ -6575,7 +6575,7 @@ e_nova_scotia = {
 				}
 			}
 			c_quebec_17 = {
-				color = { 0 0 0 }
+				color = { 249 118 2 }
 				color2 = { 0 0 0 }
 				b_province_1759 = {
 					color = { 0 0 0 }
@@ -6604,7 +6604,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_digby
 			c_kentville = {
-				color = { 0 0 0 }
+				color = { 76 115 152 }
 				color2 = { 0 0 0 }
 				b_bridgetown = {
 					color = { 0 0 0 }
@@ -6633,7 +6633,7 @@ e_nova_scotia = {
 				}
 			}
 			c_lunenburg = {
-				color = { 0 0 0 }
+				color = { 144 96 93 }
 				color2 = { 0 0 0 }
 				b_hubbards = {
 					color = { 0 0 0 }
@@ -6652,7 +6652,7 @@ e_nova_scotia = {
 				}
 			}
 			c_digby = {
-				color = { 0 0 0 }
+				color = { 243 5 165 }
 				color2 = { 0 0 0 }
 				b_kejimkuik = {
 					color = { 0 0 0 }
@@ -6676,7 +6676,7 @@ e_nova_scotia = {
 				}
 			}
 			c_yarmouth = {
-				color = { 0 0 0 }
+				color = { 91 33 243 }
 				color2 = { 0 0 0 }
 				b_clarks_harbour = {
 					color = { 0 0 0 }
@@ -6700,7 +6700,7 @@ e_nova_scotia = {
 				}
 			}
 			c_greenfield = {
-				color = { 0 0 0 }
+				color = { 37 32 186 }
 				color2 = { 0 0 0 }
 				b_greenfield = {
 					color = { 0 0 0 }
@@ -6734,7 +6734,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_south_cape_breton
 			c_magdalen = {
-				color = { 0 0 0 }
+				color = { 118 245 136 }
 				color2 = { 0 0 0 }
 				b_magdalen = {
 					color = { 0 0 0 }
@@ -6743,7 +6743,7 @@ e_nova_scotia = {
 				}
 			}
 			c_north_cape_breton = {
-				color = { 0 0 0 }
+				color = { 218 209 7 }
 				color2 = { 0 0 0 }
 				b_dingwall = {
 					color = { 0 0 0 }
@@ -6762,7 +6762,7 @@ e_nova_scotia = {
 				}
 			}
 			c_south_cape_breton = {
-				color = { 0 0 0 }
+				color = { 73 227 110 }
 				color2 = { 0 0 0 }
 				b_sydney = {
 					color = { 0 0 0 }
@@ -6786,7 +6786,7 @@ e_nova_scotia = {
 			color2 = { 0 0 0 }
 			capital = c_antigonish
 			c_prince_edward_island = {
-				color = { 0 0 0 }
+				color = { 47 65 178 }
 				color2 = { 0 0 0 }
 				b_summerside = {
 					color = { 0 0 0 }
@@ -6805,7 +6805,7 @@ e_nova_scotia = {
 				}
 			}
 			c_amherst = {
-				color = { 0 0 0 }
+				color = { 186 240 61 }
 				color2 = { 0 0 0 }
 				b_tatamagouche = {
 					color = { 0 0 0 }
@@ -6824,7 +6824,7 @@ e_nova_scotia = {
 				}
 			}
 			c_antigonish = {
-				color = { 0 0 0 }
+				color = { 92 184 106 }
 				color2 = { 0 0 0 }
 				b_guysborough = {
 					color = { 0 0 0 }
@@ -6848,7 +6848,7 @@ e_nova_scotia = {
 				}
 			}
 			c_truro = {
-				color = { 0 0 0 }
+				color = { 24 9 191 }
 				color2 = { 0 0 0 }
 				b_windsor = {
 					color = { 0 0 0 }
@@ -6867,7 +6867,7 @@ e_nova_scotia = {
 				}
 			}
 			c_halifax = {
-				color = { 0 0 0 }
+				color = { 139 74 64 }
 				color2 = { 0 0 0 }
 				b_sheet_harbour = {
 					color = { 0 0 0 }
@@ -6906,7 +6906,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_43
 			c_ontario_40 = {
-				color = { 0 0 0 }
+				color = { 212 187 220 }
 				color2 = { 0 0 0 }
 				b_ontario_337 = {
 					color = { 0 0 0 }
@@ -6930,7 +6930,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_41 = {
-				color = { 0 0 0 }
+				color = { 116 60 69 }
 				color2 = { 0 0 0 }
 				b_ontario_341 = {
 					color = { 0 0 0 }
@@ -6959,7 +6959,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_42 = {
-				color = { 0 0 0 }
+				color = { 37 64 29 }
 				color2 = { 0 0 0 }
 				b_ontario_345 = {
 					color = { 0 0 0 }
@@ -6988,7 +6988,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_43 = {
-				color = { 0 0 0 }
+				color = { 188 41 140 }
 				color2 = { 0 0 0 }
 				b_ontario_350 = {
 					color = { 0 0 0 }
@@ -7017,7 +7017,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_44 = {
-				color = { 0 0 0 }
+				color = { 59 164 200 }
 				color2 = { 0 0 0 }
 				b_ontario_353 = {
 					color = { 0 0 0 }
@@ -7046,7 +7046,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_46 = {
-				color = { 0 0 0 }
+				color = { 74 49 99 }
 				color2 = { 0 0 0 }
 				b_ontario_364 = {
 					color = { 0 0 0 }
@@ -7080,7 +7080,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_45
 			c_thunder_bay = {
-				color = { 0 0 0 }
+				color = { 248 210 18 }
 				color2 = { 0 0 0 }
 				b_ontario_400 = {
 					color = { 0 0 0 }
@@ -7099,7 +7099,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_45 = {
-				color = { 0 0 0 }
+				color = { 113 5 225 }
 				color2 = { 0 0 0 }
 				b_ontario_363 = {
 					color = { 0 0 0 }
@@ -7123,7 +7123,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_47 = {
-				color = { 0 0 0 }
+				color = { 117 51 164 }
 				color2 = { 0 0 0 }
 				b_ontario_377 = {
 					color = { 0 0 0 }
@@ -7147,7 +7147,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_48 = {
-				color = { 0 0 0 }
+				color = { 125 219 9 }
 				color2 = { 0 0 0 }
 				b_ontario_399 = {
 					color = { 0 0 0 }
@@ -7176,7 +7176,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_53
 			c_ontario_49 = {
-				color = { 0 0 0 }
+				color = { 39 62 125 }
 				color2 = { 0 0 0 }
 				b_ontario_366 = {
 					color = { 0 0 0 }
@@ -7210,7 +7210,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_50 = {
-				color = { 0 0 0 }
+				color = { 28 13 9 }
 				color2 = { 0 0 0 }
 				b_ontario_380 = {
 					color = { 0 0 0 }
@@ -7234,7 +7234,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_51 = {
-				color = { 0 0 0 }
+				color = { 41 63 122 }
 				color2 = { 0 0 0 }
 				b_ontario_383 = {
 					color = { 0 0 0 }
@@ -7263,7 +7263,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_53 = {
-				color = { 0 0 0 }
+				color = { 208 12 245 }
 				color2 = { 0 0 0 }
 				b_ontario_387 = {
 					color = { 0 0 0 }
@@ -7297,7 +7297,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_54 = {
-				color = { 0 0 0 }
+				color = { 8 3 59 }
 				color2 = { 0 0 0 }
 				b_ontario_392 = {
 					color = { 0 0 0 }
@@ -7331,7 +7331,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_55
 			c_ontario_52 = {
-				color = { 0 0 0 }
+				color = { 23 17 116 }
 				color2 = { 0 0 0 }
 				b_ontario_395 = {
 					color = { 0 0 0 }
@@ -7355,7 +7355,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_55 = {
-				color = { 0 0 0 }
+				color = { 230 73 23 }
 				color2 = { 0 0 0 }
 				b_province_425 = {
 					color = { 0 0 0 }
@@ -7384,7 +7384,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_56 = {
-				color = { 0 0 0 }
+				color = { 225 216 182 }
 				color2 = { 0 0 0 }
 				b_province_432 = {
 					color = { 0 0 0 }
@@ -7413,7 +7413,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_57 = {
-				color = { 0 0 0 }
+				color = { 48 116 84 }
 				color2 = { 0 0 0 }
 				b_province_422 = {
 					color = { 0 0 0 }
@@ -7437,7 +7437,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_58 = {
-				color = { 0 0 0 }
+				color = { 239 232 14 }
 				color2 = { 0 0 0 }
 				b_province_406 = {
 					color = { 0 0 0 }
@@ -7466,7 +7466,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_59 = {
-				color = { 0 0 0 }
+				color = { 49 177 154 }
 				color2 = { 0 0 0 }
 				b_province_436 = {
 					color = { 0 0 0 }
@@ -7500,7 +7500,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_63
 			c_ontario_60 = {
-				color = { 0 0 0 }
+				color = { 146 109 206 }
 				color2 = { 0 0 0 }
 				b_province_415 = {
 					color = { 0 0 0 }
@@ -7534,7 +7534,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_61 = {
-				color = { 0 0 0 }
+				color = { 104 175 55 }
 				color2 = { 0 0 0 }
 				b_province_441 = {
 					color = { 0 0 0 }
@@ -7553,7 +7553,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_62 = {
-				color = { 0 0 0 }
+				color = { 223 80 180 }
 				color2 = { 0 0 0 }
 				b_province_443 = {
 					color = { 0 0 0 }
@@ -7582,7 +7582,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_63 = {
-				color = { 0 0 0 }
+				color = { 50 177 252 }
 				color2 = { 0 0 0 }
 				b_province_458 = {
 					color = { 0 0 0 }
@@ -7606,7 +7606,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_64 = {
-				color = { 0 0 0 }
+				color = { 8 123 101 }
 				color2 = { 0 0 0 }
 				b_province_453 = {
 					color = { 0 0 0 }
@@ -7640,7 +7640,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_65 = {
-				color = { 0 0 0 }
+				color = { 106 116 140 }
 				color2 = { 0 0 0 }
 				b_province_449 = {
 					color = { 0 0 0 }
@@ -7684,7 +7684,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_27
 			c_manitoulin_island = {
-				color = { 0 0 0 }
+				color = { 35 70 244 }
 				color2 = { 0 0 0 }
 				b_barrie_island = {
 					color = { 0 0 0 }
@@ -7698,7 +7698,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_19 = {
-				color = { 0 0 0 }
+				color = { 156 85 149 }
 				color2 = { 0 0 0 }
 				b_ontario_270 = {
 					color = { 0 0 0 }
@@ -7727,7 +7727,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_20 = {
-				color = { 0 0 0 }
+				color = { 50 162 236 }
 				color2 = { 0 0 0 }
 				b_whitefish = {
 					color = { 0 0 0 }
@@ -7751,7 +7751,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_27 = {
-				color = { 0 0 0 }
+				color = { 49 123 42 }
 				color2 = { 0 0 0 }
 				b_elliot_lake = {
 					color = { 0 0 0 }
@@ -7780,7 +7780,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_23
 			c_ontario_21 = {
-				color = { 0 0 0 }
+				color = { 75 121 20 }
 				color2 = { 0 0 0 }
 				b_province_253 = {
 					color = { 0 0 0 }
@@ -7809,7 +7809,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_22 = {
-				color = { 0 0 0 }
+				color = { 214 241 117 }
 				color2 = { 0 0 0 }
 				b_sudbury = {
 					color = { 0 0 0 }
@@ -7828,7 +7828,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_23 = {
-				color = { 0 0 0 }
+				color = { 83 187 200 }
 				color2 = { 0 0 0 }
 				b_province_247 = {
 					color = { 0 0 0 }
@@ -7852,7 +7852,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_24 = {
-				color = { 0 0 0 }
+				color = { 236 107 202 }
 				color2 = { 0 0 0 }
 				b_province_251 = {
 					color = { 0 0 0 }
@@ -7876,7 +7876,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_25 = {
-				color = { 0 0 0 }
+				color = { 246 82 115 }
 				color2 = { 0 0 0 }
 				b_ontario_266 = {
 					color = { 0 0 0 }
@@ -7900,7 +7900,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_26 = {
-				color = { 0 0 0 }
+				color = { 25 221 229 }
 				color2 = { 0 0 0 }
 				b_ontario_261 = {
 					color = { 0 0 0 }
@@ -7929,7 +7929,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_29 = {
-				color = { 0 0 0 }
+				color = { 191 134 166 }
 				color2 = { 0 0 0 }
 				b_ontario_275 = {
 					color = { 0 0 0 }
@@ -7958,7 +7958,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_33 = {
-				color = { 0 0 0 }
+				color = { 236 1 3 }
 				color2 = { 0 0 0 }
 				b_ontario_278 = {
 					color = { 0 0 0 }
@@ -7987,7 +7987,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_28
 			c_ontario_28 = {
-				color = { 0 0 0 }
+				color = { 72 20 223 }
 				color2 = { 0 0 0 }
 				b_thessalon = {
 					color = { 0 0 0 }
@@ -8016,7 +8016,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_30 = {
-				color = { 0 0 0 }
+				color = { 156 209 121 }
 				color2 = { 0 0 0 }
 				b_ontario_282 = {
 					color = { 0 0 0 }
@@ -8040,7 +8040,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_31 = {
-				color = { 0 0 0 }
+				color = { 254 67 119 }
 				color2 = { 0 0 0 }
 				b_searchmont = {
 					color = { 0 0 0 }
@@ -8069,7 +8069,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_32 = {
-				color = { 0 0 0 }
+				color = { 175 149 113 }
 				color2 = { 0 0 0 }
 				b_ontario_304 = {
 					color = { 0 0 0 }
@@ -8093,7 +8093,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_34 = {
-				color = { 0 0 0 }
+				color = { 254 17 145 }
 				color2 = { 0 0 0 }
 				b_ontario_292 = {
 					color = { 0 0 0 }
@@ -8122,7 +8122,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_35 = {
-				color = { 0 0 0 }
+				color = { 47 209 71 }
 				color2 = { 0 0 0 }
 				b_ontario_321 = {
 					color = { 0 0 0 }
@@ -8151,7 +8151,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ontario_36
 			c_ontario_36 = {
-				color = { 0 0 0 }
+				color = { 82 0 12 }
 				color2 = { 0 0 0 }
 				b_ontario_324 = {
 					color = { 0 0 0 }
@@ -8170,7 +8170,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_37 = {
-				color = { 0 0 0 }
+				color = { 197 141 9 }
 				color2 = { 0 0 0 }
 				b_ontario_294 = {
 					color = { 0 0 0 }
@@ -8199,7 +8199,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_38 = {
-				color = { 0 0 0 }
+				color = { 71 104 45 }
 				color2 = { 0 0 0 }
 				b_ontario_298 = {
 					color = { 0 0 0 }
@@ -8228,7 +8228,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontario_39 = {
-				color = { 0 0 0 }
+				color = { 202 223 157 }
 				color2 = { 0 0 0 }
 				b_ontario_334 = {
 					color = { 0 0 0 }
@@ -8262,7 +8262,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_rochester_mn
 			c_farbault = {
-				color = { 0 0 0 }
+				color = { 139 4 153 }
 				color2 = { 0 0 0 }
 				b_province_1239 = {
 					color = { 0 0 0 }
@@ -8286,7 +8286,7 @@ e_gichi_gami = {
 				}
 			}
 			c_albert_lee = {
-				color = { 0 0 0 }
+				color = { 248 217 87 }
 				color2 = { 0 0 0 }
 				b_province_1235 = {
 					color = { 0 0 0 }
@@ -8310,7 +8310,7 @@ e_gichi_gami = {
 				}
 			}
 			c_rochester_mn = {
-				color = { 0 0 0 }
+				color = { 134 116 113 }
 				color2 = { 0 0 0 }
 				b_province_1243 = {
 					color = { 0 0 0 }
@@ -8334,7 +8334,7 @@ e_gichi_gami = {
 				}
 			}
 			c_winona = {
-				color = { 0 0 0 }
+				color = { 96 29 125 }
 				color2 = { 0 0 0 }
 				b_province_1248 = {
 					color = { 0 0 0 }
@@ -8363,7 +8363,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_minneapolis
 			c_minneapolis = {
-				color = { 0 0 0 }
+				color = { 175 140 233 }
 				color2 = { 0 0 0 }
 				b_province_1237 = {
 					color = { 0 0 0 }
@@ -8392,7 +8392,7 @@ e_gichi_gami = {
 				}
 			}
 			c_mora = {
-				color = { 0 0 0 }
+				color = { 231 203 205 }
 				color2 = { 0 0 0 }
 				b_province_509 = {
 					color = { 0 0 0 }
@@ -8416,7 +8416,7 @@ e_gichi_gami = {
 				}
 			}
 			c_brainerd = {
-				color = { 0 0 0 }
+				color = { 46 101 10 }
 				color2 = { 0 0 0 }
 				b_minnesota_494 = {
 					color = { 0 0 0 }
@@ -8440,7 +8440,7 @@ e_gichi_gami = {
 				}
 			}
 			c_sandstone = {
-				color = { 0 0 0 }
+				color = { 78 150 212 }
 				color2 = { 0 0 0 }
 				b_minnesota_505 = {
 					color = { 0 0 0 }
@@ -8464,7 +8464,7 @@ e_gichi_gami = {
 				}
 			}
 			c_moose_lake = {
-				color = { 0 0 0 }
+				color = { 22 236 46 }
 				color2 = { 0 0 0 }
 				b_minnesota_500 = {
 					color = { 0 0 0 }
@@ -8488,7 +8488,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_grand_rapids_mn
 			c_grand_rapids_mn = {
-				color = { 0 0 0 }
+				color = { 4 100 140 }
 				color2 = { 0 0 0 }
 				b_minnesota_492 = {
 					color = { 0 0 0 }
@@ -8512,7 +8512,7 @@ e_gichi_gami = {
 				}
 			}
 			c_effie = {
-				color = { 0 0 0 }
+				color = { 222 58 222 }
 				color2 = { 0 0 0 }
 				b_minnesota_474 = {
 					color = { 0 0 0 }
@@ -8536,7 +8536,7 @@ e_gichi_gami = {
 				}
 			}
 			c_international_falls = {
-				color = { 0 0 0 }
+				color = { 65 223 135 }
 				color2 = { 0 0 0 }
 				b_minnesota_471 = {
 					color = { 0 0 0 }
@@ -8555,7 +8555,7 @@ e_gichi_gami = {
 				}
 			}
 			c_voyageurs_park = {
-				color = { 0 0 0 }
+				color = { 170 210 249 }
 				color2 = { 0 0 0 }
 				b_minnesota_470 = {
 					color = { 0 0 0 }
@@ -8584,7 +8584,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_duluth
 			c_duluth = {
-				color = { 0 0 0 }
+				color = { 27 215 18 }
 				color2 = { 0 0 0 }
 				b_minnesota_497 = {
 					color = { 0 0 0 }
@@ -8603,7 +8603,7 @@ e_gichi_gami = {
 				}
 			}
 			c_virginia_mn = {
-				color = { 0 0 0 }
+				color = { 250 159 5 }
 				color2 = { 0 0 0 }
 				b_minnesota_488 = {
 					color = { 0 0 0 }
@@ -8627,7 +8627,7 @@ e_gichi_gami = {
 				}
 			}
 			c_silver_bay = {
-				color = { 0 0 0 }
+				color = { 206 135 103 }
 				color2 = { 0 0 0 }
 				b_minnesota_478 = {
 					color = { 0 0 0 }
@@ -8651,7 +8651,7 @@ e_gichi_gami = {
 				}
 			}
 			c_grand_marais = {
-				color = { 0 0 0 }
+				color = { 47 128 213 }
 				color2 = { 0 0 0 }
 				b_province_427 = {
 					color = { 0 0 0 }
@@ -8670,7 +8670,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ely_mn = {
-				color = { 0 0 0 }
+				color = { 235 164 52 }
 				color2 = { 0 0 0 }
 				b_minnesota_477 = {
 					color = { 0 0 0 }
@@ -8694,7 +8694,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_eau_claire
 			c_yellow_lake = {
-				color = { 0 0 0 }
+				color = { 178 67 109 }
 				color2 = { 0 0 0 }
 				b_province_513 = {
 					color = { 0 0 0 }
@@ -8718,7 +8718,7 @@ e_gichi_gami = {
 				}
 			}
 			c_eau_claire = {
-				color = { 0 0 0 }
+				color = { 247 253 250 }
 				color2 = { 0 0 0 }
 				b_province_1267 = {
 					color = { 0 0 0 }
@@ -8747,7 +8747,7 @@ e_gichi_gami = {
 				}
 			}
 			c_amery = {
-				color = { 0 0 0 }
+				color = { 94 202 140 }
 				color2 = { 0 0 0 }
 				b_province_515 = {
 					color = { 0 0 0 }
@@ -8771,7 +8771,7 @@ e_gichi_gami = {
 				}
 			}
 			c_arcadia = {
-				color = { 0 0 0 }
+				color = { 170 253 214 }
 				color2 = { 0 0 0 }
 				b_province_1266 = {
 					color = { 0 0 0 }
@@ -8790,7 +8790,7 @@ e_gichi_gami = {
 				}
 			}
 			c_black_river_falls = {
-				color = { 0 0 0 }
+				color = { 157 47 56 }
 				color2 = { 0 0 0 }
 				b_province_1277 = {
 					color = { 0 0 0 }
@@ -8819,7 +8819,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_hayward
 			c_washburn = {
-				color = { 0 0 0 }
+				color = { 212 165 13 }
 				color2 = { 0 0 0 }
 				b_province_522 = {
 					color = { 0 0 0 }
@@ -8843,7 +8843,7 @@ e_gichi_gami = {
 				}
 			}
 			c_chequamegon-nicolet = {
-				color = { 0 0 0 }
+				color = { 231 96 106 }
 				color2 = { 0 0 0 }
 				b_province_533 = {
 					color = { 0 0 0 }
@@ -8867,7 +8867,7 @@ e_gichi_gami = {
 				}
 			}
 			c_hayward = {
-				color = { 0 0 0 }
+				color = { 146 15 183 }
 				color2 = { 0 0 0 }
 				b_province_521 = {
 					color = { 0 0 0 }
@@ -8891,7 +8891,7 @@ e_gichi_gami = {
 				}
 			}
 			c_rice_lake = {
-				color = { 0 0 0 }
+				color = { 3 240 174 }
 				color2 = { 0 0 0 }
 				b_province_528 = {
 					color = { 0 0 0 }
@@ -8930,7 +8930,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_mackinac
 			c_drummond = {
-				color = { 0 0 0 }
+				color = { 228 13 142 }
 				color2 = { 0 0 0 }
 				b_de_tour = {
 					color = { 0 0 0 }
@@ -8944,7 +8944,7 @@ e_gichi_gami = {
 				}
 			}
 			c_mackinac = {
-				color = { 0 0 0 }
+				color = { 195 118 17 }
 				color2 = { 0 0 0 }
 				b_naubinway = {
 					color = { 0 0 0 }
@@ -8963,7 +8963,7 @@ e_gichi_gami = {
 				}
 			}
 			c_sault_ste_marie_usa = {
-				color = { 0 0 0 }
+				color = { 231 213 134 }
 				color2 = { 0 0 0 }
 				b_eckerman = {
 					color = { 0 0 0 }
@@ -8987,7 +8987,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_manistique
 			c_newberry = {
-				color = { 0 0 0 }
+				color = { 71 95 151 }
 				color2 = { 0 0 0 }
 				b_mcmillan = {
 					color = { 0 0 0 }
@@ -9011,7 +9011,7 @@ e_gichi_gami = {
 				}
 			}
 			c_munising = {
-				color = { 0 0 0 }
+				color = { 242 75 125 }
 				color2 = { 0 0 0 }
 				b_hiawatha_forest = {
 					color = { 0 0 0 }
@@ -9035,7 +9035,7 @@ e_gichi_gami = {
 				}
 			}
 			c_manistique = {
-				color = { 0 0 0 }
+				color = { 44 32 73 }
 				color2 = { 0 0 0 }
 				b_big_bay_de_noc = {
 					color = { 0 0 0 }
@@ -9054,7 +9054,7 @@ e_gichi_gami = {
 				}
 			}
 			c_deerton = {
-				color = { 0 0 0 }
+				color = { 71 60 116 }
 				color2 = { 0 0 0 }
 				b_ishpeming = {
 					color = { 0 0 0 }
@@ -9078,7 +9078,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_phillips
 			c_minocqua = {
-				color = { 0 0 0 }
+				color = { 80 150 227 }
 				color2 = { 0 0 0 }
 				b_province_541 = {
 					color = { 0 0 0 }
@@ -9102,7 +9102,7 @@ e_gichi_gami = {
 				}
 			}
 			c_rhinelander = {
-				color = { 0 0 0 }
+				color = { 63 220 255 }
 				color2 = { 0 0 0 }
 				b_province_549 = {
 					color = { 0 0 0 }
@@ -9126,7 +9126,7 @@ e_gichi_gami = {
 				}
 			}
 			c_tomahawk = {
-				color = { 0 0 0 }
+				color = { 42 48 27 }
 				color2 = { 0 0 0 }
 				b_province_540 = {
 					color = { 0 0 0 }
@@ -9150,7 +9150,7 @@ e_gichi_gami = {
 				}
 			}
 			c_phillips = {
-				color = { 0 0 0 }
+				color = { 200 32 242 }
 				color2 = { 0 0 0 }
 				b_province_539 = {
 					color = { 0 0 0 }
@@ -9174,7 +9174,7 @@ e_gichi_gami = {
 				}
 			}
 			c_abbotsford = {
-				color = { 0 0 0 }
+				color = { 25 8 236 }
 				color2 = { 0 0 0 }
 				b_province_1276 = {
 					color = { 0 0 0 }
@@ -9203,7 +9203,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_ottawa_forest
 			c_marinette = {
-				color = { 0 0 0 }
+				color = { 143 28 166 }
 				color2 = { 0 0 0 }
 				b_marinette = {
 					color = { 0 0 0 }
@@ -9227,7 +9227,7 @@ e_gichi_gami = {
 				}
 			}
 			c_escanaba = {
-				color = { 0 0 0 }
+				color = { 145 103 61 }
 				color2 = { 0 0 0 }
 				b_escanaba_forest = {
 					color = { 0 0 0 }
@@ -9251,7 +9251,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ottawa_forest = {
-				color = { 0 0 0 }
+				color = { 116 88 174 }
 				color2 = { 0 0 0 }
 				b_province_552 = {
 					color = { 0 0 0 }
@@ -9285,7 +9285,7 @@ e_gichi_gami = {
 			color2 = { 0 0 0 }
 			capital = c_bessemer
 			c_houghton = {
-				color = { 0 0 0 }
+				color = { 120 244 80 }
 				color2 = { 0 0 0 }
 				b_houghton = {
 					color = { 0 0 0 }
@@ -9304,7 +9304,7 @@ e_gichi_gami = {
 				}
 			}
 			c_marquette = {
-				color = { 0 0 0 }
+				color = { 190 216 132 }
 				color2 = { 0 0 0 }
 				b_lanse = {
 					color = { 0 0 0 }
@@ -9323,7 +9323,7 @@ e_gichi_gami = {
 				}
 			}
 			c_bessemer = {
-				color = { 0 0 0 }
+				color = { 94 2 246 }
 				color2 = { 0 0 0 }
 				b_province_543 = {
 					color = { 0 0 0 }
@@ -9347,7 +9347,7 @@ e_gichi_gami = {
 				}
 			}
 			c_ontonagon = {
-				color = { 0 0 0 }
+				color = { 31 186 229 }
 				color2 = { 0 0 0 }
 				b_province_554 = {
 					color = { 0 0 0 }
@@ -9386,7 +9386,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_west_virginia_2
 			c_weston = {
-				color = { 0 0 0 }
+				color = { 237 61 26 }
 				color2 = { 0 0 0 }
 				b_folsom = {
 					color = { 0 0 0 }
@@ -9415,7 +9415,7 @@ e_lenape = {
 				}
 			}
 			c_parkersburg = {
-				color = { 0 0 0 }
+				color = { 247 69 230 }
 				color2 = { 0 0 0 }
 				b_parkersburg = {
 					color = { 0 0 0 }
@@ -9439,7 +9439,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_2 = {
-				color = { 0 0 0 }
+				color = { 128 247 161 }
 				color2 = { 0 0 0 }
 				b_big_otter = {
 					color = { 0 0 0 }
@@ -9473,7 +9473,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_virginia_8
 			c_virginia_8 = {
-				color = { 0 0 0 }
+				color = { 169 56 53 }
 				color2 = { 0 0 0 }
 				b_province_1493 = {
 					color = { 0 0 0 }
@@ -9502,7 +9502,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_9 = {
-				color = { 0 0 0 }
+				color = { 158 90 247 }
 				color2 = { 0 0 0 }
 				b_province_1490 = {
 					color = { 0 0 0 }
@@ -9521,7 +9521,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_4 = {
-				color = { 0 0 0 }
+				color = { 103 10 154 }
 				color2 = { 0 0 0 }
 				b_province_1488 = {
 					color = { 0 0 0 }
@@ -9545,7 +9545,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_pittsburgh
 			c_pittsburgh = {
-				color = { 0 0 0 }
+				color = { 50 114 96 }
 				color2 = { 0 0 0 }
 				b_province_1433 = {
 					color = { 0 0 0 }
@@ -9574,7 +9574,7 @@ e_lenape = {
 				}
 			}
 			c_wellsburg = {
-				color = { 0 0 0 }
+				color = { 204 186 185 }
 				color2 = { 0 0 0 }
 				b_province_1100 = {
 					color = { 0 0 0 }
@@ -9598,7 +9598,7 @@ e_lenape = {
 				}
 			}
 			c_wheeling = {
-				color = { 0 0 0 }
+				color = { 140 18 178 }
 				color2 = { 0 0 0 }
 				b_proctor = {
 					color = { 0 0 0 }
@@ -9622,7 +9622,7 @@ e_lenape = {
 				}
 			}
 			c_morgantown = {
-				color = { 0 0 0 }
+				color = { 202 242 251 }
 				color2 = { 0 0 0 }
 				b_morgantown = {
 					color = { 0 0 0 }
@@ -9641,7 +9641,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_3 = {
-				color = { 0 0 0 }
+				color = { 234 166 221 }
 				color2 = { 0 0 0 }
 				b_uniontown = {
 					color = { 0 0 0 }
@@ -9665,7 +9665,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_pennsylvania_1
 			c_erie = {
-				color = { 0 0 0 }
+				color = { 49 32 140 }
 				color2 = { 0 0 0 }
 				b_erie = {
 					color = { 0 0 0 }
@@ -9684,7 +9684,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_1 = {
-				color = { 0 0 0 }
+				color = { 214 247 53 }
 				color2 = { 0 0 0 }
 				b_geneva = {
 					color = { 0 0 0 }
@@ -9708,7 +9708,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_2 = {
-				color = { 0 0 0 }
+				color = { 147 104 239 }
 				color2 = { 0 0 0 }
 				b_province_1426 = {
 					color = { 0 0 0 }
@@ -9737,7 +9737,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_8 = {
-				color = { 0 0 0 }
+				color = { 180 109 147 }
 				color2 = { 0 0 0 }
 				b_province_1430 = {
 					color = { 0 0 0 }
@@ -9766,7 +9766,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_pennsylvania_10
 			c_pennsylvania_5 = {
-				color = { 0 0 0 }
+				color = { 132 162 130 }
 				color2 = { 0 0 0 }
 				b_province_1496 = {
 					color = { 0 0 0 }
@@ -9790,7 +9790,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_9 = {
-				color = { 0 0 0 }
+				color = { 24 12 214 }
 				color2 = { 0 0 0 }
 				b_province_1441 = {
 					color = { 0 0 0 }
@@ -9819,7 +9819,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_10 = {
-				color = { 0 0 0 }
+				color = { 114 252 11 }
 				color2 = { 0 0 0 }
 				b_province_1434 = {
 					color = { 0 0 0 }
@@ -9863,7 +9863,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_virginia_3
 			c_virginia_3 = {
-				color = { 0 0 0 }
+				color = { 225 144 179 }
 				color2 = { 0 0 0 }
 				b_altavista = {
 					color = { 0 0 0 }
@@ -9892,7 +9892,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_4 = {
-				color = { 0 0 0 }
+				color = { 133 116 85 }
 				color2 = { 0 0 0 }
 				b_lexington = {
 					color = { 0 0 0 }
@@ -9911,7 +9911,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_7 = {
-				color = { 0 0 0 }
+				color = { 8 255 207 }
 				color2 = { 0 0 0 }
 				b_mt_jackson = {
 					color = { 0 0 0 }
@@ -9930,7 +9930,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_6 = {
-				color = { 0 0 0 }
+				color = { 179 137 233 }
 				color2 = { 0 0 0 }
 				b_covington = {
 					color = { 0 0 0 }
@@ -9954,7 +9954,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_virginia_1
 			c_virginia_1 = {
-				color = { 0 0 0 }
+				color = { 156 89 148 }
 				color2 = { 0 0 0 }
 				b_petersburg = {
 					color = { 0 0 0 }
@@ -9983,7 +9983,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_2 = {
-				color = { 0 0 0 }
+				color = { 170 63 128 }
 				color2 = { 0 0 0 }
 				b_blackstone = {
 					color = { 0 0 0 }
@@ -10007,7 +10007,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_5 = {
-				color = { 0 0 0 }
+				color = { 148 104 240 }
 				color2 = { 0 0 0 }
 				b_fredericksburg = {
 					color = { 0 0 0 }
@@ -10031,7 +10031,7 @@ e_lenape = {
 				}
 			}
 			c_virginia_6 = {
-				color = { 0 0 0 }
+				color = { 67 176 189 }
 				color2 = { 0 0 0 }
 				b_ruckersville = {
 					color = { 0 0 0 }
@@ -10055,7 +10055,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_west_virginia_3
 			c_west_virginia_1 = {
-				color = { 0 0 0 }
+				color = { 103 60 32 }
 				color2 = { 0 0 0 }
 				b_charleston = {
 					color = { 0 0 0 }
@@ -10079,7 +10079,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_3 = {
-				color = { 0 0 0 }
+				color = { 167 219 54 }
 				color2 = { 0 0 0 }
 				b_huntington = {
 					color = { 0 0 0 }
@@ -10108,7 +10108,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_4 = {
-				color = { 0 0 0 }
+				color = { 36 213 8 }
 				color2 = { 0 0 0 }
 				b_delbarton = {
 					color = { 0 0 0 }
@@ -10137,7 +10137,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_5 = {
-				color = { 0 0 0 }
+				color = { 219 1 222 }
 				color2 = { 0 0 0 }
 				b_montgomery = {
 					color = { 0 0 0 }
@@ -10161,7 +10161,7 @@ e_lenape = {
 				}
 			}
 			c_west_virginia_7 = {
-				color = { 0 0 0 }
+				color = { 86 215 200 }
 				color2 = { 0 0 0 }
 				b_rich_creek = {
 					color = { 0 0 0 }
@@ -10190,7 +10190,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_maryland_3
 			c_maryland_2 = {
-				color = { 0 0 0 }
+				color = { 11 60 200 }
 				color2 = { 0 0 0 }
 				b_deal_island = {
 					color = { 0 0 0 }
@@ -10214,7 +10214,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_3 = {
-				color = { 0 0 0 }
+				color = { 249 87 2 }
 				color2 = { 0 0 0 }
 				b_easton = {
 					color = { 0 0 0 }
@@ -10233,7 +10233,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_4 = {
-				color = { 0 0 0 }
+				color = { 208 210 57 }
 				color2 = { 0 0 0 }
 				b_townsend = {
 					color = { 0 0 0 }
@@ -10252,7 +10252,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_5 = {
-				color = { 0 0 0 }
+				color = { 205 242 195 }
 				color2 = { 0 0 0 }
 				b_ocean_city = {
 					color = { 0 0 0 }
@@ -10281,7 +10281,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_maryland_6
 			c_baltimore = {
-				color = { 0 0 0 }
+				color = { 137 86 145 }
 				color2 = { 0 0 0 }
 				b_annapolis = {
 					color = { 0 0 0 }
@@ -10300,7 +10300,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_1 = {
-				color = { 0 0 0 }
+				color = { 130 174 26 }
 				color2 = { 0 0 0 }
 				b_saint_marys_city = {
 					color = { 0 0 0 }
@@ -10324,7 +10324,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_6 = {
-				color = { 0 0 0 }
+				color = { 46 223 194 }
 				color2 = { 0 0 0 }
 				b_aberdeen = {
 					color = { 0 0 0 }
@@ -10348,7 +10348,7 @@ e_lenape = {
 				}
 			}
 			c_maryland_7 = {
-				color = { 0 0 0 }
+				color = { 41 58 158 }
 				color2 = { 0 0 0 }
 				b_province_1495 = {
 					color = { 0 0 0 }
@@ -10377,7 +10377,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_philadelphia
 			c_philadelphia = {
-				color = { 0 0 0 }
+				color = { 236 228 201 }
 				color2 = { 0 0 0 }
 				b_elkton = {
 					color = { 0 0 0 }
@@ -10401,7 +10401,7 @@ e_lenape = {
 				}
 			}
 			c_atlantic_city = {
-				color = { 0 0 0 }
+				color = { 153 124 118 }
 				color2 = { 0 0 0 }
 				b_bridgeton = {
 					color = { 0 0 0 }
@@ -10420,7 +10420,7 @@ e_lenape = {
 				}
 			}
 			c_ashbury_park = {
-				color = { 0 0 0 }
+				color = { 146 6 135 }
 				color2 = { 0 0 0 }
 				b_toms_river = {
 					color = { 0 0 0 }
@@ -10439,7 +10439,7 @@ e_lenape = {
 				}
 			}
 			c_new_jersey_1 = {
-				color = { 0 0 0 }
+				color = { 127 185 122 }
 				color2 = { 0 0 0 }
 				b_province_1585 = {
 					color = { 0 0 0 }
@@ -10473,7 +10473,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_new_york
 			c_new_york = {
-				color = { 0 0 0 }
+				color = { 236 15 201 }
 				color2 = { 0 0 0 }
 				b_edison = {
 					color = { 0 0 0 }
@@ -10502,7 +10502,7 @@ e_lenape = {
 				}
 			}
 			c_long_island = {
-				color = { 0 0 0 }
+				color = { 155 221 241 }
 				color2 = { 0 0 0 }
 				b_brooklyn = {
 					color = { 0 0 0 }
@@ -10521,7 +10521,7 @@ e_lenape = {
 				}
 			}
 			c_new_york_1 = {
-				color = { 0 0 0 }
+				color = { 29 32 121 }
 				color2 = { 0 0 0 }
 				b_province_1591 = {
 					color = { 0 0 0 }
@@ -10540,7 +10540,7 @@ e_lenape = {
 				}
 			}
 			c_new_york_7 = {
-				color = { 0 0 0 }
+				color = { 145 207 14 }
 				color2 = { 0 0 0 }
 				b_province_1598 = {
 					color = { 0 0 0 }
@@ -10564,7 +10564,7 @@ e_lenape = {
 				}
 			}
 			c_new_york_8 = {
-				color = { 0 0 0 }
+				color = { 172 161 32 }
 				color2 = { 0 0 0 }
 				b_province_1596 = {
 					color = { 0 0 0 }
@@ -10588,7 +10588,7 @@ e_lenape = {
 			color2 = { 0 0 0 }
 			capital = c_pennsylvania_7
 			c_pennsylvania_6 = {
-				color = { 0 0 0 }
+				color = { 200 233 25 }
 				color2 = { 0 0 0 }
 				b_harrisburg = {
 					color = { 0 0 0 }
@@ -10612,7 +10612,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_7 = {
-				color = { 0 0 0 }
+				color = { 244 93 244 }
 				color2 = { 0 0 0 }
 				b_province_1465 = {
 					color = { 0 0 0 }
@@ -10641,7 +10641,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_11 = {
-				color = { 0 0 0 }
+				color = { 237 44 70 }
 				color2 = { 0 0 0 }
 				b_province_1449 = {
 					color = { 0 0 0 }
@@ -10665,7 +10665,7 @@ e_lenape = {
 				}
 			}
 			c_pennsylvania_12 = {
-				color = { 0 0 0 }
+				color = { 84 76 87 }
 				color2 = { 0 0 0 }
 				b_province_1582 = {
 					color = { 0 0 0 }
@@ -10699,7 +10699,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_higginsville
 			c_jefferson_city = {
-				color = { 0 0 0 }
+				color = { 198 74 224 }
 				color2 = { 0 0 0 }
 				b_missouri_1126 = {
 					color = { 0 0 0 }
@@ -10723,7 +10723,7 @@ e_mississippi = {
 				}
 			}
 			c_lebanon_ms = {
-				color = { 0 0 0 }
+				color = { 217 68 212 }
 				color2 = { 0 0 0 }
 				b_missouri_1122 = {
 					color = { 0 0 0 }
@@ -10752,7 +10752,7 @@ e_mississippi = {
 				}
 			}
 			c_bolivar = {
-				color = { 0 0 0 }
+				color = { 248 234 147 }
 				color2 = { 0 0 0 }
 				b_missouri_1131 = {
 					color = { 0 0 0 }
@@ -10771,7 +10771,7 @@ e_mississippi = {
 				}
 			}
 			c_warsaw_ms = {
-				color = { 0 0 0 }
+				color = { 185 27 59 }
 				color2 = { 0 0 0 }
 				b_missouri_1133 = {
 					color = { 0 0 0 }
@@ -10805,7 +10805,7 @@ e_mississippi = {
 				}
 			}
 			c_higginsville = {
-				color = { 0 0 0 }
+				color = { 223 47 239 }
 				color2 = { 0 0 0 }
 				b_missouri_1137 = {
 					color = { 0 0 0 }
@@ -10839,7 +10839,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_perryville_ms
 			c_perryville_ms = {
-				color = { 0 0 0 }
+				color = { 9 116 130 }
 				color2 = { 0 0 0 }
 				b_missouri_1101 = {
 					color = { 0 0 0 }
@@ -10858,7 +10858,7 @@ e_mississippi = {
 				}
 			}
 			c_farmington = {
-				color = { 0 0 0 }
+				color = { 130 176 15 }
 				color2 = { 0 0 0 }
 				b_missouri_1104 = {
 					color = { 0 0 0 }
@@ -10882,7 +10882,7 @@ e_mississippi = {
 				}
 			}
 			c_salem_ms = {
-				color = { 0 0 0 }
+				color = { 234 23 186 }
 				color2 = { 0 0 0 }
 				b_mark_twain_forest = {
 					color = { 0 0 0 }
@@ -10916,7 +10916,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_sullivan_ms
 			c_st_louis = {
-				color = { 0 0 0 }
+				color = { 197 119 1 }
 				color2 = { 0 0 0 }
 				b_herculaneum = {
 					color = { 0 0 0 }
@@ -10935,7 +10935,7 @@ e_mississippi = {
 				}
 			}
 			c_sullivan_ms = {
-				color = { 0 0 0 }
+				color = { 110 15 174 }
 				color2 = { 0 0 0 }
 				b_luebbering = {
 					color = { 0 0 0 }
@@ -10959,7 +10959,7 @@ e_mississippi = {
 				}
 			}
 			c_hermann = {
-				color = { 0 0 0 }
+				color = { 146 201 123 }
 				color2 = { 0 0 0 }
 				b_missouri_1118 = {
 					color = { 0 0 0 }
@@ -10988,7 +10988,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_centralia_ms
 			c_centralia_ms = {
-				color = { 0 0 0 }
+				color = { 24 210 41 }
 				color2 = { 0 0 0 }
 				b_province_1155 = {
 					color = { 0 0 0 }
@@ -11012,7 +11012,7 @@ e_mississippi = {
 				}
 			}
 			c_columbia_ms = {
-				color = { 0 0 0 }
+				color = { 161 213 24 }
 				color2 = { 0 0 0 }
 				b_province_1153 = {
 					color = { 0 0 0 }
@@ -11031,7 +11031,7 @@ e_mississippi = {
 				}
 			}
 			c_bowling_green_ms = {
-				color = { 0 0 0 }
+				color = { 237 2 208 }
 				color2 = { 0 0 0 }
 				b_st_peters = {
 					color = { 0 0 0 }
@@ -11065,7 +11065,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_hannibal_ms
 			c_wayland = {
-				color = { 0 0 0 }
+				color = { 156 125 184 }
 				color2 = { 0 0 0 }
 				b_province_1178 = {
 					color = { 0 0 0 }
@@ -11084,7 +11084,7 @@ e_mississippi = {
 				}
 			}
 			c_hannibal_ms = {
-				color = { 0 0 0 }
+				color = { 108 255 217 }
 				color2 = { 0 0 0 }
 				b_province_1150 = {
 					color = { 0 0 0 }
@@ -11113,7 +11113,7 @@ e_mississippi = {
 				}
 			}
 			c_unionville_ms = {
-				color = { 0 0 0 }
+				color = { 191 5 123 }
 				color2 = { 0 0 0 }
 				b_province_1171 = {
 					color = { 0 0 0 }
@@ -11137,7 +11137,7 @@ e_mississippi = {
 				}
 			}
 			c_chillicothe_ms = {
-				color = { 0 0 0 }
+				color = { 163 67 232 }
 				color2 = { 0 0 0 }
 				b_province_1162 = {
 					color = { 0 0 0 }
@@ -11166,7 +11166,7 @@ e_mississippi = {
 				}
 			}
 			c_macon_ms = {
-				color = { 0 0 0 }
+				color = { 132 208 77 }
 				color2 = { 0 0 0 }
 				b_province_1160 = {
 					color = { 0 0 0 }
@@ -11195,7 +11195,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_newton
 			c_mount_pleasant = {
-				color = { 0 0 0 }
+				color = { 154 240 92 }
 				color2 = { 0 0 0 }
 				b_province_1180 = {
 					color = { 0 0 0 }
@@ -11224,7 +11224,7 @@ e_mississippi = {
 				}
 			}
 			c_ottumwa = {
-				color = { 0 0 0 }
+				color = { 69 60 191 }
 				color2 = { 0 0 0 }
 				b_province_1182 = {
 					color = { 0 0 0 }
@@ -11253,7 +11253,7 @@ e_mississippi = {
 				}
 			}
 			c_des_moines = {
-				color = { 0 0 0 }
+				color = { 24 106 0 }
 				color2 = { 0 0 0 }
 				b_province_1174 = {
 					color = { 0 0 0 }
@@ -11277,7 +11277,7 @@ e_mississippi = {
 				}
 			}
 			c_newton = {
-				color = { 0 0 0 }
+				color = { 210 163 225 }
 				color2 = { 0 0 0 }
 				b_province_1187 = {
 					color = { 0 0 0 }
@@ -11306,7 +11306,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_central_city
 			c_davenport = {
-				color = { 0 0 0 }
+				color = { 205 233 72 }
 				color2 = { 0 0 0 }
 				b_province_1214 = {
 					color = { 0 0 0 }
@@ -11330,7 +11330,7 @@ e_mississippi = {
 				}
 			}
 			c_dubuque = {
-				color = { 0 0 0 }
+				color = { 64 121 92 }
 				color2 = { 0 0 0 }
 				b_province_1218 = {
 					color = { 0 0 0 }
@@ -11359,7 +11359,7 @@ e_mississippi = {
 				}
 			}
 			c_central_city = {
-				color = { 0 0 0 }
+				color = { 32 179 71 }
 				color2 = { 0 0 0 }
 				b_province_1210 = {
 					color = { 0 0 0 }
@@ -11383,7 +11383,7 @@ e_mississippi = {
 				}
 			}
 			c_cedar_rapids = {
-				color = { 0 0 0 }
+				color = { 86 169 117 }
 				color2 = { 0 0 0 }
 				b_province_1197 = {
 					color = { 0 0 0 }
@@ -11412,7 +11412,7 @@ e_mississippi = {
 				}
 			}
 			c_waterloo_io = {
-				color = { 0 0 0 }
+				color = { 205 135 68 }
 				color2 = { 0 0 0 }
 				b_province_1201 = {
 					color = { 0 0 0 }
@@ -11446,7 +11446,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_waterloo_iowa
 			c_mason_city = {
-				color = { 0 0 0 }
+				color = { 128 191 192 }
 				color2 = { 0 0 0 }
 				b_province_1232 = {
 					color = { 0 0 0 }
@@ -11470,7 +11470,7 @@ e_mississippi = {
 				}
 			}
 			c_ames = {
-				color = { 0 0 0 }
+				color = { 172 167 194 }
 				color2 = { 0 0 0 }
 				b_province_1202 = {
 					color = { 0 0 0 }
@@ -11499,7 +11499,7 @@ e_mississippi = {
 				}
 			}
 			c_waterloo_iowa = {
-				color = { 0 0 0 }
+				color = { 67 82 45 }
 				color2 = { 0 0 0 }
 				b_province_1228 = {
 					color = { 0 0 0 }
@@ -11528,7 +11528,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_west_union
 			c_waukon = {
-				color = { 0 0 0 }
+				color = { 213 1 111 }
 				color2 = { 0 0 0 }
 				b_province_1257 = {
 					color = { 0 0 0 }
@@ -11547,7 +11547,7 @@ e_mississippi = {
 				}
 			}
 			c_cresco = {
-				color = { 0 0 0 }
+				color = { 106 20 5 }
 				color2 = { 0 0 0 }
 				b_province_1251 = {
 					color = { 0 0 0 }
@@ -11571,7 +11571,7 @@ e_mississippi = {
 				}
 			}
 			c_west_union = {
-				color = { 0 0 0 }
+				color = { 154 240 143 }
 				color2 = { 0 0 0 }
 				b_province_1223 = {
 					color = { 0 0 0 }
@@ -11610,7 +11610,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_chicago
 			c_chicago = {
-				color = { 0 0 0 }
+				color = { 242 222 235 }
 				color2 = { 0 0 0 }
 				b_whiting = {
 					color = { 0 0 0 }
@@ -11639,7 +11639,7 @@ e_mississippi = {
 				}
 			}
 			c_sheridan_il = {
-				color = { 0 0 0 }
+				color = { 227 81 27 }
 				color2 = { 0 0 0 }
 				b_province_1316 = {
 					color = { 0 0 0 }
@@ -11663,7 +11663,7 @@ e_mississippi = {
 				}
 			}
 			c_rockford_il = {
-				color = { 0 0 0 }
+				color = { 19 206 78 }
 				color2 = { 0 0 0 }
 				b_province_1326 = {
 					color = { 0 0 0 }
@@ -11687,7 +11687,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_moline
 			c_moline = {
-				color = { 0 0 0 }
+				color = { 173 246 188 }
 				color2 = { 0 0 0 }
 				b_province_1293 = {
 					color = { 0 0 0 }
@@ -11711,7 +11711,7 @@ e_mississippi = {
 				}
 			}
 			c_kewanee_il = {
-				color = { 0 0 0 }
+				color = { 208 115 205 }
 				color2 = { 0 0 0 }
 				b_province_1309 = {
 					color = { 0 0 0 }
@@ -11735,7 +11735,7 @@ e_mississippi = {
 				}
 			}
 			c_sterling_il = {
-				color = { 0 0 0 }
+				color = { 246 120 177 }
 				color2 = { 0 0 0 }
 				b_province_1291 = {
 					color = { 0 0 0 }
@@ -11764,7 +11764,7 @@ e_mississippi = {
 				}
 			}
 			c_freeport_il = {
-				color = { 0 0 0 }
+				color = { 225 153 61 }
 				color2 = { 0 0 0 }
 				b_province_1290 = {
 					color = { 0 0 0 }
@@ -11793,7 +11793,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_manitowoc
 			c_green_bay = {
-				color = { 0 0 0 }
+				color = { 44 63 112 }
 				color2 = { 0 0 0 }
 				b_bellevue = {
 					color = { 0 0 0 }
@@ -11812,7 +11812,7 @@ e_mississippi = {
 				}
 			}
 			c_sturgeon_bay = {
-				color = { 0 0 0 }
+				color = { 14 104 218 }
 				color2 = { 0 0 0 }
 				b_sturgeon_bay = {
 					color = { 0 0 0 }
@@ -11826,7 +11826,7 @@ e_mississippi = {
 				}
 			}
 			c_manitowoc = {
-				color = { 0 0 0 }
+				color = { 122 191 132 }
 				color2 = { 0 0 0 }
 				b_maribel = {
 					color = { 0 0 0 }
@@ -11845,7 +11845,7 @@ e_mississippi = {
 				}
 			}
 			c_appleton = {
-				color = { 0 0 0 }
+				color = { 32 78 105 }
 				color2 = { 0 0 0 }
 				b_appleton = {
 					color = { 0 0 0 }
@@ -11864,7 +11864,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_milwaukee
 			c_milwaukee = {
-				color = { 0 0 0 }
+				color = { 53 109 9 }
 				color2 = { 0 0 0 }
 				b_province_1331 = {
 					color = { 0 0 0 }
@@ -11888,7 +11888,7 @@ e_mississippi = {
 				}
 			}
 			c_kenosha = {
-				color = { 0 0 0 }
+				color = { 235 145 245 }
 				color2 = { 0 0 0 }
 				b_province_1329 = {
 					color = { 0 0 0 }
@@ -11907,7 +11907,7 @@ e_mississippi = {
 				}
 			}
 			c_janesville = {
-				color = { 0 0 0 }
+				color = { 73 109 51 }
 				color2 = { 0 0 0 }
 				b_province_1334 = {
 					color = { 0 0 0 }
@@ -11926,7 +11926,7 @@ e_mississippi = {
 				}
 			}
 			c_fort_atkinson = {
-				color = { 0 0 0 }
+				color = { 113 93 106 }
 				color2 = { 0 0 0 }
 				b_province_1332 = {
 					color = { 0 0 0 }
@@ -11960,7 +11960,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_fond_du_lac
 			c_sheboygan = {
-				color = { 0 0 0 }
+				color = { 166 127 161 }
 				color2 = { 0 0 0 }
 				b_lomira = {
 					color = { 0 0 0 }
@@ -11979,7 +11979,7 @@ e_mississippi = {
 				}
 			}
 			c_fond_du_lac = {
-				color = { 0 0 0 }
+				color = { 139 13 179 }
 				color2 = { 0 0 0 }
 				b_randolph = {
 					color = { 0 0 0 }
@@ -12003,7 +12003,7 @@ e_mississippi = {
 				}
 			}
 			c_madison = {
-				color = { 0 0 0 }
+				color = { 208 213 93 }
 				color2 = { 0 0 0 }
 				b_watertown_1347 = {
 					color = { 0 0 0 }
@@ -12037,7 +12037,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_galena
 			c_wisconsin_dells = {
-				color = { 0 0 0 }
+				color = { 38 130 2 }
 				color2 = { 0 0 0 }
 				b_hillsboro_1354 = {
 					color = { 0 0 0 }
@@ -12066,7 +12066,7 @@ e_mississippi = {
 				}
 			}
 			c_la_crosse = {
-				color = { 0 0 0 }
+				color = { 235 15 214 }
 				color2 = { 0 0 0 }
 				b_province_1280 = {
 					color = { 0 0 0 }
@@ -12090,7 +12090,7 @@ e_mississippi = {
 				}
 			}
 			c_galena = {
-				color = { 0 0 0 }
+				color = { 223 25 228 }
 				color2 = { 0 0 0 }
 				b_province_1287 = {
 					color = { 0 0 0 }
@@ -12119,7 +12119,7 @@ e_mississippi = {
 				}
 			}
 			c_lancaster_wi = {
-				color = { 0 0 0 }
+				color = { 29 207 229 }
 				color2 = { 0 0 0 }
 				b_province_1284 = {
 					color = { 0 0 0 }
@@ -12138,7 +12138,7 @@ e_mississippi = {
 				}
 			}
 			c_dodgeville = {
-				color = { 0 0 0 }
+				color = { 179 156 196 }
 				color2 = { 0 0 0 }
 				b_barnveld = {
 					color = { 0 0 0 }
@@ -12172,7 +12172,7 @@ e_mississippi = {
 			color2 = { 0 0 0 }
 			capital = c_suamico
 			c_suamico = {
-				color = { 0 0 0 }
+				color = { 183 222 153 }
 				color2 = { 0 0 0 }
 				b_mountain = {
 					color = { 0 0 0 }
@@ -12196,7 +12196,7 @@ e_mississippi = {
 				}
 			}
 			c_waupaca = {
-				color = { 0 0 0 }
+				color = { 15 223 96 }
 				color2 = { 0 0 0 }
 				b_plainfield = {
 					color = { 0 0 0 }
@@ -12215,7 +12215,7 @@ e_mississippi = {
 				}
 			}
 			c_antigo = {
-				color = { 0 0 0 }
+				color = { 160 42 224 }
 				color2 = { 0 0 0 }
 				b_hogarty = {
 					color = { 0 0 0 }
@@ -12239,7 +12239,7 @@ e_mississippi = {
 				}
 			}
 			c_stevens_point = {
-				color = { 0 0 0 }
+				color = { 159 36 93 }
 				color2 = { 0 0 0 }
 				b_necedah = {
 					color = { 0 0 0 }

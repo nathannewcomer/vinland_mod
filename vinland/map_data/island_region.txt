@@ -8,8 +8,44 @@
 #	counties = { }, takes county title names declared in landed_titles.txt
 #	provinces = { }, takes province id numbers declared in /history/provinces
 
-island_region_c_anticosti = {
+island_region_anticosti = {
 	counties = {
 		c_anticosti
+	}
+}
+
+island_region_newfoundland = {
+	duchies = {
+		d_duchy_13 d_duchy_14, d_duchy_15
+	}
+}
+
+island_region_prince_edward_island = {
+	counties = {
+		c_prince_edward_island
+	}
+}
+
+island_region_magdalen = {
+	counties = {
+		c_magdalen
+	}
+}
+
+island_region_beaver_island = {
+	provinces = {
+		729
+	}
+}
+
+island_region_michipicoten = {
+	provinces = {
+		338
+	}
+}
+
+island_region_isle_royale = {
+	provinces = {
+		401
 	}
 }

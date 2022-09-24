@@ -20,6 +20,26 @@
 	970.1.1 = {
 		birth = yes
 	}
+
+	1000.1.1 = {
+		effect = {
+			add_prestige_experience = 5000 # So that we have enough prestige to use an invasion CB
+
+			# give Erik special troops so he's not immediately raided / kickstart blobbing
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 250
+				men_at_arms = {
+					type = huscarl
+					stacks = 1
+				}
+				location = 1
+				origin = 1
+				inheritable = yes
+			}
+		}
+	}
+
 	1025.1.1 = {
 		death = yes
 	}

@@ -1,7 +1,7 @@
 1 = {
 	culture = beothuk
 	religion = animist
-	holding = tribal_holding
+	holding = castle_holding
 }
 2 = {
 	culture = beothuk
@@ -395,6617 +395,6617 @@
 }
 80 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 81 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 82 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 83 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 84 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 85 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 86 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 87 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 88 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 89 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 90 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 91 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 92 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 93 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 94 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 95 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 96 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 97 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 98 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 99 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 100 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 101 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 102 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 103 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 104 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 105 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 106 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 107 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 108 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 109 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 110 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 111 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 112 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 113 = {
 	culture = innu
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 114 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 115 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 116 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 117 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 118 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 119 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 120 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 121 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 122 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 123 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 124 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 125 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 126 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 127 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 128 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 129 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 130 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 131 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 132 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 133 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 134 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 135 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 136 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 137 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 138 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 139 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 140 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 141 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 142 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 143 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 144 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 145 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 146 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 147 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 148 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 149 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 150 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 151 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 152 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 153 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 154 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 155 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 156 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 157 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 158 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 159 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 160 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 161 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 162 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 163 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 164 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 165 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 166 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 167 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 168 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 169 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 170 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 171 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 172 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 173 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 174 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 175 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 176 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 177 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 178 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 179 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 180 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 181 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 182 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 183 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 184 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 185 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 186 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 187 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 188 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 189 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 190 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 191 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 192 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 193 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 194 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 195 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 196 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 197 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 198 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 199 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 200 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 201 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 202 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 203 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 204 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 205 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 206 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 207 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 208 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 209 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 210 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 211 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 212 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 213 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 214 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 215 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 216 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 217 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 218 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 219 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 220 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 221 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 222 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 223 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 224 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 225 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 226 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 227 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 228 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 229 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 230 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 231 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 232 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 233 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 234 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 235 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 236 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 237 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 238 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 239 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 240 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 241 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 242 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 243 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 244 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 245 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 246 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 247 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 248 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 249 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 250 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 251 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 252 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 253 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 254 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 255 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 256 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 257 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 258 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 259 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 260 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 261 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 262 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 263 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 264 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 265 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 266 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 267 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 268 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 269 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 270 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 271 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 272 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 273 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 274 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 275 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 276 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 277 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 278 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 279 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 280 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 281 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 282 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 283 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 284 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 285 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 286 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 287 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 288 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 289 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 290 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 291 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 292 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 293 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 294 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 295 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 296 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 297 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 298 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 299 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 300 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 301 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 302 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 303 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 304 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 305 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 306 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 307 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 308 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 309 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 310 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 311 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 312 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 313 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 314 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 315 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 316 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 317 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 318 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 319 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 320 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 321 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 322 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 323 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 324 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 325 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 326 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 327 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 328 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 329 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 330 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 331 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 332 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 333 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 334 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 335 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 336 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 337 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 338 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 339 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 340 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 341 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 342 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 343 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 344 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 345 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 346 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 347 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 348 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 349 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 350 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 351 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 352 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 353 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 354 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 355 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 356 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 357 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 358 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 359 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 360 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 361 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 362 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 363 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 364 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 365 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 366 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 367 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 368 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 369 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 370 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 371 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 372 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 373 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 374 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 375 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 376 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 377 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 378 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 379 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 380 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 381 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 382 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 383 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 384 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 385 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 386 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 387 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 388 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 389 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 390 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 391 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 392 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 393 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 394 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 395 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 396 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 397 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 398 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 399 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 400 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 401 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 402 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 403 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 404 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 405 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 406 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 407 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 408 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 409 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 410 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 411 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 412 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 413 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 414 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 415 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 416 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 417 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 418 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 419 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 420 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 421 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 422 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 423 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 424 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 425 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 426 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 427 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 428 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 429 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 430 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 431 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 432 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 433 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 434 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 435 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 436 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 437 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 438 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 439 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 440 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 441 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 442 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 443 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 444 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 445 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 446 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 447 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 448 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 449 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 450 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 451 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 452 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 453 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 454 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 455 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 456 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 457 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 458 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 459 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 460 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 461 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 462 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 463 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 464 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 465 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 466 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 467 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 468 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 469 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 470 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 471 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 472 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 473 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 474 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 475 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 476 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 477 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 478 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 479 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 480 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 481 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 482 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 483 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 484 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 485 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 486 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 487 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 488 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 489 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 490 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 491 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 492 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 493 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 494 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 495 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 496 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 497 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 498 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 499 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 500 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 501 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 502 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 503 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 504 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 505 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 506 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 507 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 508 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 509 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 510 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 511 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 512 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 513 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 514 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 515 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 516 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 517 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 518 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 519 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 520 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 521 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 522 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 523 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 524 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 525 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 526 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 527 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 528 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 529 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 530 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 531 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 532 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 533 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 534 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 535 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 536 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 537 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 538 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 539 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 540 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 541 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 542 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 543 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 544 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 545 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 546 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 547 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 548 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 549 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 550 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 551 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 552 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 553 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 554 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 555 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 556 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 557 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 558 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 559 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 560 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 561 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 562 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 563 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 564 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 565 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 566 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 567 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 568 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 569 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 570 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 571 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 572 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 573 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 574 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 575 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 576 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 577 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 578 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 579 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 580 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 581 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 582 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 583 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 584 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 585 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 586 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 587 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 588 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 589 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 590 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 591 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 592 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 593 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 594 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 595 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 596 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 597 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 598 = {
 	culture = michigan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 599 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = tribal_holding
 }
 600 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 601 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 602 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 603 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 604 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 605 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 606 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 607 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 608 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 609 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 610 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 611 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 612 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 613 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 614 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 615 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 616 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 617 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 618 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 619 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 620 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 621 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 622 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 623 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 624 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 625 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 626 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 627 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 628 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 629 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 630 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 631 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 632 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 633 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 634 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 635 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 636 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 637 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 638 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 639 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 640 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 641 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 642 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 643 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 644 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 645 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 646 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 647 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 648 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 649 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 650 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 651 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 652 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 653 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 654 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 655 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 656 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 657 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 658 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 659 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 660 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 661 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 662 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 663 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 664 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 665 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 666 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 667 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 668 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 669 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 670 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 671 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 672 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 673 = {
 	culture = ojibwe
-	religion = animist
+	religion = ontario_faith
 	holding = none
 }
 674 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 675 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 676 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 677 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 678 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 679 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 680 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 681 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 682 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 683 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 684 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 685 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 686 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 687 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 688 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 689 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 690 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 691 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 692 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 693 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 694 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 695 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 696 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 697 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 698 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 699 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 700 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 701 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 702 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 703 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 704 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 705 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 706 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 707 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 708 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 709 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 710 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 711 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 712 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 713 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 714 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 715 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 716 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 717 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 718 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 719 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 720 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 721 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 722 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 723 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 724 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 725 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 726 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 727 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = tribal_holding
 }
 728 = {
 	culture = wyandot
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }
 729 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 730 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 731 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 732 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 733 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 734 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 735 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 736 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 737 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 738 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 739 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 740 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 741 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 742 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 743 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 744 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 745 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 746 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 747 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 748 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 749 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 750 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 751 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 752 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 753 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 754 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 755 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 756 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 757 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 758 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 759 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 760 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 761 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 762 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 763 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 764 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 765 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 766 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 767 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 768 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 769 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 770 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 771 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 772 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 773 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 774 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 775 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 776 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 777 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 778 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 779 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 780 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 781 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 782 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 783 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 784 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 785 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 786 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 787 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 788 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 789 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 790 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 791 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 792 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 793 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 794 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 795 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 796 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 797 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 798 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 799 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 800 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 801 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 802 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 803 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 804 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 805 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 806 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 807 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 808 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 809 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 810 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 811 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 812 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 813 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 814 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 815 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 816 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 817 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 818 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 819 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 820 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 821 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 822 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 823 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 824 = {
 	culture = michigan
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 825 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 826 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 827 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 828 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 829 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 830 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 831 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 832 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 833 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 834 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 835 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 836 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 837 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 838 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 839 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 840 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 841 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 842 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 843 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 844 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 845 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 846 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 847 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 848 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 849 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 850 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 851 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 852 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 853 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 854 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 855 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 856 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 857 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 858 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 859 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 860 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 861 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 862 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 863 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 864 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 865 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 866 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 867 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 868 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 869 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 870 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 871 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 872 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 873 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 874 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 875 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 876 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 877 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 878 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 879 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 880 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 881 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 882 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 883 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 884 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 885 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 886 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 887 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 888 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 889 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 890 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 891 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 892 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 893 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 894 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 895 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 896 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 897 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 898 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 899 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 900 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 901 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 902 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 903 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 904 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 905 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 906 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 907 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 908 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 909 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 910 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 911 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 912 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 913 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 914 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 915 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 916 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 917 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 918 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 919 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 920 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 921 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 922 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 923 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 924 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 925 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 926 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 927 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 928 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 929 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 930 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 931 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 932 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 933 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 934 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 935 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 936 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 937 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 938 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 939 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 940 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 941 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 942 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 943 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 944 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 945 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 946 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 947 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 948 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 949 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 950 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 951 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 952 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 953 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 954 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 955 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 956 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 957 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 958 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 959 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 960 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 961 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 962 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 963 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 964 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 965 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 966 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 967 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 968 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 969 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 970 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 971 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 972 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 973 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 974 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 975 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 976 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 977 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 978 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 979 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 980 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 981 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 982 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 983 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 984 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 985 = {
 	culture = oneota
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 986 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 987 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 988 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 989 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 990 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 991 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 992 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 993 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 994 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 995 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 996 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 997 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 998 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 999 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1000 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1001 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1002 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1003 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1004 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1005 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1006 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1007 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1008 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1009 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1010 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1011 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1012 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1013 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1014 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1015 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1016 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1017 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1018 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1019 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1020 = {
 	culture = ohio
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1021 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1022 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1023 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1024 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1025 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1026 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1027 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1028 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1029 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1030 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1031 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1032 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1033 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1034 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1035 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1036 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1037 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1038 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1039 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1040 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1041 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1042 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1043 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1044 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1045 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1046 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1047 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1048 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1049 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1050 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1051 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1052 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1053 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1054 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1055 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1056 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1057 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1058 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1059 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1060 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1061 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1062 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1063 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1064 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1065 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1066 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1067 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1068 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1069 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1070 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1071 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1072 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1073 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1074 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1075 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1076 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1077 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1078 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1079 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1080 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1081 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1082 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1083 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1084 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1085 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1086 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1087 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1088 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1089 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1090 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1091 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1092 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1093 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1094 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1095 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1096 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1097 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1098 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1099 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1100 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1101 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1102 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1103 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1104 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1105 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1106 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1107 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1108 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1109 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1110 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1111 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1112 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1113 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1114 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1115 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1116 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1117 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1118 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1119 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1120 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1121 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1122 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1123 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1124 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1125 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1126 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1127 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1128 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1129 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1130 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1131 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1132 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1133 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1134 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1135 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1136 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1137 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1138 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1139 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1140 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1141 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1142 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1143 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1144 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1145 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1146 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1147 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1148 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1149 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1150 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1151 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1152 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1153 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1154 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1155 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1156 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1157 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1158 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1159 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1160 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1161 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1162 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1163 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1164 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1165 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1166 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1167 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1168 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1169 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1170 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1171 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1172 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1173 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1174 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1175 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1176 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1177 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1178 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1179 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1180 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1181 = {
 	culture = caddoan
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1182 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1183 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1184 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1185 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1186 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1187 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1188 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1189 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1190 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1191 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1192 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1193 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1194 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1195 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1196 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1197 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1198 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1199 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1200 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1201 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1202 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1203 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1204 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1205 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1206 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1207 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1208 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1209 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1210 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1211 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1212 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1213 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1214 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1215 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1216 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1217 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1218 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1219 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1220 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1221 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1222 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1223 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1224 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1225 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1226 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1227 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1228 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1229 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1230 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1231 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1232 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1233 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1234 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1235 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1236 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1237 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1238 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1239 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1240 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1241 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1242 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1243 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1244 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1245 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1246 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1247 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1248 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1249 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1250 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1251 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1252 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1253 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1254 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1255 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1256 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1257 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1258 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1259 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1260 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1261 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1262 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1263 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1264 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1265 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1266 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1267 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1268 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1269 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1270 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1271 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1272 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1273 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1274 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1275 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1276 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1277 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1278 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1279 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1280 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1281 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1282 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1283 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1284 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1285 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1286 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1287 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1288 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1289 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1290 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1291 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1292 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1293 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1294 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1295 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1296 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1297 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1298 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1299 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1300 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1301 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1302 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1303 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1304 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = tribal_holding
 }
 1305 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1306 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1307 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1308 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 1309 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1310 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1311 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1312 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1313 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1314 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1315 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1316 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1317 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1318 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1319 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1320 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1321 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1322 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1323 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1324 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1325 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1326 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1327 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1328 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1329 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1330 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1331 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1332 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1333 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1334 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1335 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1336 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1337 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1338 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1339 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1340 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1341 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1342 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1343 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1344 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1345 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1346 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1347 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1348 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1349 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1350 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1351 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1352 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1353 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1354 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1355 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1356 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1357 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1358 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1359 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1360 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1361 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1362 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1363 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1364 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1365 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1366 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1367 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1368 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1369 = {
 	culture = dakota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1370 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1371 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1372 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1373 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1374 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1375 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1376 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1377 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1378 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1379 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1380 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1381 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1382 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1383 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1384 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1385 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1386 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1387 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1388 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1389 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1390 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1391 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1392 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1393 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1394 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = tribal_holding
 }
 1395 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1396 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1397 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1398 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1399 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 1400 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1401 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1402 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1403 = {
@@ -7110,72 +7110,72 @@
 }
 1423 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1424 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1425 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1426 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1427 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1428 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1429 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1430 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1431 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1432 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1433 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1434 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1435 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1436 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1437 = {
@@ -7195,12 +7195,12 @@
 }
 1440 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1441 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1442 = {
@@ -7240,7 +7240,7 @@
 }
 1449 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1450 = {
@@ -7310,697 +7310,697 @@
 }
 1463 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1464 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1465 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1466 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1467 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1468 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1469 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1470 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1471 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1472 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1473 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1474 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1475 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1476 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1477 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1478 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1479 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1480 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1481 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1482 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1483 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1484 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1485 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1486 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1487 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1488 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1489 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1490 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1491 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1492 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1493 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1494 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1495 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1496 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1497 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1498 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1499 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1500 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1501 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1502 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1503 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1504 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1505 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1506 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1507 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1508 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1509 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1510 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1511 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1512 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1513 = {
 	culture = monongahela
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1514 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1515 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1516 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1517 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1518 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1519 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1520 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1521 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1522 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1523 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1524 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1525 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1526 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1527 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1528 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1529 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1530 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1531 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1532 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1533 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1534 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1535 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1536 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1537 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1538 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1539 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1540 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1541 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1542 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1543 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1544 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1545 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1546 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1547 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1548 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1549 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1550 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1551 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1552 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1553 = {
 	culture = powhatan
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1554 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1555 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1556 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1557 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1558 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1559 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1560 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1561 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1562 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1563 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1564 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1565 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1566 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1567 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1568 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1569 = {
 	culture = nanticoke
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1570 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1571 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1572 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1573 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1574 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1575 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1576 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1577 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1578 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1579 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1580 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1581 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1582 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1583 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1584 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1585 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1586 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1587 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1588 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1589 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1590 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1591 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1592 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1593 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1594 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1595 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1596 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1597 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1598 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1599 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1600 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1601 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1602 = {
@@ -8260,1307 +8260,1307 @@
 }
 1653 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1654 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1655 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1656 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1657 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1658 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1659 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1660 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1661 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1662 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1663 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1664 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1665 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1666 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1667 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1668 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1669 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1670 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1671 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1672 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1673 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1674 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1675 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1676 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1677 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1678 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1679 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1680 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1681 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1682 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1683 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1684 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = tribal_holding
 }
 1685 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1686 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 1687 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1688 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1689 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1690 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1691 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1692 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1693 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1694 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1695 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1696 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1697 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1698 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1699 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1700 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1701 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1702 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1703 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1704 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1705 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1706 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1707 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1708 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1709 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1710 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1711 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1712 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1713 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1714 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1715 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1716 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1717 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1718 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1719 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1720 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1721 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1722 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1723 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1724 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1725 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1726 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1727 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1728 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1729 = {
 	culture = massachusett
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1730 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1731 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1732 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1733 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1734 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1735 = {
 	culture = abanaki
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1736 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1737 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1738 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1739 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1740 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1741 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1742 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1743 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1744 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1745 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1746 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1747 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1748 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1749 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1750 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1751 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1752 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1753 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1754 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1755 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1756 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1757 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1758 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1759 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1760 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1761 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1762 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1763 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1764 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1765 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1766 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1767 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1768 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1769 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1770 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1771 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1772 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1773 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1774 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1775 = {
 	culture = penobscot
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1776 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1777 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1778 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1779 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1780 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1781 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1782 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1783 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1784 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1785 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1786 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1787 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1788 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1789 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1790 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1791 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1792 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1793 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1794 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1795 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1796 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1797 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1798 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1799 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1800 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1801 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1802 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1803 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1804 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1805 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1806 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1807 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1808 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1809 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1810 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1811 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1812 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1813 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1814 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1815 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1816 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1817 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1818 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1819 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1820 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1821 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1822 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1823 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1824 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1825 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1826 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1827 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1828 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1829 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1830 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1831 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1832 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1833 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1834 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1835 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1836 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1837 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1838 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1839 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1840 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1841 = {
 	culture = maliseet
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1842 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1843 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1844 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1845 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1846 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1847 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1848 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1849 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1850 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1851 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1852 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1853 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1854 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1855 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1856 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1857 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1858 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1859 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1860 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1861 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1862 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1863 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1864 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1865 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1866 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1867 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1868 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1869 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1870 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1871 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1872 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1873 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1874 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1875 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1876 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1877 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1878 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1879 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1880 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1881 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1882 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1883 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1884 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1885 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1886 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1887 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1888 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1889 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1890 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1891 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1892 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1893 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1894 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1895 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1896 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1897 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1898 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1899 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1900 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1901 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1902 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1903 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1904 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1905 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1906 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1907 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1908 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1909 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1910 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = tribal_holding
 }
 1911 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1912 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1913 = {
 	culture = mikmaq
-	religion = animist
+	religion = north_algonquin
 	holding = none
 }
 1914 = {
@@ -9570,21 +9570,21 @@
 }
 1915 = {
 	culture = lenape
-	religion = animist
+	religion = south_algonquin
 	holding = none
 }
 2184 = {
 	culture = oneota
-	religion = animist
+	religion = illinois_faith
 	holding = none
 }
 2185 = {
 	culture = middle_miss
-	religion = animist
+	religion = ohio_faith
 	holding = none
 }
 2186 = {
 	culture = ojibwe
-	religion = animist
+	religion = toronto_faith
 	holding = none
 }

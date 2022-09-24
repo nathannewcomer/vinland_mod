@@ -6,9 +6,7 @@ iroquois = { # Kingston, Ontario, where the Great Peacemaker was reportedly born
 	county = c_ontario_9
 
 	character_modifier = {
-		name = holy_site_jenne_effect_name
-		diplomacy = 1
-		councillor_opinion = 5
+		monthly_piety_gain_mult = 0.2
 	}
 }
 
@@ -16,9 +14,7 @@ iroquois = { # Rochester, NY, Great Peacemaker met Jikonsaseh
 	county = c_rochester
 
 	character_modifier = {
-		name = holy_site_jenne_effect_name
-		diplomacy = 1
-		councillor_opinion = 5
+		monthly_piety_gain_mult = 0.2
 	}
 }
 
@@ -26,9 +22,7 @@ iroquois = { # South of Onondaga Lake, where the sorcerer Tadodaho was persuaded
 	county = c_syracuse
 
 	character_modifier = {
-		name = holy_site_jenne_effect_name
-		diplomacy = 1
-		councillor_opinion = 5
+		monthly_piety_gain_mult = 0.2
 	}
 }
 
@@ -36,8 +30,6 @@ iroquois = { # Albany, NY, where he passed a test given by the Mohawks
 	county = c_new_york_9
 
 	character_modifier = {
-		name = holy_site_jenne_effect_name
-		diplomacy = 1
-		councillor_opinion = 5
+		monthly_piety_gain_mult = 0.2
 	}
 }
