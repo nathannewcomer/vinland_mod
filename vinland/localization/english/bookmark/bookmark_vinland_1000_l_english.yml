@@ -1,10 +1,8 @@
 ﻿l_english:
  bm_1000_vinland:0 "Wrath of the Norse"
- bm_1000_vinland_desc:0 "Leif Erikson and company have decided to establish a permanent presence in Newfoundland.
- The natives, however, do not appreciate another threat to the status quo.\n\n#bold Who will establish dominance over the continent?#!"
+ bm_1000_vinland_desc:0 "Leif Erikson and company have decided to establish a permanent presence in Newfoundland. The natives, however, do not appreciate another threat to the status quo.\n\n#bold Who will establish dominance over the continent?#!"
 
 
  # Leif Erikson
  bookmark_vinland_leif:0 "Leif"
- bookmark_vinland_leif_desc:0 "Leif Erikson discovered Vinland while travelling to Greenland and getting blown off course.
- Now, he looks to follow after his father and establish a colony of his own.\n\n#bold Are you ready to ensure his success?#!"
+ bookmark_vinland_leif_desc:0 "Leif Erikson discovered Vinland while travelling to Greenland and getting blown off course. Now, he looks to follow after his father and establish a colony of his own.\n\n#bold Are you ready to ensure his success?#!"
