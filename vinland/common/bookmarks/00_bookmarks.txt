@@ -15,7 +15,7 @@
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 900002
-		position = { 250 175 }
+		position = { 1500 200 }
 
 		animation = happiness
 	}
