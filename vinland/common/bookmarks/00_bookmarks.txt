@@ -2,7 +2,7 @@
 	start_date = 1000.1.1
 	is_playable = yes
 
-	# Leif
+	# Leif Erikson ID: 900002
 	character = {
 		name = "bookmark_vinland_leif"
 		dynasty = 200001
@@ -10,12 +10,12 @@
 		type = male
 		birth = 970.1.1
 		title = c_vinland
-		government = tribal_government
+		government = feudal_government
 		culture = norse
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 900002
-		position = { 250 175 }
+		position = { 1500 200 }
 
 		animation = happiness
 	}
