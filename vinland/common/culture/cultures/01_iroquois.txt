@@ -24,7 +24,7 @@ iroquois_group= {
 
 	mohawk = {
 		
-		color = { 0.4 0.2 0.9 }
+		color = { 0.2 0.9 0.4 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -132,7 +132,7 @@ iroquois_group= {
 
 	oneida = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.7 1.0 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -240,7 +240,7 @@ iroquois_group= {
 
 	onondaga = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.8 1.0 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -348,7 +348,7 @@ iroquois_group= {
 
 	cayuga = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.2 0.8 0.2 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -456,7 +456,7 @@ iroquois_group= {
 
 	seneca = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.7 0.0 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -565,7 +565,7 @@ iroquois_group= {
 	# Toronto area
 	wyandot = {
 		
-		color = { 0.4 0.7 0.1 }
+		color = { 0.3 0.7 0.1 }
 
 		character_modifier = {
 			ai_war_chance = 1

@@ -135,7 +135,7 @@ northern_algonquin_group= {
 
 	innu = {
 		
-		color = { 1.0 0.2 0.1 }
+		color = { 0.9 0.2 0.1 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -238,7 +238,7 @@ northern_algonquin_group= {
 	# Broadly Ontario
 	ojibwe = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.8 0.2 0.2 }
 
 		character_modifier = {
 			ai_war_chance = 1
