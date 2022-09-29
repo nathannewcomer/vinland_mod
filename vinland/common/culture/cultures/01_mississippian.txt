@@ -24,7 +24,7 @@ mississippian_group= {
 
 	ohio = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.8 0.2 0.1 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -130,7 +130,7 @@ mississippian_group= {
 
 	michigan = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.9 0.4 0.2 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -241,7 +241,7 @@ mississippian_group= {
 	# Wisconsin and Iowa
 	oneota = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.8 0.1 0.2 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -352,7 +352,7 @@ mississippian_group= {
 	# Indiana and Illinois
 	middle_miss = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.9 0.3 0.4 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -463,7 +463,7 @@ mississippian_group= {
 	# Missouri
 	caddoan = {
 		
-		color = { 0.2 0.7 0.2 }
+		color = { 0.8 0.3 0.1 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -573,7 +573,7 @@ mississippian_group= {
 	
 	monongahela = {
 		
-		color = { 0.7 0.3 0.1 }
+		color = { 0.7 0.2 0.2 }
 
 		character_modifier = {
 			ai_war_chance = 1

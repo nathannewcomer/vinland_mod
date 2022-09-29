@@ -1,8 +1,153 @@
 ﻿#################
+# Animist
+#################
+russells_point = { # Russell's Point Beothuk historic site, Newfoundland
+	county = c_st_johns
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+notiskuan { # Hunting grounds, Anticosti Island
+	county = c_anticosti
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+pessamit = { # Pessamit, Quebec, Canada. Pessamit Innu Band live here
+	county = c_quebec_14
+}
+
+#################
+# Toronto Faith
+#################
+
+oiseau_rock = { # Oiseau Rock, Quebec
+	county = c_quebec_45
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+bon_echo = { # Bon Echo Provincial Park, Ontario
+	county = c_ontario_12
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+piekuakami = {
+	county = c_ontario_12
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+#################
+# Ontario Faith
+#################
+
+agawa_rock = { # Awaga Rock, Lake Superior Provincial Park, Ontario
+	county = c_ontario_31
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+manidoowaaling = { # Manitoulin Island, Ontario. A greate spirit is said to live in an underwater cave there
+	county = c_ontario_12
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+nipigon = { # Lake Nipigon, Ontario. First Nations located here
+	county = c_ontario_50
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+#################
+# North Algonquin
+#################
+
+balanced_rock = { # Balanced Rock, New York
+	county = c_danbury
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+mount_katahdin = { # Mt. Katahdin, Maine
+	county = c_maine_6
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+kejimkujik = { # Kejimkujik National Park, Novia Scotia
+	county = c_digby
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+mniku = { # Bras d'Or Lake, Nova Scotia
+	county = c_south_cape_breton
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+
+
+#################
+# South Algonquin
+#################
+
+split_rock = { # Split Rock, New York, New York
+	county = c_new_york
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+shackamaxon = { # Treaty of Shackamaxon was signed here between William Penn and the Lenape in 1682. Location was of importance to Lenape
+	county = c_philadelphia
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+moundsville = { # Moundsville, West Virginia
+	county = c_wheeling
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+#################
 # Iroquois
 #################
 
-iroquois = { # Kingston, Ontario, where the Great Peacemaker was reportedly born
+kingston = { # Kingston, Ontario, where the Great Peacemaker was reportedly born
 	county = c_ontario_9
 
 	character_modifier = {
@@ -10,7 +155,7 @@ iroquois = { # Kingston, Ontario, where the Great Peacemaker was reportedly born
 	}
 }
 
-iroquois = { # Rochester, NY, Great Peacemaker met Jikonsaseh
+rochester = { # Rochester, NY, Great Peacemaker met Jikonsaseh
 	county = c_rochester
 
 	character_modifier = {
@@ -18,7 +163,7 @@ iroquois = { # Rochester, NY, Great Peacemaker met Jikonsaseh
 	}
 }
 
-iroquois = { # South of Onondaga Lake, where the sorcerer Tadodaho was persuaded to join the Great Peacemaker
+south_onondaga = { # South of Onondaga Lake, where the sorcerer Tadodaho was persuaded to join the Great Peacemaker
 	county = c_syracuse
 
 	character_modifier = {
@@ -26,8 +171,88 @@ iroquois = { # South of Onondaga Lake, where the sorcerer Tadodaho was persuaded
 	}
 }
 
-iroquois = { # Albany, NY, where he passed a test given by the Mohawks
+albany = { # Albany, NY, where he passed a test given by the Mohawks
 	county = c_new_york_9
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+#################
+# Ohio Faith
+#################
+
+fort_ancient = { # Fort Ancient, Lebanon, Ohio
+	county = c_greenville
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+cahokia = { # Cahokia earth mounds
+	county = c_illinois_3
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+norton_mounds = { # Norton Mound Group, Grand Rapids, Michigan
+	county = c_holland
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+adena_mounds = { # Mounds State Park, Anderson, Indiana
+	county = c_lafayette_in
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+angel_mounds = { # Angel Mounds, Evansville, Indiana
+	county = c_owensboro
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+#################
+# Illinois Faith
+#################
+
+aztalan_mounds = { # Aztalan State Park, Aztalan, Wisconsin
+	county = c_fort_atkinson
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+effigy_mounds = { # Effigy Mounds, Iowa
+	county = c_la_crosse
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+jeffers_petroglyphs = { # Jeffers Petroglyphs, Comfrey, Minnesota
+	county = c_mora
+
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+sleeping_bear_dunes = { # Sleeping Bear Dunes, Michigan
+	county = c_michigan_x
 
 	character_modifier = {
 		monthly_piety_gain_mult = 0.2

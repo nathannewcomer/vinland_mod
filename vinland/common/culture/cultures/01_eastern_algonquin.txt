@@ -128,7 +128,7 @@ eastern_algonquin_group= {
 	## Maliseet
 	maliseet = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.4 0.9 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -238,7 +238,7 @@ eastern_algonquin_group= {
 	## Passamaqoddy
 	passamaqoddy = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.2 0.8 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -349,7 +349,7 @@ eastern_algonquin_group= {
 	## Abanaki
 	abanaki = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.4 0.5 0.9 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -459,7 +459,7 @@ eastern_algonquin_group= {
 	## Lenape
 	lenape = {
 		
-		color = { 0.1 0.4 4.0 }
+		color = { 0.1 0.4 0.7 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -561,7 +561,7 @@ eastern_algonquin_group= {
 
 	massachusett = {
 		
-		color = { 0.8 0.2 0.5 }
+		color = { 0.3 0.2 0.5 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -663,7 +663,7 @@ eastern_algonquin_group= {
 
 	penobscot = {
 		
-		color = { 0.4 0.4 4.0 }
+		color = { 0.4 0.4 0.7 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -765,7 +765,7 @@ eastern_algonquin_group= {
 
 	nanticoke = {
 		
-		color = { 0.4 0.4 1.0 }
+		color = { 0.2 0.5 0.5 }
 
 		character_modifier = {
 			ai_war_chance = 1
@@ -868,7 +868,7 @@ eastern_algonquin_group= {
 	# Broadly Virginia
 	powhatan = {
 		
-		color = { 0.7 0.3 0.1 }
+		color = { 0.1 0.3 0.7 }
 
 		character_modifier = {
 			ai_war_chance = 1
