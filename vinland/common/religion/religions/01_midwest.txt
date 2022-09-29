@@ -209,6 +209,12 @@ midwest_group = {
 			icon = pagan
 			reformed_icon = pagan_reformed
 
+			holy_site = fort_ancient
+			holy_site = cahokia
+			holy_site = norton_mounds
+			holy_site = adena_mounds
+			holy_site = angel_mounds
+
 			doctrine = unreformed_faith_doctrine
 
 			doctrine = tenet_communal_identity
@@ -220,6 +226,11 @@ midwest_group = {
 			color = { 0.4 0.8 0.5 }
 			icon = pagan
 			reformed_icon = pagan_reformed
+
+			holy_site = aztalan_mounds
+			holy_site = effigy_mounds
+			holy_site = jeffers_petroglyphs
+			holy_site = sleeping_bear_dunes
 
 			doctrine = unreformed_faith_doctrine
 

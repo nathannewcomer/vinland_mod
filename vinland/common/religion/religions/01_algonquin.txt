@@ -209,6 +209,11 @@ algonquin_group = {
 			icon = pagan
 			reformed_icon = pagan_reformed
 
+			holy_site = balanced_rock
+			holy_site = mount_katahdin
+			holy_site = kejimkujik
+			holy_site = mniku
+
 			doctrine = unreformed_faith_doctrine
 
 			doctrine = tenet_communal_identity
@@ -220,6 +225,10 @@ algonquin_group = {
 			color = { 0.9 0.2 0.6 }
 			icon = pagan
 			reformed_icon = pagan_reformed
+
+			holy_site = split_rock
+			holy_site = shackamaxon
+			holy_site = moundsville
 
 			doctrine = unreformed_faith_doctrine
 

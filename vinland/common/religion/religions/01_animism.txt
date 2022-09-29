@@ -210,6 +210,10 @@ animism = {
 			icon = pagan
 			reformed_icon = pagan_reformed
 
+			holy_site = russells_point
+			holy_site = notiskuan
+			holy_site = pessamit
+
 			doctrine = unreformed_faith_doctrine
 
 			doctrine = tenet_communal_identity
