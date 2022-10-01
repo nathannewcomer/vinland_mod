@@ -1,128 +1,24 @@
-sioux_group= {
-	graphical_cultures = {
-		steppe_building_gfx
-		steppe_coa_gfx
-		mongol_clothing_gfx
-		mongol_unit_gfx
+dakota = {
+	color = dakota
+	
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_hunters
+		tradition_steppe_tolerance
 	}
+	
+	name_list = name_list_mongol
 
-	mercenary_names = {
-		{ name = "mercenary_company_place_horde" }
-		{ name = "mercenary_company_army_under_the_sky" }
-		{ name = "mercenary_company_mongolic_riders_of_place" }
-		{ name = "mercenary_company_true_khans_faithful" }
-		{ name = "mercenary_company_company_of_the_yurt" }
-		{ name = "mercenary_company_mongolic_riders_of_place" }
-		{ name = "mercenary_company_steppe_dancers_band" }
-		{ name = "mercenary_company_mongolic_riders_of_place" }
-		{ name = "mercenary_company_chastisement_of_place" }
-		{ name = "mercenary_company_mongolic_riders_of_place" }
-		{ name = "mercenary_company_band_of_the_father" }
-		{ name = "mercenary_company_company_of_the_goad" }
-		{ name = "mercenary_company_mongolic_riders_of_place" }
-	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
 
-	dakota = {
-		
-		color = { 0.5 0.3 0.2 }
-
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-
-		dynasty_names = {
-			"dynn_Sartaq"
-			"dynn_Mengu-Timur"
-			"dynn_Timurid"
-			"dynn_Uriankhai"
-			"dynn_Bujakhin"
-			"dynn_Besud"
-			"dynn_Noyan"
-			"dynn_Jochid"
-			"dynn_Chagatayid"
-			"dynn_Borjigin"
-			"dynn_Chupanid"
-			"dynn_Injuid"
-			"dynn_Toluid"
-			"dynn_Ganbold"
-			"dynn_Bolormaa"
-			"dynn_Otgonbayar"
-			"dynn_Enkhtuyaa"
-			"dynn_Gantulga"
-			"dynn_LkhagvasU_ren"
-			"dynn_Enkhjargal"
-			"dynn_Ganzorig"
-			"dynn_Narantsetseg"
-			"dynn_PU_revsU_ren"
-			"dynn_Ganbaatar"
-			"dynn_MO_nkhtsetseg"
-			"dynn_MO_nkhbat"
-			"dynn_MO_nkh-Erdene"
-			"dynn_Jalair"
-			"dynn_Sartuul"
-			"dynn_Olkhunut"
-			"dynn_Khatagin"
-			"dynn_Iljigin"
-			"dynn_Tsookhor"
-			"dynn_Onggirat"
-			"dynn_Onggirat"
-			"dynn_Khunggirad"
-			"dynn_Mergid"
-			"dynn_Telingid"
-			"dynn_Borjigin"
-			"dynn_Aralkum"
-			"dynn_Dana"
-			"dynn_AqtO_be"
-			"dynn_Bailjar"
-			"dynn_Kaztal"
-			"dynn_Pecha"
-			"dynn_Kangly"
-			"dynn_Jadaran"
-			"dynn_Baarin"
-			"dynn_Bargujin"
-			"dynn_Borogchin"
-			"dynn_Mongoljin"
-			"dynn_Quralas"
-			#"dynn_Uvas_Mergid"
-			"dynn_Tatar"
-			"dynn_ZU_bU_"
-			"dynn_Ikheres"
-			"dynn_Eljigin"
-			"dynn_Bairam"
-			"dynn_Orduk"
-			"dynn_Arpardi"
-			"dynn_Barlas"
-			"dynn_Khorchi"
-			"dynn_Qaraunas"
-			"dynn_Arlat"
-			"dynn_Dughlat"
-			"dynn_Kereyit"
-			"dynn_Begchik"
-			"dynn_Sunit"
-			"dynn_Keshmiti"
-			"dynn_Uduyid"
-			"dynn_Uvas"
-			"dynn_Khaad"
-			"dynn_Khalka"
-		}
-
-		male_names = {
-			# Real names
-			Chatan, Chayton, Hanska, Hotah, Mahkah, Mato, Tashunka, Wambleeska, Akecheta,
-			Chaska, Makhpia_Luta, Tatanka_Ptecila, Wapasha
-		}
-		female_names = {
-			# Real names
-			Chapa, Chumani, Ehawee, Kimimela, Macha, Magaskawee, Ojinjintka, Shappa, Wichahpi, Zitkala, Zonta, Tahcawin,
-			Talutah, Weayaya, Wachiwi
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-
-		ethnicities = {
-			10 = asian
-		}
+	ethnicities = {
+		10 = asian
 	}
 }
