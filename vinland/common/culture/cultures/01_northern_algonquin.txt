@@ -3,8 +3,8 @@ beothuk = {
 	color = beothuk
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -28,8 +28,8 @@ innu = {
 	color = innu
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -54,8 +54,8 @@ ojibwe = {
 	color = ojibwe
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords

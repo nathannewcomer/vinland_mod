@@ -4,8 +4,8 @@ mikmaq = {
 	color = mikmaq
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -30,8 +30,8 @@ maliseet = {
 	color = maliseet
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -56,8 +56,8 @@ passamaqoddy = {
 	color = passamaqoddy
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -82,8 +82,8 @@ abanaki = {
 	color = abanaki
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -108,8 +108,8 @@ lenape = {
 	color = lenape
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -133,8 +133,8 @@ massachusett = {
 	color = massachusett
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -158,8 +158,8 @@ penobscot = {
 	color = penobscot
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -183,8 +183,8 @@ nanticoke = {
 	color = nanticoke
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -209,8 +209,8 @@ powhatan = {
 	color = powhatan
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_algonquin
+	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords

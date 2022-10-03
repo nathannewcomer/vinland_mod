@@ -2,8 +2,8 @@ mohawk = {
 	color = mohawk
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -27,8 +27,8 @@ oneida = {
 	color = oneida
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -52,8 +52,8 @@ onondaga = {
 	color = onondaga
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -77,8 +77,8 @@ cayuga = {
 	color = cayuga
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -102,8 +102,8 @@ seneca = {
 	color = seneca
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
@@ -128,8 +128,8 @@ wyandot = {
 	color = wyandot
 	
 	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
+	heritage = heritage_iroquois
+	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_horse_lords
