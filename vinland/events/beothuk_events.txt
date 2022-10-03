@@ -1,0 +1,32 @@
+﻿namespace = beothuk_event
+
+beothuk_event.0001 = {
+	type = character_event
+	title = beothuk_event.0001.t
+	desc = beothuk_event.0001.desc
+	theme = intrigue
+	
+	
+	left_portrait = {
+		character = ROOT
+		animation = stress
+	}
+	
+	option = {
+		name = beothuk_event.0001.a
+		start_war = {
+			cb = duchy_invasion_war
+			target = scope:beothuk_invasion_target_1.holder.top_liege
+			target_title = scope:beothuk_invasion_target_1.duchy
+		}
+	}
+
+	option = {
+		name = beothuk_event.0001.b
+		start_war = {
+			cb = duchy_invasion_war
+			target = scope:beothuk_invasion_target_2.holder.top_liege
+			target_title = scope:beothuk_invasion_target_2.duchy
+		}
+	}
+}

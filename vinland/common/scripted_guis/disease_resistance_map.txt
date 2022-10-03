@@ -1,0 +1,1818 @@
+﻿disease_resistance_map = {
+	effect = {
+		if = {
+			limit = { NOT = { global_var:custom_map_mode = flag:disease_resistance_map } }
+			set_global_variable = {
+				name = custom_map_mode_changing
+				value = 1
+			}
+			set_global_variable = {
+				name = custom_map_mode
+				value = flag:disease_resistance_map
+			}
+			every_county = {
+				if = {
+					limit = { 
+						OR = {
+							NOT = { has_variable = disease_resistance }
+							AND = {
+								var:disease_resistance = { compare_value < 0.0 }
+									var:disease_resistance = { compare_value > 0.392 }
+							}
+						}
+					}
+					set_color_from_title = title:d_color_rg0
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 0.392 }
+							var:disease_resistance = { compare_value > 0.784 }
+					}
+					set_color_from_title = title:d_color_rg1
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 0.784 }
+							var:disease_resistance = { compare_value > 1.176 }
+					}
+					set_color_from_title = title:d_color_rg2
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 1.176 }
+							var:disease_resistance = { compare_value > 1.569 }
+					}
+					set_color_from_title = title:d_color_rg3
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 1.569 }
+							var:disease_resistance = { compare_value > 1.961 }
+					}
+					set_color_from_title = title:d_color_rg4
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 1.961 }
+							var:disease_resistance = { compare_value > 2.353 }
+					}
+					set_color_from_title = title:d_color_rg5
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 2.353 }
+							var:disease_resistance = { compare_value > 2.745 }
+					}
+					set_color_from_title = title:d_color_rg6
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 2.745 }
+							var:disease_resistance = { compare_value > 3.137 }
+					}
+					set_color_from_title = title:d_color_rg7
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 3.137 }
+							var:disease_resistance = { compare_value > 3.529 }
+					}
+					set_color_from_title = title:d_color_rg8
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 3.529 }
+							var:disease_resistance = { compare_value > 3.922 }
+					}
+					set_color_from_title = title:d_color_rg9
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 3.922 }
+							var:disease_resistance = { compare_value > 4.314 }
+					}
+					set_color_from_title = title:d_color_rg10
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 4.314 }
+							var:disease_resistance = { compare_value > 4.706 }
+					}
+					set_color_from_title = title:d_color_rg11
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 4.706 }
+							var:disease_resistance = { compare_value > 5.098 }
+					}
+					set_color_from_title = title:d_color_rg12
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 5.098 }
+							var:disease_resistance = { compare_value > 5.49 }
+					}
+					set_color_from_title = title:d_color_rg13
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 5.49 }
+							var:disease_resistance = { compare_value > 5.882 }
+					}
+					set_color_from_title = title:d_color_rg14
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 5.882 }
+							var:disease_resistance = { compare_value > 6.275 }
+					}
+					set_color_from_title = title:d_color_rg15
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 6.275 }
+							var:disease_resistance = { compare_value > 6.667 }
+					}
+					set_color_from_title = title:d_color_rg16
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 6.667 }
+							var:disease_resistance = { compare_value > 7.059 }
+					}
+					set_color_from_title = title:d_color_rg17
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 7.059 }
+							var:disease_resistance = { compare_value > 7.451 }
+					}
+					set_color_from_title = title:d_color_rg18
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 7.451 }
+							var:disease_resistance = { compare_value > 7.843 }
+					}
+					set_color_from_title = title:d_color_rg19
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 7.843 }
+							var:disease_resistance = { compare_value > 8.235 }
+					}
+					set_color_from_title = title:d_color_rg20
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 8.235 }
+							var:disease_resistance = { compare_value > 8.627 }
+					}
+					set_color_from_title = title:d_color_rg21
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 8.627 }
+							var:disease_resistance = { compare_value > 9.02 }
+					}
+					set_color_from_title = title:d_color_rg22
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 9.02 }
+							var:disease_resistance = { compare_value > 9.412 }
+					}
+					set_color_from_title = title:d_color_rg23
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 9.412 }
+							var:disease_resistance = { compare_value > 9.804 }
+					}
+					set_color_from_title = title:d_color_rg24
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 9.804 }
+							var:disease_resistance = { compare_value > 10.196 }
+					}
+					set_color_from_title = title:d_color_rg25
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 10.196 }
+							var:disease_resistance = { compare_value > 10.588 }
+					}
+					set_color_from_title = title:d_color_rg26
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 10.588 }
+							var:disease_resistance = { compare_value > 10.98 }
+					}
+					set_color_from_title = title:d_color_rg27
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 10.98 }
+							var:disease_resistance = { compare_value > 11.373 }
+					}
+					set_color_from_title = title:d_color_rg28
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 11.373 }
+							var:disease_resistance = { compare_value > 11.765 }
+					}
+					set_color_from_title = title:d_color_rg29
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 11.765 }
+							var:disease_resistance = { compare_value > 12.157 }
+					}
+					set_color_from_title = title:d_color_rg30
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 12.157 }
+							var:disease_resistance = { compare_value > 12.549 }
+					}
+					set_color_from_title = title:d_color_rg31
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 12.549 }
+							var:disease_resistance = { compare_value > 12.941 } 
+					}
+					set_color_from_title = title:d_color_rg32
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 12.941 }
+							var:disease_resistance = { compare_value > 13.333 } 
+					}
+					set_color_from_title = title:d_color_rg33
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 13.333 }
+							var:disease_resistance = { compare_value > 13.725 } 
+					}
+					set_color_from_title = title:d_color_rg34
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 13.725 }
+							var:disease_resistance = { compare_value > 14.118 } 
+					}
+					set_color_from_title = title:d_color_rg35
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 14.118 }
+							var:disease_resistance = { compare_value > 14.51 } 
+					}
+					set_color_from_title = title:d_color_rg36
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 14.51 }
+							var:disease_resistance = { compare_value > 14.902 } 
+					}
+					set_color_from_title = title:d_color_rg37
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 14.902 }
+							var:disease_resistance = { compare_value > 15.294 } 
+					}
+					set_color_from_title = title:d_color_rg38
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 15.294 }
+							var:disease_resistance = { compare_value > 15.686 } 
+					}
+					set_color_from_title = title:d_color_rg39
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 15.686 }
+							var:disease_resistance = { compare_value > 16.078 } 
+					}
+					set_color_from_title = title:d_color_rg40
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 16.078 }
+							var:disease_resistance = { compare_value > 16.471 } 
+					}
+					set_color_from_title = title:d_color_rg41
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 16.471 }
+							var:disease_resistance = { compare_value > 16.863 } 
+					}
+					set_color_from_title = title:d_color_rg42
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 16.863 }
+							var:disease_resistance = { compare_value > 17.255 } 
+					}
+					set_color_from_title = title:d_color_rg43
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 17.255 }
+							var:disease_resistance = { compare_value > 17.647 } 
+					}
+					set_color_from_title = title:d_color_rg44
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 17.647 }
+							var:disease_resistance = { compare_value > 18.039 } 
+					}
+					set_color_from_title = title:d_color_rg45
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 18.039 }
+							var:disease_resistance = { compare_value > 18.431 } 
+					}
+					set_color_from_title = title:d_color_rg46
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 18.431 }
+							var:disease_resistance = { compare_value > 18.824 } 
+					}
+					set_color_from_title = title:d_color_rg47
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 18.824 }
+							var:disease_resistance = { compare_value > 19.216 } 
+					}
+					set_color_from_title = title:d_color_rg48
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 19.216 }
+							var:disease_resistance = { compare_value > 19.608 } 
+					}
+					set_color_from_title = title:d_color_rg49
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 19.608 }
+							var:disease_resistance = { compare_value > 20.0 } 
+					}
+					set_color_from_title = title:d_color_rg50
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 20.0 }
+							var:disease_resistance = { compare_value > 20.392 } 
+					}
+					set_color_from_title = title:d_color_rg51
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 20.392 }
+							var:disease_resistance = { compare_value > 20.784 } 
+					}
+					set_color_from_title = title:d_color_rg52
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 20.784 }
+							var:disease_resistance = { compare_value > 21.176 } 
+					}
+					set_color_from_title = title:d_color_rg53
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 21.176 }
+							var:disease_resistance = { compare_value > 21.569 } 
+					}
+					set_color_from_title = title:d_color_rg54
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 21.569 }
+							var:disease_resistance = { compare_value > 21.961 } 
+					}
+					set_color_from_title = title:d_color_rg55
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 21.961 }
+							var:disease_resistance = { compare_value > 22.353 } 
+					}
+					set_color_from_title = title:d_color_rg56
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 22.353 }
+							var:disease_resistance = { compare_value > 22.745 } 
+					}
+					set_color_from_title = title:d_color_rg57
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 22.745 }
+							var:disease_resistance = { compare_value > 23.137 } 
+					}
+					set_color_from_title = title:d_color_rg58
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 23.137 }
+							var:disease_resistance = { compare_value > 23.529 } 
+					}
+					set_color_from_title = title:d_color_rg59
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 23.529 }
+							var:disease_resistance = { compare_value > 23.922 } 
+					}
+					set_color_from_title = title:d_color_rg60
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 23.922 }
+							var:disease_resistance = { compare_value > 24.314 } 
+					}
+					set_color_from_title = title:d_color_rg61
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 24.314 }
+							var:disease_resistance = { compare_value > 24.706 } 
+					}
+					set_color_from_title = title:d_color_rg62
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 24.706 }
+							var:disease_resistance = { compare_value > 25.098 } 
+					}
+					set_color_from_title = title:d_color_rg63
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 25.098 }
+							var:disease_resistance = { compare_value > 25.49 } 
+					}
+					set_color_from_title = title:d_color_rg64
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 25.49 }
+							var:disease_resistance = { compare_value > 25.882 } 
+					}
+					set_color_from_title = title:d_color_rg65
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 25.882 }
+							var:disease_resistance = { compare_value > 26.275 } 
+					}
+					set_color_from_title = title:d_color_rg66
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 26.275 }
+							var:disease_resistance = { compare_value > 26.667 } 
+					}
+					set_color_from_title = title:d_color_rg67
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 26.667 }
+							var:disease_resistance = { compare_value > 27.059 } 
+					}
+					set_color_from_title = title:d_color_rg68
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 27.059 }
+							var:disease_resistance = { compare_value > 27.451 } 
+					}
+					set_color_from_title = title:d_color_rg69
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 27.451 }
+							var:disease_resistance = { compare_value > 27.843 } 
+					}
+					set_color_from_title = title:d_color_rg70
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 27.843 }
+							var:disease_resistance = { compare_value > 28.235 } 
+					}
+					set_color_from_title = title:d_color_rg71
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 28.235 }
+							var:disease_resistance = { compare_value > 28.627 } 
+					}
+					set_color_from_title = title:d_color_rg72
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 28.627 }
+							var:disease_resistance = { compare_value > 29.02 } 
+					}
+					set_color_from_title = title:d_color_rg73
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 29.02 }
+							var:disease_resistance = { compare_value > 29.412 } 
+					}
+					set_color_from_title = title:d_color_rg74
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 29.412 }
+							var:disease_resistance = { compare_value > 29.804 } 
+					}
+					set_color_from_title = title:d_color_rg75
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 29.804 }
+							var:disease_resistance = { compare_value > 30.196 } 
+					}
+					set_color_from_title = title:d_color_rg76
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 30.196 }
+							var:disease_resistance = { compare_value > 30.588 } 
+					}
+					set_color_from_title = title:d_color_rg77
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 30.588 }
+							var:disease_resistance = { compare_value > 30.98 } 
+					}
+					set_color_from_title = title:d_color_rg78
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 30.98 }
+							var:disease_resistance = { compare_value > 31.373 } 
+					}
+					set_color_from_title = title:d_color_rg79
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 31.373 }
+							var:disease_resistance = { compare_value > 31.765 } 
+					}
+					set_color_from_title = title:d_color_rg80
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 31.765 }
+							var:disease_resistance = { compare_value > 32.157 } 
+					}
+					set_color_from_title = title:d_color_rg81
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 32.157 }
+							var:disease_resistance = { compare_value > 32.549 } 
+					}
+					set_color_from_title = title:d_color_rg82
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 32.549 }
+							var:disease_resistance = { compare_value > 32.941 } 
+					}
+					set_color_from_title = title:d_color_rg83
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 32.941 }
+							var:disease_resistance = { compare_value > 33.333 } 
+					}
+					set_color_from_title = title:d_color_rg84
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 33.333 }
+							var:disease_resistance = { compare_value > 33.725 } 
+					}
+					set_color_from_title = title:d_color_rg85
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 33.725 }
+							var:disease_resistance = { compare_value > 34.118 } 
+					}
+					set_color_from_title = title:d_color_rg86
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 34.118 }
+							var:disease_resistance = { compare_value > 34.51 } 
+					}
+					set_color_from_title = title:d_color_rg87
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 34.51 }
+							var:disease_resistance = { compare_value > 34.902 } 
+					}
+					set_color_from_title = title:d_color_rg88
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 34.902 }
+							var:disease_resistance = { compare_value > 35.294 } 
+					}
+					set_color_from_title = title:d_color_rg89
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 35.294 }
+							var:disease_resistance = { compare_value > 35.686 } 
+					}
+					set_color_from_title = title:d_color_rg90
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 35.686 }
+							var:disease_resistance = { compare_value > 36.078 } 
+					}
+					set_color_from_title = title:d_color_rg91
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 36.078 }
+							var:disease_resistance = { compare_value > 36.471 } 
+					}
+					set_color_from_title = title:d_color_rg92
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 36.471 }
+							var:disease_resistance = { compare_value > 36.863 } 
+					}
+					set_color_from_title = title:d_color_rg93
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 36.863 }
+							var:disease_resistance = { compare_value > 37.255 } 
+					}
+					set_color_from_title = title:d_color_rg94
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 37.255 }
+							var:disease_resistance = { compare_value > 37.647 } 
+					}
+					set_color_from_title = title:d_color_rg95
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 37.647 }
+							var:disease_resistance = { compare_value > 38.039 } 
+					}
+					set_color_from_title = title:d_color_rg96
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 38.039 }
+							var:disease_resistance = { compare_value > 38.431 } 
+					}
+					set_color_from_title = title:d_color_rg97
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 38.431 }
+							var:disease_resistance = { compare_value > 38.824 } 
+					}
+					set_color_from_title = title:d_color_rg98
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 38.824 }
+							var:disease_resistance = { compare_value > 39.216 } 
+					}
+					set_color_from_title = title:d_color_rg99
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 39.216 }
+							var:disease_resistance = { compare_value > 39.608 } 
+					}
+					set_color_from_title = title:d_color_rg100
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 39.608 }
+							var:disease_resistance = { compare_value > 40.0 } 
+					}
+					set_color_from_title = title:d_color_rg101
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 40.0 }
+							var:disease_resistance = { compare_value > 40.392 } 
+					}
+					set_color_from_title = title:d_color_rg102
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 40.392 }
+							var:disease_resistance = { compare_value > 40.784 } 
+					}
+					set_color_from_title = title:d_color_rg103
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 40.784 }
+							var:disease_resistance = { compare_value > 41.176 } 
+					}
+					set_color_from_title = title:d_color_rg104
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 41.176 }
+							var:disease_resistance = { compare_value > 41.569 } 
+					}
+					set_color_from_title = title:d_color_rg105
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 41.569 }
+							var:disease_resistance = { compare_value > 41.961 } 
+					}
+					set_color_from_title = title:d_color_rg106
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 41.961 }
+							var:disease_resistance = { compare_value > 42.353 } 
+					}
+					set_color_from_title = title:d_color_rg107
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 42.353 }
+							var:disease_resistance = { compare_value > 42.745 } 
+					}
+					set_color_from_title = title:d_color_rg108
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 42.745 }
+							var:disease_resistance = { compare_value > 43.137 } 
+					}
+					set_color_from_title = title:d_color_rg109
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 43.137 }
+							var:disease_resistance = { compare_value > 43.529 } 
+					}
+					set_color_from_title = title:d_color_rg110
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 43.529 }
+							var:disease_resistance = { compare_value > 43.922 } 
+					}
+					set_color_from_title = title:d_color_rg111
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 43.922 }
+							var:disease_resistance = { compare_value > 44.314 } 
+					}
+					set_color_from_title = title:d_color_rg112
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 44.314 }
+							var:disease_resistance = { compare_value > 44.706 } 
+					}
+					set_color_from_title = title:d_color_rg113
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 44.706 }
+							var:disease_resistance = { compare_value > 45.098 } 
+					}
+					set_color_from_title = title:d_color_rg114
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 45.098 }
+							var:disease_resistance = { compare_value > 45.49 }
+					}
+					set_color_from_title = title:d_color_rg115
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 45.49 }
+							var:disease_resistance = { compare_value > 45.882 }
+					}
+					set_color_from_title = title:d_color_rg116
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 45.882 }
+							var:disease_resistance = { compare_value > 46.275 }
+					}
+					set_color_from_title = title:d_color_rg117
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 46.275 }
+							var:disease_resistance = { compare_value > 46.667 }
+					}
+					set_color_from_title = title:d_color_rg118
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 46.667 }
+							var:disease_resistance = { compare_value > 47.059 }
+					}
+					set_color_from_title = title:d_color_rg119
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 47.059 }
+							var:disease_resistance = { compare_value > 47.451 }
+					}
+					set_color_from_title = title:d_color_rg120
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 47.451 }
+							var:disease_resistance = { compare_value > 47.843 }
+					}
+					set_color_from_title = title:d_color_rg121
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 47.843 }
+							var:disease_resistance = { compare_value > 48.235 }
+					}
+					set_color_from_title = title:d_color_rg122
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 48.235 }
+							var:disease_resistance = { compare_value > 48.627 }
+					}
+					set_color_from_title = title:d_color_rg123
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 48.627 }
+							var:disease_resistance = { compare_value > 49.02 }
+					}
+					set_color_from_title = title:d_color_rg124
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 49.02 }
+							var:disease_resistance = { compare_value > 49.412 }
+					}
+					set_color_from_title = title:d_color_rg125
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 49.412 }
+							var:disease_resistance = { compare_value > 49.804 }
+					}
+					set_color_from_title = title:d_color_rg126
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 49.804 }
+							var:disease_resistance = { compare_value > 50.196 }
+					}
+					set_color_from_title = title:d_color_rg127
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 50.196 }
+							var:disease_resistance = { compare_value > 50.588 }
+					}
+					set_color_from_title = title:d_color_rg128
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 50.588 }
+							var:disease_resistance = { compare_value > 50.98 }
+					}
+					set_color_from_title = title:d_color_rg129
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 50.98 }
+							var:disease_resistance = { compare_value > 51.373 }
+					}
+					set_color_from_title = title:d_color_rg130
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 51.373 }
+							var:disease_resistance = { compare_value > 51.765 }
+					}
+					set_color_from_title = title:d_color_rg131
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 51.765 }
+							var:disease_resistance = { compare_value > 52.157 }
+					}
+					set_color_from_title = title:d_color_rg132
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 52.157 }
+							var:disease_resistance = { compare_value > 52.549 }
+					}
+					set_color_from_title = title:d_color_rg133
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 52.549 }
+							var:disease_resistance = { compare_value > 52.941 }
+					}
+					set_color_from_title = title:d_color_rg134
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 52.941 }
+							var:disease_resistance = { compare_value > 53.333 }
+					}
+					set_color_from_title = title:d_color_rg135
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 53.333 }
+							var:disease_resistance = { compare_value > 53.725 }
+					}
+					set_color_from_title = title:d_color_rg136
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 53.725 }
+							var:disease_resistance = { compare_value > 54.118 }
+					}
+					set_color_from_title = title:d_color_rg137
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 54.118 }
+							var:disease_resistance = { compare_value > 54.51 }
+					}
+					set_color_from_title = title:d_color_rg138
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 54.51 }
+							var:disease_resistance = { compare_value > 54.902 }
+					}
+					set_color_from_title = title:d_color_rg139
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 54.902 }
+							var:disease_resistance = { compare_value > 55.294 }
+					}
+					set_color_from_title = title:d_color_rg140
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 55.294 }
+							var:disease_resistance = { compare_value > 55.686 }
+					}
+					set_color_from_title = title:d_color_rg141
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 55.686 }
+							var:disease_resistance = { compare_value > 56.078 }
+					}
+					set_color_from_title = title:d_color_rg142
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 56.078 }
+							var:disease_resistance = { compare_value > 56.471 }
+					}
+					set_color_from_title = title:d_color_rg143
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 56.471 }
+							var:disease_resistance = { compare_value > 56.863 }
+					}
+					set_color_from_title = title:d_color_rg144
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 56.863 }
+							var:disease_resistance = { compare_value > 57.255 }
+					}
+					set_color_from_title = title:d_color_rg145
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 57.255 }
+							var:disease_resistance = { compare_value > 57.647 }
+					}
+					set_color_from_title = title:d_color_rg146
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 57.647 }
+							var:disease_resistance = { compare_value > 58.039 }
+					}
+					set_color_from_title = title:d_color_rg147
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 58.039 }
+							var:disease_resistance = { compare_value > 58.431 }
+					}
+					set_color_from_title = title:d_color_rg148
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 58.431 }
+							var:disease_resistance = { compare_value > 58.824 }
+					}
+					set_color_from_title = title:d_color_rg149
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 58.824 }
+							var:disease_resistance = { compare_value > 59.216 }
+					}
+					set_color_from_title = title:d_color_rg150
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 59.216 }
+							var:disease_resistance = { compare_value > 59.608 }
+					}
+					set_color_from_title = title:d_color_rg151
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 59.608 }
+							var:disease_resistance = { compare_value > 60.0 }
+					}
+					set_color_from_title = title:d_color_rg152
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 60.0 }
+							var:disease_resistance = { compare_value > 60.392 }
+					}
+					set_color_from_title = title:d_color_rg153
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 60.392 }
+							var:disease_resistance = { compare_value > 60.784 }
+					}
+					set_color_from_title = title:d_color_rg154
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 60.784 }
+							var:disease_resistance = { compare_value > 61.176 }
+					}
+					set_color_from_title = title:d_color_rg155
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 61.176 }
+							var:disease_resistance = { compare_value > 61.569 }
+					}
+					set_color_from_title = title:d_color_rg156
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 61.569 }
+							var:disease_resistance = { compare_value > 61.961 }
+					}
+					set_color_from_title = title:d_color_rg157
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 61.961 }
+							var:disease_resistance = { compare_value > 62.353 }
+					}
+					set_color_from_title = title:d_color_rg158
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 62.353 }
+							var:disease_resistance = { compare_value > 62.745 }
+					}
+					set_color_from_title = title:d_color_rg159
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 62.745 }
+							var:disease_resistance = { compare_value > 63.137 }
+					}
+					set_color_from_title = title:d_color_rg160
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 63.137 }
+							var:disease_resistance = { compare_value > 63.529 }
+					}
+					set_color_from_title = title:d_color_rg161
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 63.529 }
+							var:disease_resistance = { compare_value > 63.922 }
+					}
+					set_color_from_title = title:d_color_rg162
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 63.922 }
+							var:disease_resistance = { compare_value > 64.314 }
+					}
+					set_color_from_title = title:d_color_rg163
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 64.314 }
+							var:disease_resistance = { compare_value > 64.706 }
+					}
+					set_color_from_title = title:d_color_rg164
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 64.706 }
+							var:disease_resistance = { compare_value > 65.098 }
+					}
+					set_color_from_title = title:d_color_rg165
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 65.098 }
+							var:disease_resistance = { compare_value > 65.49 }
+					}
+					set_color_from_title = title:d_color_rg166
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 65.49 }
+							var:disease_resistance = { compare_value > 65.882 }
+					}
+					set_color_from_title = title:d_color_rg167
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 65.882 }
+							var:disease_resistance = { compare_value > 66.275 }
+					}
+					set_color_from_title = title:d_color_rg168
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 66.275 }
+							var:disease_resistance = { compare_value > 66.667 }
+					}
+					set_color_from_title = title:d_color_rg169
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 66.667 }
+							var:disease_resistance = { compare_value > 67.059 }
+					}
+					set_color_from_title = title:d_color_rg170
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 67.059 }
+							var:disease_resistance = { compare_value > 67.451 }
+					}
+					set_color_from_title = title:d_color_rg171
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 67.451 }
+							var:disease_resistance = { compare_value > 67.843 }
+					}
+					set_color_from_title = title:d_color_rg172
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 67.843 }
+							var:disease_resistance = { compare_value > 68.235 }
+					}
+					set_color_from_title = title:d_color_rg173
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 68.235 }
+							var:disease_resistance = { compare_value > 68.627 }
+					}
+					set_color_from_title = title:d_color_rg174
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 68.627 }
+							var:disease_resistance = { compare_value > 69.02 }
+					}
+					set_color_from_title = title:d_color_rg175
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 69.02 }
+							var:disease_resistance = { compare_value > 69.412 }
+					}
+					set_color_from_title = title:d_color_rg176
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 69.412 }
+							var:disease_resistance = { compare_value > 69.804 }
+					}
+					set_color_from_title = title:d_color_rg177
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 69.804 }
+							var:disease_resistance = { compare_value > 70.196 }
+					}
+					set_color_from_title = title:d_color_rg178
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 70.196 }
+							var:disease_resistance = { compare_value > 70.588 }
+					}
+					set_color_from_title = title:d_color_rg179
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 70.588 }
+							var:disease_resistance = { compare_value > 70.98 }
+					}
+					set_color_from_title = title:d_color_rg180
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 70.98 }
+							var:disease_resistance = { compare_value > 71.373 }
+					}
+					set_color_from_title = title:d_color_rg181
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 71.373 }
+							var:disease_resistance = { compare_value > 71.765 }
+					}
+					set_color_from_title = title:d_color_rg182
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 71.765 }
+							var:disease_resistance = { compare_value > 72.157 }
+					}
+					set_color_from_title = title:d_color_rg183
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 72.157 }
+							var:disease_resistance = { compare_value > 72.549 }
+					}
+					set_color_from_title = title:d_color_rg184
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 72.549 }
+							var:disease_resistance = { compare_value > 72.941 }
+					}
+					set_color_from_title = title:d_color_rg185
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 72.941 }
+							var:disease_resistance = { compare_value > 73.333 }
+					}
+					set_color_from_title = title:d_color_rg186
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 73.333 }
+							var:disease_resistance = { compare_value > 73.725 }
+					}
+					set_color_from_title = title:d_color_rg187
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 73.725 }
+							var:disease_resistance = { compare_value > 74.118 }
+					}
+					set_color_from_title = title:d_color_rg188
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 74.118 }
+							var:disease_resistance = { compare_value > 74.51 }
+					}
+					set_color_from_title = title:d_color_rg189
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 74.51 }
+							var:disease_resistance = { compare_value > 74.902 }
+					}
+					set_color_from_title = title:d_color_rg190
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 74.902 }
+							var:disease_resistance = { compare_value > 75.294 }
+					}
+					set_color_from_title = title:d_color_rg191
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 75.294 }
+							var:disease_resistance = { compare_value > 75.686 }
+					}
+					set_color_from_title = title:d_color_rg192
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 75.686 }
+							var:disease_resistance = { compare_value > 76.078 }
+					}
+					set_color_from_title = title:d_color_rg193
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 76.078 }
+							var:disease_resistance = { compare_value > 76.471 }
+					}
+					set_color_from_title = title:d_color_rg194
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 76.471 }
+							var:disease_resistance = { compare_value > 76.863 }
+					}
+					set_color_from_title = title:d_color_rg195
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 76.863 }
+							var:disease_resistance = { compare_value > 77.255 }
+					}
+					set_color_from_title = title:d_color_rg196
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 77.255 }
+							var:disease_resistance = { compare_value > 77.647 }
+					}
+					set_color_from_title = title:d_color_rg197
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 77.647 }
+							var:disease_resistance = { compare_value > 78.039 }
+					}
+					set_color_from_title = title:d_color_rg198
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 78.039 }
+							var:disease_resistance = { compare_value > 78.431 }
+					}
+					set_color_from_title = title:d_color_rg199
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 78.431 }
+							var:disease_resistance = { compare_value > 78.824 }
+					}
+					set_color_from_title = title:d_color_rg200
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 78.824 }
+							var:disease_resistance = { compare_value > 79.216 }
+					}
+					set_color_from_title = title:d_color_rg201
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 79.216 }
+							var:disease_resistance = { compare_value > 79.608 }
+					}
+					set_color_from_title = title:d_color_rg202
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 79.608 }
+							var:disease_resistance = { compare_value > 80.0 }
+					}
+					set_color_from_title = title:d_color_rg203
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 80.0 }
+							var:disease_resistance = { compare_value > 80.392 }
+					}
+					set_color_from_title = title:d_color_rg204
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 80.392 }
+							var:disease_resistance = { compare_value > 80.784 }
+					}
+					set_color_from_title = title:d_color_rg205
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 80.784 }
+							var:disease_resistance = { compare_value > 81.176 }
+					}
+					set_color_from_title = title:d_color_rg206
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 81.176 }
+							var:disease_resistance = { compare_value > 81.569 }
+					}
+					set_color_from_title = title:d_color_rg207
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 81.569 }
+							var:disease_resistance = { compare_value > 81.961 }
+					}
+					set_color_from_title = title:d_color_rg208
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 81.961 }
+							var:disease_resistance = { compare_value > 82.353 }
+					}
+					set_color_from_title = title:d_color_rg209
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 82.353 }
+							var:disease_resistance = { compare_value > 82.745 }
+					}
+					set_color_from_title = title:d_color_rg210
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 82.745 }
+							var:disease_resistance = { compare_value > 83.137 }
+					}
+					set_color_from_title = title:d_color_rg211
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 83.137 }
+							var:disease_resistance = { compare_value > 83.529 }
+					}
+					set_color_from_title = title:d_color_rg212
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 83.529 }
+							var:disease_resistance = { compare_value > 83.922 }
+					}
+					set_color_from_title = title:d_color_rg213
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 83.922 }
+							var:disease_resistance = { compare_value > 84.314 }
+					}
+					set_color_from_title = title:d_color_rg214
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 84.314 }
+							var:disease_resistance = { compare_value > 84.706 }
+					}
+					set_color_from_title = title:d_color_rg215
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 84.706 }
+							var:disease_resistance = { compare_value > 85.098 }
+					}
+					set_color_from_title = title:d_color_rg216
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 85.098 }
+							var:disease_resistance = { compare_value > 85.49 }
+					}
+					set_color_from_title = title:d_color_rg217
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 85.49 }
+							var:disease_resistance = { compare_value > 85.882 }
+					}
+					set_color_from_title = title:d_color_rg218
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 85.882 }
+							var:disease_resistance = { compare_value > 86.275 }
+					}
+					set_color_from_title = title:d_color_rg219
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 86.275 }
+							var:disease_resistance = { compare_value > 86.667 }
+					}
+					set_color_from_title = title:d_color_rg220
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 86.667 }
+							var:disease_resistance = { compare_value > 87.059 }
+					}
+					set_color_from_title = title:d_color_rg221
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 87.059 }
+							var:disease_resistance = { compare_value > 87.451 }
+					}
+					set_color_from_title = title:d_color_rg222
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 87.451 }
+							var:disease_resistance = { compare_value > 87.843 }
+					}
+					set_color_from_title = title:d_color_rg223
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 87.843 }
+							var:disease_resistance = { compare_value > 88.235 }
+					}
+					set_color_from_title = title:d_color_rg224
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 88.235 }
+							var:disease_resistance = { compare_value > 88.627 }
+					}
+					set_color_from_title = title:d_color_rg225
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 88.627 }
+							var:disease_resistance = { compare_value > 89.02 }
+					}
+					set_color_from_title = title:d_color_rg226
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 89.02 }
+							var:disease_resistance = { compare_value > 89.412 }
+					}
+					set_color_from_title = title:d_color_rg227
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 89.412 }
+							var:disease_resistance = { compare_value > 89.804 }
+					}
+					set_color_from_title = title:d_color_rg228
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 89.804 }
+							var:disease_resistance = { compare_value > 90.196 }
+					}
+					set_color_from_title = title:d_color_rg229
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 90.196 }
+							var:disease_resistance = { compare_value > 90.588 }
+					}
+					set_color_from_title = title:d_color_rg230
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 90.588 }
+							var:disease_resistance = { compare_value > 90.98 }
+					}
+					set_color_from_title = title:d_color_rg231
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 90.98 }
+							var:disease_resistance = { compare_value > 91.373 }
+					}
+					set_color_from_title = title:d_color_rg232
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 91.373 }
+							var:disease_resistance = { compare_value > 91.765 }
+					}
+					set_color_from_title = title:d_color_rg233
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 91.765 }
+							var:disease_resistance = { compare_value > 92.157 }
+					}
+					set_color_from_title = title:d_color_rg234
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 92.157 }
+							var:disease_resistance = { compare_value > 92.549 }
+					}
+					set_color_from_title = title:d_color_rg235
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 92.549 }
+							var:disease_resistance = { compare_value > 92.941 }
+					}
+					set_color_from_title = title:d_color_rg236
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 92.941 }
+							var:disease_resistance = { compare_value > 93.333 }
+					}
+					set_color_from_title = title:d_color_rg237
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 93.333 }
+							var:disease_resistance = { compare_value > 93.725 }
+					}
+					set_color_from_title = title:d_color_rg238
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 93.725 }
+							var:disease_resistance = { compare_value > 94.118 }
+					}
+					set_color_from_title = title:d_color_rg239
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 94.118 }
+							var:disease_resistance = { compare_value > 94.51 }
+					}
+					set_color_from_title = title:d_color_rg240
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 94.51 }
+							var:disease_resistance = { compare_value > 94.902 }
+					}
+					set_color_from_title = title:d_color_rg241
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 94.902 }
+							var:disease_resistance = { compare_value > 95.294 }
+					}
+					set_color_from_title = title:d_color_rg242
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 95.294 }
+							var:disease_resistance = { compare_value > 95.686 }
+					}
+					set_color_from_title = title:d_color_rg243
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 95.686 }
+							var:disease_resistance = { compare_value > 96.078 }
+					}
+					set_color_from_title = title:d_color_rg244
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 96.078 }
+							var:disease_resistance = { compare_value > 96.471 }
+					}
+					set_color_from_title = title:d_color_rg245
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 96.471 }
+							var:disease_resistance = { compare_value > 96.863 }
+					}
+					set_color_from_title = title:d_color_rg246
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 96.863 }
+							var:disease_resistance = { compare_value > 97.255 }
+					}
+					set_color_from_title = title:d_color_rg247
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 97.255 }
+							var:disease_resistance = { compare_value > 97.647 }
+					}
+					set_color_from_title = title:d_color_rg248
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 97.647 }
+							var:disease_resistance = { compare_value > 98.039 }
+					}
+					set_color_from_title = title:d_color_rg249
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 98.039 }
+							var:disease_resistance = { compare_value > 98.431 }
+					}
+					set_color_from_title = title:d_color_rg250
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 98.431 }
+							var:disease_resistance = { compare_value > 98.824 }
+					}
+					set_color_from_title = title:d_color_rg251
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 98.824 }
+							var:disease_resistance = { compare_value > 99.216 }
+					}
+					set_color_from_title = title:d_color_rg252
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 99.216 }
+							var:disease_resistance = { compare_value > 99.608 }
+					}
+					set_color_from_title = title:d_color_rg253
+				}
+				else_if = {
+					limit = { 
+						var:disease_resistance = { compare_value < 99.608 }
+							var:disease_resistance = { compare_value > 100.0 }
+					}
+					set_color_from_title = title:d_color_rg254
+				}
+				else = {
+					set_color_from_title = title:d_color_rg255
+				}
+			}
+			remove_global_variable = custom_map_mode_changing
+		}
+	}
+	is_shown = {
+		exists = global_var:custom_map_mode
+		global_var:custom_map_mode = flag:disease_resistance_map
+	}
+	is_valid = {
+		NOT = { exists = global_var:custom_map_mode_changing }
+	}
+}

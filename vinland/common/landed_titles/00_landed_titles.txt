@@ -1,3 +1,12 @@
+k_beothuk = {
+	color = { 190 160 110 }
+}
+
+k_norway = {
+	color = { 120 120 160 }
+	landless = yes
+}
+
 e_iroquois = {
 	color = { 50 140 202 }
 	color2 = { 0 0 0 }

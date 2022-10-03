@@ -1,0 +1,1179 @@
+﻿# Called from code after history generation
+# Empty scope
+on_game_start = {
+	effect = {
+		title:k_vinland = {
+			set_variable = {
+				name = title_struggle
+				value = title:k_norway
+			}
+			set_variable = {
+				name = bop_progress
+				value = 50
+			}
+			set_variable = {
+				name = popular_support
+				value = 25
+			}
+		}
+		
+		trigger_event = { 
+			on_action = on_bop_monthly 
+			months = 1
+			delayed = yes 
+		}
+		
+		title:b_vinland = {
+			set_variable = {
+				name = trade_good
+				value = 0
+			}
+		}
+	}
+}
+
+# Like on_game_start, except it is called once the host (or player, in single player) exits the lobby. Good for anything where you need to know who the players are, or what the game rules are
+on_game_start_after_lobby = {
+	effect = {
+		### GAME RULE: VIEW ON SAME-SEX RELATIONS
+		if = {
+			limit = { has_game_rule = accepted_same_sex_relations }
+			game_rule_accepted_same_sex_relations_effect = yes
+		}
+
+		### GAME RULE: RANDOM RULER PLACEMENT
+		if = {
+			limit = { NOT = { has_game_rule = random_ruler_placement_off } }
+			game_rule_random_ruler_placement_effect = yes
+		}
+
+		### GAME RULE: RANDOMIZE FAITH
+		if = {
+			limit = { has_game_rule = randomized_faiths_on }
+			game_rule_randomize_faith_effect = yes
+		}
+
+		### GAME RULE: FAITH ACCEPTANCE
+		if = {
+			limit = { has_game_rule = full_faith_acceptance }
+			game_rule_faith_acceptance_effect = yes
+		}
+
+		### GAME RULE: GENDER EQUALITY ###
+		if = {
+			limit = { has_game_rule = full_gender_equality }
+			game_rule_full_gender_equality_effect = yes
+		}
+		else_if = {
+			limit = { has_game_rule = inversed_gender_equality }
+			game_rule_inversed_gender_equality_effect = yes #todo fix
+		}
+
+		### GAME RULE: SEXUALITY DISTRIBUTION ###
+		if = {
+			limit = { NOT = { has_game_rule = sexuality_distribution_default } }
+			game_rule_sexuality_distribution_effect = yes
+		}
+		else = { # So that children 10+ starts with a sexuality
+			child_sexuality_distribution_effect = yes
+		}
+
+		### ACHIEVEMENT: FROM RAGS TO RICHES
+		every_player = {
+			limit = { highest_held_title_tier = tier_county }
+			add_achievement_global_variable_effect = {
+				VARIABLE = achievement_rags_to_riches_valid
+				VALUE = yes
+			}
+		}
+
+		### ACHIEVEMENT (FP2): Holidaying in Iberia
+		every_player = {
+			limit = { fp2_character_involved_in_struggle_trigger = no }
+			add_achievement_global_variable_effect = {
+				VARIABLE = fp2_holiday_in_iberia_achievement_unlocked
+				VALUE = no # Boolean in actual usage
+			}
+		}
+
+		### ACHIEVEMENT TRACKING FOR STARTING CHARACTERS
+		if = { 
+			limit = { has_multiple_players = no }
+			every_player = {
+				# Base Title
+				if = {
+					limit = { 
+						exists = character:7757
+						this = character:7757
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_give_a_dog_a_bone_achievement
+						VALUE = yes
+					}
+				}	
+				if = {
+					limit = { 
+						exists = character:1128
+						this = character:1128
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_wily_as_the_fox_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							AND = {
+								exists = character:108501
+								this = character:108501
+							}
+							AND = {
+								exists = character:107500
+								this = character:107500
+							}
+							AND = {
+								exists = character:107501
+								this = character:107501
+							}
+							AND = {
+								exists = character:108500
+								this = character:108500
+							}
+							AND = {
+								exists = character:109500
+								this = character:109500
+							}
+						}
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_sibling_rivalry_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							AND = {
+								exists = character:163108
+								this = character:163108
+							}
+							AND = {
+								exists = character:163110
+								this = character:163110
+							}
+							AND = {
+								exists = character:163111
+								this = character:163111
+							}
+							AND = {
+								exists = character:163112
+								this = character:163112
+							}
+							AND = {
+								exists = character:163119
+								this = character:163119
+							}
+						}
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_blood_eagle_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						exists = character:6448
+						this = character:6448
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_kings_to_the_seventh_generation_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						exists = character:140
+						this = character:140
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_norman_yoke_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						exists = character:522
+						this = character:522
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_royal_dignity_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						exists = character:40605
+						this = character:40605
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_land_of_the_rus_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						exists = character:251187
+						this = character:251187
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_mother_of_us_all_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							culture = { has_cultural_pillar = heritage_iberian }
+							culture = culture:andalusian
+						}
+						has_religion = religion:christianity_religion
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_reconquista_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						culture = culture:irish
+						capital_province = { geographical_region = custom_ireland }
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_the_emerald_isle_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							culture = culture:castilian
+							culture = culture:basque
+							culture = culture:portuguese
+							culture = culture:catalan
+							culture = culture:andalusian
+							culture = culture:visigothic
+							culture = culture:suebi
+						}
+						has_religion = religion:islam_religion
+						capital_province = { geographical_region = world_europe_west_iberia }
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_al_andalus_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = { 
+						exists = character:159137
+						this = character:159137
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_almost_there_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = { 
+						exists = character:109607
+						this = character:109607
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_last_count_first_king_achievement
+						VALUE = yes
+					}
+				}
+				if = {
+					limit = { 
+						exists = character:6878
+						this = character:6878
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_going_places_achievement
+						VALUE = yes
+					}
+				}
+				# FP1
+				# far_from_home_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse-cultured character.
+						fp1_achievement_culture_plus_religion_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_far_from_home_achievement
+						VALUE = yes
+					}
+				}
+				# miklagardariki_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse-cultured character.
+						fp1_achievement_culture_plus_religion_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_miklagardariki_achievement
+						VALUE = yes
+					}
+				}
+				# canute_the_greater_achievement
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_canute_the_greater_achievement
+					VALUE = yes
+				}
+				# king_of_all_the_isles_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse-cultured character.
+						fp1_achievement_culture_plus_religion_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_king_of_all_the_isles_achievement
+						VALUE = yes
+					}
+				}
+				# faster_than_the_fox_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse-cultured character.
+						fp1_achievement_culture_plus_religion_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_faster_than_the_fox_achievement
+						VALUE = yes
+					}
+				}
+				# volva_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse-cultured character.
+						fp1_achievement_culture_plus_religion_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_volva_achievement
+						VALUE = yes
+					}
+				}
+				# saga_in_stone_achievement
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_saga_in_stone_achievement
+					VALUE = yes
+				}
+				# first_of_the_crusader_kings_achievement
+				if = {
+					limit = {
+						# Starting as a Norse-cultured character.
+						fp1_achievement_culture_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_first_of_the_crusader_kings_achievement
+						VALUE = yes
+					}
+				}
+				# vladimirs_second_choice_achievement
+				if = {
+					limit = {
+						# Starting as a Norse pagan Norse or Rus-cultured character.
+						fp1_achievement_culture_norse_or_rus_trigger = yes
+						fp1_achievement_religious_norse_trigger = yes
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_vladimirs_second_choice_achievement
+						VALUE = yes
+					}
+				}
+				# a_dangerous_business_achievement
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_a_dangerous_business_achievement
+					VALUE = yes
+				}
+				#ROYAL COURT ACHIEVEMENTS
+
+				#1 Patronage
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_patronage_achievement
+					VALUE = yes
+				}
+
+				#2 Converging Paths
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_converging_paths_achievement
+					VALUE = yes
+				}
+				#3 Changing course
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_changing_course_achievement
+					VALUE = yes
+				}
+
+				#4 Hoarder
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_hoarder_achievement
+					VALUE = yes
+				}
+
+
+				#5 creme de la creme
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_creme_de_la_creme_achievement
+					VALUE = yes
+				}
+				#6 Give it back!
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_polyglot_achievement
+					VALUE = yes
+				}
+				#7 Inspirational
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_inspirational_achievement
+					VALUE = yes
+				}
+
+				#8 One of a Kind
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_one_of_a_kind_achievement
+						VALUE = yes
+				}
+				#9 True Tolerance
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_true_tolerance_achievement
+					VALUE = yes
+				}
+				#10 Delusions of Grandeur
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_delusions_of_grandeur_achievement_achievement
+					VALUE = yes
+				}
+
+				#11 Bod Chen Po
+				if = {
+					limit = {
+						this.dynasty = dynasty:105800
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_bod_chen_po_achievement
+						VALUE = yes
+					}
+				}
+				#12 Turkish Eagle
+				if = {
+					limit = {
+						has_title = title:c_samosata
+						this.house = house:house_seljuk # Seljuk
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_turkish_eagle_achievement
+						VALUE = yes
+					}
+				}
+
+				#13 Rise of the Ghurids
+				if = {
+					limit = {
+						has_title = title:d_ghur
+						this.dynasty = dynasty:791 #Ghurid
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_rise_of_the_ghurids_achievement
+						VALUE = yes
+					}
+				}
+				#14 Brave and Bold
+				if = {
+					limit = {
+						game_start_date < 868.1.1
+						this.dynasty = dynasty:699 #Piast
+					}
+					add_achievement_global_variable_effect = {
+						VARIABLE = started_brave_and_bold_achievement
+						VALUE = yes
+					}
+				}
+				#15 Lingua Franca
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_lingua_franca_achievement
+					VALUE = yes
+				}
+				#16 Beta Israel
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_beta_israel_achievement
+					VALUE = yes
+				}
+				# 17 They belong in a museum!
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_they_belong_in_a_museum_achievement
+					VALUE = yes
+				}
+				#18 I made this!
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_i_made_this_achievement
+					VALUE = yes
+				}
+
+				#19 Nobody Comes to Fika!
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_nobody_comes_to_fika_achievement
+					VALUE = yes
+				}
+				# 20 The True Royal Court
+				add_achievement_global_variable_effect = {
+					VARIABLE = started_the_true_royal_court_achievement
+						VALUE = yes
+				}
+
+				### RULER DESIGNER ACHIEVEMENT BLOCKS ###
+				if = {
+					limit = {
+						num_virtuous_traits >= 3
+					}
+					add_achievement_flag_effect = { FLAG = rd_character_blocked_paragon_of_virtue_achievement_flag	}	
+				}
+				if = {
+					limit = {
+						any_child = {
+							count >= 10
+							is_alive = yes
+						}
+					}
+					add_achievement_flag_effect = { FLAG = rd_character_blocked_the_succession_is_safe_achievement_flag }	
+				}
+				if = {
+					limit = {
+						any_child = {
+							has_trait = inbred
+						}	
+					}
+					add_achievement_flag_effect = { FLAG = rd_character_blocked_keeping_it_in_the_family_achievement_flag }
+				}
+				if = {
+					limit = {
+						highest_held_title_tier >= tier_empire
+						should_be_naked_trigger = yes	
+					}
+					add_achievement_flag_effect = { FLAG = rd_character_blocked_the_emperors_new_clothes_achievement_flag }
+				}
+				if = {
+					limit = {
+						is_from_ruler_designer = yes
+						OR = {
+							fp1_achievement_culture_norse_trigger = yes
+							fp1_achievement_religious_norse_trigger = yes
+						}
+					}
+					add_to_global_unavailable_achievements_list_effect = { FLAG = flag:rd_character_blocked_far_from_home_achievement }
+					add_to_global_unavailable_achievements_list_effect = { FLAG = flag:rd_character_blocked_miklagardariki_achievement }
+					add_to_global_unavailable_achievements_list_effect = { FLAG = flag:rd_character_blocked_faster_than_the_fox_achievement }
+				}
+				if = {
+					limit = {
+						any_ruler = {
+							is_from_ruler_designer = yes
+						}
+					}
+					add_to_global_unavailable_achievements_list_effect = { FLAG = flag:rd_character_blocked_iberia_or_iberia_achievement }
+					add_to_global_unavailable_achievements_list_effect = { FLAG = flag:rd_character_blocked_el_cid_achievement }
+					add_achievement_global_variable_effect = {
+						VARIABLE = any_ruler_designed_character_achievement
+						VALUE = yes
+					}
+				}
+			}
+		}
+
+		### HOLD COURT STARTING GRACE
+		every_character_with_royal_court = {
+			set_variable = {
+				name = hold_court_cooldown
+	 			days = standard_hold_court_cooldown_time
+	 		}
+		}
+
+		
+		#Set starting cultural acceptance
+		culture:vlach = {
+			change_cultural_acceptance = {
+				target = culture:serbian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:croatian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:bosnian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:bulgarian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:khazar = {
+			change_cultural_acceptance = {
+				target = culture:radhanite
+				value = 25
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:mordvin
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:meshchera
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:muroma
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:russian
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:norse = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:finnish
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:swedish = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:finnish
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:norwegian = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		# In 867, the Slavic cultures are still very similar to each other, so we start them off at a very high tolerance.
+		if = {
+			limit = { current_date = 867.1.1 }
+			# West Slavic.
+			culture:pommeranian = {
+				change_cultural_acceptance = {
+					target = culture:czech
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polish
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:czech = {
+				change_cultural_acceptance = {
+					target = culture:polish
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:polish = {
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:polabian = {
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:slovien = {
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:carantanian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			# South Slavic.
+			culture:croatian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:bosnian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:serbian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:bulgarian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			# East Slavic.
+			culture:russian = {
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:ilmenian = {
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:severian = {
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			## Volhynian doesn't get its own box, because we've already applied acceptance to it bilaterally everywhere else.
+		}
+	}
+
+	events = {
+		game_rule.1000	#Autopopulate families.
+		game_rule.1011	#Hungarian Migration management.
+		historical_artifacts.0023			# Historical Artifacts Generator
+	}
+}

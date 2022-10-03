@@ -1,0 +1,13 @@
+﻿900005 = {
+	name = "Placeholder"
+	dynasty = 200003
+	religion = animism
+	culture = beothuk
+	970.1.1 = {
+		birth = yes
+	}
+
+	1025.1.1 = {
+		death = yes
+	}
+}

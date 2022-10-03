@@ -1,0 +1,402 @@
+﻿balance_of_power = {
+	scope = character
+	
+	effect = {
+		random_held_title = {
+			limit = {
+				has_variable = title_struggle
+			}
+			set_local_variable = {
+				name = struggle_target
+				value = var:title_struggle
+			}
+			save_scope_as = this_struggle
+		}
+		set_variable = {
+			name = opposing_bop_title
+			value = local_var:struggle_target
+		}
+		set_variable = {
+			name = own_bop_title
+			value = scope:this_struggle
+		}
+	}
+	
+	is_shown = {
+		
+	}
+	
+	is_valid = {
+		any_held_title = {
+			has_variable = title_struggle
+		}
+	}
+}
+
+bop_pos_inter_1 = {
+	scope = character
+
+	effect = {
+		remove_reserved_gold = 100
+		var:own_bop_title = {
+			random_de_jure_county = {
+				limit = {
+					OR = {
+						top_liege = ROOT
+						holder = ROOT
+					}
+				}
+				change_development_level = 1
+			}
+			change_variable = {
+				name = popular_support
+				add = 2
+			}
+			custom_tooltip = BOP_ADD_2_POPULAR_SUPPORT_TT
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 100
+	}
+}
+
+bop_pos_inter_2 = {
+	scope = character
+
+	effect = {
+		add_prestige = -200
+		var:own_bop_title = {
+			change_variable = {
+				name = popular_support
+				add = 7.5
+			}
+			custom_tooltip = BOP_ADD_7_5_POPULAR_SUPPORT_TT
+			
+			change_variable = {
+				name = bop_progress
+				subtract = 5
+			}
+			custom_tooltip = BOP_LOSE_5_BOP_PROGRESS_TT
+		}
+	}
+	
+	is_valid = {
+		prestige >= 200
+		var:own_bop_title = {
+			custom_tooltip = {
+				text = BOP_HAVE_5_BOP_PROGRESS_TT
+				var:bop_progress = {
+					compare_value > 5
+				}
+			}
+		}
+	}
+}
+
+bop_pos_inter_3 = {
+	scope = character
+
+	effect = {
+		var:own_bop_title = {
+			change_variable = {
+				name = popular_support
+				add = 2
+			}
+			custom_tooltip = BOP_ADD_2_POPULAR_SUPPORT_TT
+		}
+		add_stress = 10
+	}
+	
+	is_valid = {
+		always = yes
+	}
+}
+
+bop_pos_inter_4 = {
+	scope = character
+
+	effect = {
+		add_prestige = -75
+		var:own_bop_title = {
+			change_variable = {
+				name = popular_support
+				subtract = 5
+			}
+			custom_tooltip = BOP_LOSE_5_POPULAR_SUPPORT_TT
+			change_variable = {
+				name = bop_progress
+				add = 3
+			}
+			custom_tooltip = BOP_ADD_3_BOP_PROGRESS_TT
+		}
+	}
+	
+	is_valid = {
+		prestige >= 75
+		var:own_bop_title = {
+			custom_tooltip = {
+				text = BOP_HAVE_5_POPULAR_SUPPORT_TT
+				var:popular_support = {
+					compare_value > 5
+				}
+			}
+		}
+	}
+}
+
+bop_pos_inter_5 = {
+	scope = character
+
+	effect = {
+		remove_reserved_gold = 25
+		add_prestige = -75
+		var:own_bop_title = {
+			random_de_jure_county = {
+				limit = {
+					OR = {
+						top_liege = ROOT
+						holder = ROOT
+					}
+				}
+				culture = {
+					change_cultural_acceptance = {
+						target = ROOT.culture
+						value = 1.5
+						desc = BOP_CULTURAL_PRACTICES_RESPECTED
+					}
+					save_scope_as = other_culture
+				}
+				ROOT.culture = {
+					change_cultural_acceptance = {
+						target = scope:other_culture
+						value = 1.5
+						desc = BOP_CULTURAL_PRACTICES_RESPECTED
+					}
+				}
+			}
+			change_variable = {
+				name = popular_support
+				add = 2
+			}
+			custom_tooltip = BOP_ADD_2_POPULAR_SUPPORT_TT
+		}
+		add_stress = 10
+	}
+	
+	is_valid = {
+		reserved_gold >= 25
+		prestige >= 75
+		var:own_bop_title = {
+			custom_tooltip = {
+				text = BOP_NO_DIF_CULTURES
+				any_de_jure_county = {
+					OR = {
+						top_liege = ROOT
+						holder = ROOT
+					}
+					NOT = { culture = ROOT.culture }
+				}
+			}
+		}
+	}
+}
+
+bop_neg_inter_1 = {
+	scope = character
+	saved_scopes = {
+		opp_char
+	}
+	
+	effect = {
+		remove_reserved_gold = 25
+		custom_tooltip = BOP_INTRIGUE_DUEL
+		random_list = {
+			1 = {
+				modifier = {
+					factor = ROOT.intrigue
+				}
+				var:own_bop_title = {
+					change_variable = {
+						name = bop_progress
+						add = 3
+					}
+					custom_tooltip = BOP_ADD_3_BOP_PROGRESS_TT
+				}
+			}
+			1 = {
+				modifier = {
+					factor = scope:opp_char.intrigue
+				}
+				var:own_bop_title = {
+					change_variable = {
+						name = popular_support
+						subtract = 10
+					}
+					custom_tooltip = BOP_LOSE_10_POPULAR_SUPPORT_TT
+				}
+			}
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 25
+	}
+}
+
+bop_neg_inter_2 = {
+	scope = character
+	
+	effect = {
+		remove_reserved_gold = 75
+		custom_tooltip = BOP_SINGLE_DIPLO_DUEL
+		random_list = {
+			1 = {
+				modifier = {
+					factor = ROOT.diplomacy
+				}
+				var:own_bop_title = {
+					change_variable = {
+						name = popular_support
+						add = 7.5
+					}
+					custom_tooltip = BOP_ADD_7_5_POPULAR_SUPPORT_TT
+				}
+			}
+			20 = {
+				var:own_bop_title = {
+					change_variable = {
+						name = bop_progress
+						subtract = 5
+					}
+					custom_tooltip = BOP_LOSE_5_BOP_PROGRESS_TT
+				}
+				add_stress = 33
+			}
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 75
+	}
+}
+
+bop_neg_inter_3 = {
+	scope = character
+	saved_scopes = {
+		opp_char
+	}
+	
+	effect = {
+		remove_reserved_gold = 75
+		add_prestige = -75
+		custom_tooltip = BOP_DIPLO_DUEL
+		random_list = {
+			1 = {
+				modifier = {
+					factor = ROOT.martial
+				}
+				var:own_bop_title = {
+					change_variable = {
+						name = popular_support
+						add = 7.5
+					}
+					custom_tooltip = BOP_ADD_7_5_POPULAR_SUPPORT_TT
+				}
+			}
+			20 = {
+				var:own_bop_title = {
+					change_variable = {
+						name = bop_progress
+						subtract = 5
+					}
+					custom_tooltip = BOP_LOSE_5_BOP_PROGRESS_TT
+				}
+				add_stress = 33
+			}
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 75
+		prestige >= 75
+	}
+}
+
+bop_neg_inter_4 = {
+	scope = character
+	
+	effect = {
+		remove_reserved_gold = 75
+		add_prestige = -75
+		custom_tooltip = BOP_SINGLE_MARTIAL_DUEL
+		random_list = {
+			1 = {
+				modifier = {
+					factor = ROOT.diplomacy
+				}
+				var:own_bop_title = {
+					change_variable = {
+						name = popular_support
+						add = 7.5
+					}
+					custom_tooltip = BOP_ADD_7_5_POPULAR_SUPPORT_TT
+				}
+			}
+			20 = {
+				var:own_bop_title = {
+					change_variable = {
+						name = bop_progress
+						subtract = 5
+					}
+					custom_tooltip = BOP_LOSE_5_BOP_PROGRESS_TT
+				}
+				add_stress = 33
+			}
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 75
+		prestige >= 75
+	}
+}
+
+bop_neg_inter_5 = {
+	scope = character
+	saved_scopes = {
+		opp_char
+	}
+	
+	effect = {
+		remove_reserved_gold = 50
+		custom_tooltip = BOP_INTRIGUE_DUEL
+		random_list = {
+			1 = {
+				modifier = {
+					factor = ROOT.intrigue
+				}
+				scope:opp_char = {
+					add_character_modifier = { 
+						modifier = bop_intrigue_hampered_modifier
+						years = 3
+					}
+				}
+			}
+			1 = {
+				modifier = {
+					factor = scope:opp_char.intrigue
+				}
+				add_character_modifier = { 
+					modifier = bop_worthless_scheming_modifier
+					years = 3 
+				}
+				add_stress = 33
+			}
+		}
+	}
+	
+	is_valid = {
+		reserved_gold >= 50
+	}
+}
