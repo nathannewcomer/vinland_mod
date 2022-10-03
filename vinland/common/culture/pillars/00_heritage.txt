@@ -1,0 +1,23 @@
+﻿heritage_north_germanic = {
+	type = heritage
+}
+
+heritage_eastern_algonquin = {
+	type = heritage
+}
+
+heritage_iroquois = {
+	type = heritage
+}
+
+heritage_mississippian = {
+	type = heritage
+}
+
+heritage_northern_algonquin = {
+	type = heritage
+}
+
+heritage_sioux = {
+	type = heritage
+}

@@ -1,5 +1,0 @@
-convert_to_insular_american = {
-
-	
-
-}

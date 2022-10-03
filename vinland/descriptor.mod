@@ -1,4 +1,4 @@
-version="0.1.1"
+version="0.2.0"
 tags={
 	"Total Conversion"
 }
@@ -11,5 +11,5 @@ replace_path="history/provinces"
 replace_path="history/titles"
 replace_path="map_data"
 picture="thumbnail.png"
-supported_version="1.4.4"
+supported_version="1.7.2"
 remote_file_id="2840494992"

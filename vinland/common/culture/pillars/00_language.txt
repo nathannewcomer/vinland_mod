@@ -1,0 +1,89 @@
+﻿language_norse = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_norse
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_norse }
+			multiply = 10
+		}
+	}
+	
+	color = norse
+}
+
+language_algonquian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_algonquian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_algonquian }
+			multiply = 10
+		}
+	}
+	
+	color = norse
+}
+
+language_sioux = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sioux
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sioux }
+			multiply = 10
+		}
+	}
+	
+	color = norse
+}
+
+language_mississippian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_mississippian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_mississippian }
+			multiply = 10
+		}
+	}
+	
+	color = norse
+}
+
+language_iroquois = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_iroquois
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_iroquois }
+			multiply = 10
+		}
+	}
+	
+	color = norse
+}

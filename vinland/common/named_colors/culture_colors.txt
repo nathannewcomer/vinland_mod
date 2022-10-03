@@ -1,0 +1,29 @@
+colors = {
+	# used by cultures and languages
+	norse = { 0.3 0.55 0.8 }
+	mikmaq = { 0.15 0.95 0.8 }
+	maliseet = { 0.05 0.85 0.65 }
+	passamaqoddy = { 0.05 0.65 0.45 }
+	abanaki = { 0.4 0.88 0.8 }
+	lenape = { 0.6 0.9 0.75 }
+	massachusett = { 0.1 0.6 0.35 }
+	penobscot = { 0.25 0.85 0.7 }
+	nanticoke = { 0.6 0.9 0.85 }
+	powhatan = { 0.15 0.55 0.45 }
+	mohawk = { 0.82 0.55 0.95 }
+	oneida = { 0.7 0.15 0.92 }
+	onondaga = { 0.3 0.15 0.55 }
+	cayuga = { 0.55 0.15 0.6 }
+	seneca = { 0.65 0.25 0.85 }
+	wyandot = { 0.85 0.2 0.65 }
+	ohio = { 0.8 0.1 0.15 }
+	michigan = { 0.9 0.4 0.4 }
+	oneota = { 0.85 0.3 0.35 }
+	middle_miss = { 0.6 0.1 0.1 }
+	caddoan = { 0.75 0.15 0.3 }
+	monongahela = { 0.85 0.45 0.5 }
+	beothuk = { 0.35 0.3 0.75 }
+	innu = { 0.2 0.2 0.5 }
+	ojibwe = { 0.15 0.85 0.55 }
+	dakota = { 0.6 0.45 0.3 }
+}
