@@ -214,6 +214,11 @@ iroquois = {
 			doctrine = tenet_communal_identity
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
+			
+			holy_site = kingston
+			holy_site = rochester
+			holy_site = south_onondaga
+			holy_site = albany
 		}
 	}
 }

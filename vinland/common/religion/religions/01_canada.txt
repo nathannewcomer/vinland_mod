@@ -209,6 +209,10 @@ canadian_group = {
 			icon = pagan
 			reformed_icon = pagan_reformed
 
+			holy_site = oiseau_rock
+			holy_site = bon_echo
+			holy_site = piekuakami
+
 			doctrine = unreformed_faith_doctrine
 
 			doctrine = tenet_communal_identity
@@ -220,6 +224,11 @@ canadian_group = {
 			color = { 0.9 0.3 0.3 }
 			icon = pagan
 			reformed_icon = pagan_reformed
+
+			holy_site = agawa_rock
+			holy_site = manidoowaaling
+			holy_site = nipigon
+			holy_site = bon_echo
 
 			doctrine = unreformed_faith_doctrine
 
