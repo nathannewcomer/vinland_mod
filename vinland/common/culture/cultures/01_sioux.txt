@@ -1,14 +1,14 @@
 dakota = {
 	color = dakota
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_sioux
 	language = language_sioux
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_mendicant_mystics
+		tradition_equitable
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_mongol

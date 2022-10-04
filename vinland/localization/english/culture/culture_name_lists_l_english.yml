@@ -1,0 +1,37 @@
+﻿l_english:
+ # North Germanic
+ name_list_norse:0 "Norse"
+ # Eastern Algonquin
+ name_list_mikmaq:0 "Mi'kmaq"
+ name_list_maliseet:0 "Maliseet"
+ name_list_passamaqoddy:0 "Passamaqoddy"
+ name_list_abanaki:0 "Abanaki"
+ name_list_lenape:0 "Lenape"
+ name_list_massachusett:0 "Massachusett"
+ name_list_penobscot:0 "Penobscot"
+ name_list_nanticoke:0 "Nanticoke"
+ name_list_powhatan:0 "Powhatan"
+ 
+ # Iroquois
+ name_list_mohawk:0 "Mohawk"
+ name_list_oneida:0 "Oneida"
+ name_list_onondaga:0 "Onondaga"
+ name_list_cayuga:0 "Cayuga"
+ name_list_seneca:0 "Seneca"
+ name_list_wyandot:0 "Wyandot"
+ 
+ # Mississippian
+ name_list_ohio:0 "Ohio"
+ name_list_michigan:0 "Michigan"
+ name_list_oneota:0 "Oneota"
+ name_list_middle_miss:0 "Middle Mississippi"
+ name_list_caddoan:0 "Caddoan"
+ name_list_monongahela:0 "Monongahela"
+ 
+ # Northern Algonquin
+ name_list_beothuk:0 "Beothuk"
+ name_list_innu:0 "Innu"
+ name_list_ojibwe:0 "Ojibwe"
+ 
+ # Sioux
+ name_list_dakota:0 "Dakota"

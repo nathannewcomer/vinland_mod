@@ -2,14 +2,14 @@
 beothuk = {
 	color = beothuk
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_northern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_isolationist
+		tradition_mystical_ancestors
+		tradition_sacred_groves
 	}
 	
 	name_list = name_list_mongol
@@ -27,14 +27,14 @@ beothuk = {
 innu = {
 	color = innu
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_stoic
+	heritage = heritage_northern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_winter_warriors
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_forest_folk
 	}
 	
 	name_list = name_list_mongol
@@ -53,14 +53,14 @@ innu = {
 ojibwe = {
 	color = ojibwe
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_spiritual
+	heritage = heritage_northern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_wedding_ceremonies
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_mongol

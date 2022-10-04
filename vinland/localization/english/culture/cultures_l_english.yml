@@ -1,0 +1,122 @@
+﻿l_english:
+ #North Germanic group
+ north_germanic_group:0 "North Germanic"
+ north_germanic_group_collective_noun:0 "North Germanics"
+ norse:0 "Norse"
+ norse_prefix:0 "Norse"
+ norse_collective_noun:0 "Norse"
+ #Northern Algonquin group
+ northern_algonquin_group:0 "Northern Algonquian"
+ northern_algonquin_group_collective_noun:0 "Northern Algonquian"
+ 
+ beothuk:0 "Beothuk"
+ beothuk_prefix:0 "Beothuk"
+ beothuk_collective_noun:0 "Beothuk"
+ 
+ innu:0 "Innu"
+ innu_prefix:0 "Innu"
+ innu_collective_noun:0 "Innu"
+ 
+ ojibwe:0 "Ojibwe"
+ ojibwe_prefix:0 "Ojibwe"
+ ojibwe_collective_noun:0 "Ojibwe"
+ #Eastern Algonquin group
+ eastern_algonquin_group:0 "Eastern Algonqiuan"
+ eastern_algonquin_group_collective_noun:0 "Eastern Algonqiuan"
+ 
+ mikmaq:0 "Mi'kmaq"
+ mikmaq_prefix:0 "Mi'kmaq"
+ mikmaq_collective_noun:0 "Mi'kmaq"
+ 
+ maliseet:0 "Maliseet"
+ maliseet_prefix:0 "Maliseet"
+ maliseet_collective_noun:0 "Maliseet"
+ 
+ passamaqoddy:0 "Passamaqoddy"
+ passamaqoddy_prefix:0 "Passamaqoddy"
+ passamaqoddy_collective_noun:0 "Passamaqoddy"
+ 
+ abanaki:0 "Abanaki"
+ abanaki_prefix:0 "Abanaki"
+ abanaki_collective_noun:0 "Abanaki"
+ 
+ lenape:0 "Lenape"
+ lenape_prefix:0 "Lenape"
+ lenape_collective_noun:0 "Lenape"
+ 
+ massachusett:0 "Massachusett"
+ massachusett_prefix:0 "Massachusett"
+ massachusett_collective_noun:0 "Massachusett"
+ 
+ penobscot:0 "Penobscot"
+ penobscot_prefix:0 "Penobscot"
+ penobscot_collective_noun:0 "Penobscot"
+ 
+ nanticoke:0 "Nanticoke"
+ nanticoke_prefix:0 "Nanticoke"
+ nanticoke_collective_noun:0 "Nanticoke"
+ 
+ powhatan:0 "Powhatan"
+ powhatan_prefix:0 "Powhatan"
+ powhatan_collective_noun:0 "Powhatan"
+ #Iroquois group
+ iroquois_group:0 "Iroquois"
+ iroquois_group_collective_noun:0 "Iroquois"
+ 
+ mohawk:0 "Mohawk"
+ mohawk_prefix:0 "Mohawk"
+ mohawk_collective_noun:0 "Mohawk"
+ 
+ oneida:0 "Oneida"
+ oneida_prefix:0 "Oneida"
+ oneida_collective_noun:0 "Oneida"
+ 
+ onondaga:0 "Onondaga"
+ onondaga_prefix:0 "Onondaga"
+ onondaga_collective_noun:0 "Onondaga"
+ 
+ cayuga:0 "Cayuga"
+ cayuga_prefix:0 "Cayuga"
+ cayuga_collective_noun:0 "Cayuga"
+ 
+ seneca:0 "Seneca"
+ seneca_prefix:0 "Seneca"
+ seneca_collective_noun:0 "Seneca"
+ 
+ wyandot:0 "Wyandot"
+ wyandot_prefix:0 "Wyandot"
+ wyandot_collective_noun:0 "Wyandot"
+ #Mississippian group
+ mississippian_group:0 "Mississippian"
+ mississippian_group_collective_noun:0 "Mississippian"
+ 
+ ohio:0 "Ohio"
+ ohio_prefix:0 "Ohio"
+ ohio_collective_noun:0 "Ohio"
+ 
+ michigan:0 "Michigan"
+ michigan_prefix:0 "Michigan"
+ michigan_collective_noun:0 "Michigan"
+ 
+ oneota:0 "Oneota"
+ oneota_prefix:0 "Oneota"
+ oneota_collective_noun:0 "Oneota"
+ 
+ middle_miss:0 "Middle Mississippi"
+ middle_miss_prefix:0 "Mississippi"
+ middle_miss_collective_noun:0 "Middle Mississippian"
+ 
+ caddoan:0 "Caddoan"
+ caddoan_prefix:0 "Caddoan"
+ caddoan_collective_noun:0 "Caddoan"
+ 
+ monongahela:0 "Monongahela"
+ monongahela_prefix:0 "Monongahela"
+ monongahela_collective_noun:0 "Monongahela"
+ #Sioux group
+ sioux_group:0 "Sioux"
+ sioux_group_collective_noun:0 "Siouan"
+ 
+ dakota:0 "Dakota"
+ dakota_prefix:0 "Dakota"
+ dakota_collective_noun:0 "Dakota"
