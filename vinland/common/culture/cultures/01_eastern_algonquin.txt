@@ -3,14 +3,14 @@
 mikmaq = {
 	color = mikmaq
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_egalitarian
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_hit_and_run
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -29,14 +29,14 @@ mikmaq = {
 maliseet = {
 	color = maliseet
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_modest
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -55,14 +55,14 @@ maliseet = {
 passamaqoddy = {
 	color = passamaqoddy
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_fishermen
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -81,14 +81,14 @@ passamaqoddy = {
 abanaki = {
 	color = abanaki
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_modest
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -107,14 +107,14 @@ abanaki = {
 lenape = {
 	color = lenape
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_eye_for_an_eye
+		tradition_artisans
+		tradition_tribe_unity
 	}
 	
 	name_list = name_list_mongol
@@ -132,14 +132,14 @@ lenape = {
 massachusett = {
 	color = massachusett
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_communal
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_modest
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -157,14 +157,14 @@ massachusett = {
 penobscot = {
 	color = penobscot
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_spiritual
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_sacred_groves
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_storytellers
 	}
 	
 	name_list = name_list_mongol
@@ -182,14 +182,14 @@ penobscot = {
 nanticoke = {
 	color = nanticoke
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_stoic
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_storytellers
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_wetlanders
 	}
 	
 	name_list = name_list_mongol
@@ -208,14 +208,14 @@ nanticoke = {
 powhatan = {
 	color = powhatan
 	
-	ethos = ethos_bellicose
-	heritage = heritage_algonquin
+	ethos = ethos_courtly
+	heritage = heritage_eastern_algonquin
 	language = language_algonquin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
+		tradition_festivities
 		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_chivalry
 	}
 	
 	name_list = name_list_mongol

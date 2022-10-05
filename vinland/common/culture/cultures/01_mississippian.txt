@@ -1,14 +1,14 @@
 ohio = {
 	color = ohio
 	
-	ethos = ethos_bellicose
+	ethos = ethos_egalitarian
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_tribe_unity
+		tradition_parochialism
+		tradition_modest
 	}
 	
 	name_list = name_list_mongol
@@ -26,14 +26,14 @@ ohio = {
 michigan = {
 	color = michigan
 	
-	ethos = ethos_bellicose
+	ethos = ethos_egalitarian
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_tribe_unity
+		tradition_parochialism
+		tradition_modest
 	}
 	
 	name_list = name_list_mongol
@@ -52,14 +52,14 @@ michigan = {
 oneota = {
 	color = oneota
 	
-	ethos = ethos_bellicose
+	ethos = ethos_courtly
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_artisans
+		tradition_parochialism
+		tradition_hereditary_hierarchy
 	}
 	
 	name_list = name_list_mongol
@@ -78,14 +78,14 @@ oneota = {
 middle_miss = {
 	color = middle_miss
 	
-	ethos = ethos_bellicose
+	ethos = ethos_courtly
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_artisans
+		tradition_parochialism
+		tradition_hereditary_hierarchy
 	}
 	
 	name_list = name_list_mongol
@@ -104,14 +104,14 @@ middle_miss = {
 caddoan = {
 	color = caddoan
 	
-	ethos = ethos_bellicose
+	ethos = ethos_courtly
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_artisans
+		tradition_parochialism
+		tradition_hereditary_hierarchy
 	}
 	
 	name_list = name_list_mongol
@@ -129,14 +129,14 @@ caddoan = {
 monongahela = {
 	color = monongahela
 	
-	ethos = ethos_bellicose
+	ethos = ethos_egalitarian
 	heritage = heritage_mississippian
 	language = language_mississippian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_tribe_unity
+		tradition_parochialism
+		tradition_hill_dwellers
 	}
 	
 	name_list = name_list_mongol

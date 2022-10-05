@@ -1,14 +1,14 @@
 mohawk = {
 	color = mohawk
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
@@ -26,14 +26,14 @@ mohawk = {
 oneida = {
 	color = oneida
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
@@ -51,14 +51,14 @@ oneida = {
 onondaga = {
 	color = onondaga
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
@@ -76,14 +76,14 @@ onondaga = {
 cayuga = {
 	color = cayuga
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
@@ -101,14 +101,14 @@ cayuga = {
 seneca = {
 	color = seneca
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
@@ -127,14 +127,14 @@ seneca = {
 wyandot = {
 	color = wyandot
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_iroquois
 	language = language_iroquois
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
+		tradition_culture_blending
+		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	name_list = name_list_mongol
