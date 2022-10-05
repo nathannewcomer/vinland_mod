@@ -1,0 +1,431 @@
+#BOP window
+window = {
+	name = "balance_of_power_window"
+	parentanchor = center
+	# position = { -50 100 }
+	size = { 1000 750 }
+	layer = top
+	filter_mouse = all
+	alwaystransparent = no
+	
+	using = Window_Background
+	using = Window_Decoration
+	using = Window_Movable
+	
+	button_close = {
+        name = "button_close"
+		parentanchor = right|top
+		position = { -40 20 }
+        shortcut = "close_window"
+        tooltip = "CLOSE_TOOLTIP"
+        clicksound = "event:/SFX/UI/Generic/sfx_ui_generic_close"
+		
+		onclick = "[ExecuteConsoleCommand( 'gui.ClearWidgets balance_of_power_window' )]"
+		onclick = "[GetVariableSystem.Toggle('bop_window_open')]"
+		
+        using = Animation_ShowHide_Standard
+
+        block "button_close" {}
+    }
+	
+	coa_realm_huge = {
+		position = { 100 90 }
+		datacontext = "[GetPlayer]"
+		blockoverride "crown"
+		{
+			visible = yes
+		}
+	}
+	
+	coa_realm_huge = {
+		position = { -100 90 }
+		parentanchor = right|top
+		datacontext = "[GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder]"
+		blockoverride "crown"
+		{
+			visible = yes
+		}
+	}
+
+	portrait_button = {
+		datacontext = "[GetPlayer]"
+		size = { 300 300 }
+		using = portrait_base
+		parentanchor = left|top
+		
+		portrait_texture = "[Character.GetAnimatedPortrait('environment_event_standard', 'environment_event_standard', 'idle', PdxGetWidgetScreenSize(PdxGuiWidget.Self))]"
+		background_texture = "gfx/portraits/portrait_transparent.dds"
+		texture = "gfx/portraits/portrait_transparent.dds"
+		mask = "gfx/portraits/portrait_mask_event.dds"
+		effectname = "NoHighlight"
+		position = { 50 100 }
+	}
+
+	portrait_button = {
+		datacontext = "[GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder]"
+		size = { 300 300 }
+		using = portrait_base
+		parentanchor = right|top
+		
+		portrait_texture = "[Character.GetAnimatedPortrait('environment_event_standard', 'environment_event_standard', 'idle', PdxGetWidgetScreenSize(PdxGuiWidget.Self))]"
+		background_texture = "gfx/portraits/portrait_transparent.dds"
+		texture = "gfx/portraits/portrait_transparent.dds"
+		mask = "gfx/portraits/portrait_mask_event.dds"
+		effectname = "NoHighlight"
+		position = { -50 100 }
+	}
+	
+	progressbar = {
+		min = 0
+		max = 100
+		value = "[GetPlayer.MakeScope.Var( 'own_bop_title' ).Title.MakeScope.Var( 'bop_progress' ).GetValue]"
+		parentanchor = hcenter|top
+		size = { 550 100 }
+		position = { 0 100 }
+		datacontext = "[GetPlayer]"
+		
+		progresstexture = "gfx/interface/progressbars/progress_standard.dds"
+		noprogresstexture = "gfx/interface/progressbars/progress_red.dds"
+		spriteType = Corneredtiled
+		spriteborder = { 6 6 }
+		
+		icon = {
+			name = "overlay"
+			texture = "gfx/interface/progressbars/progress_overlay.dds"
+			spriteType = Corneredstretched
+			spriteborder = { 2 2 }
+			size = { 100% 100% }
+			position = { 5 23 }
+		}
+		
+		text_single = {
+			text = "[GetPlayer.MakeScope.Var( 'own_bop_title' ).Title.MakeScope.Var( 'bop_progress' ).GetValue|1]"
+			parentanchor = left|top
+			size = { 50 50 }
+			position = { 0 -30 }
+			fontsize = 20
+			fontsize_min = 15
+		}
+		
+		text_single = {
+			text = "[Subtract_CFixedPoint( '(CFixedPoint)100', GetPlayer.MakeScope.Var( 'own_bop_title' ).Title.MakeScope.Var( 'bop_progress' ).GetValue )|1]"
+			parentanchor = right|top
+			size = { 50 50 }
+			position = { 0 -30 }
+			fontsize = 20
+			fontsize_min = 15
+		}
+		
+		tooltip = "BOP_TT"
+	}
+	
+	progressbar = {
+		min = 0
+		max = 100
+		value = "[Add_CFixedPoint( '(CFixedPoint)50', GetPlayer.MakeScope.Var( 'own_bop_title' ).Title.MakeScope.Var( 'popular_support' ).GetValue )]"
+		parentanchor = hcenter|top
+		size = { 300 50 }
+		position = { 0 300 }
+		
+		progresstexture = "gfx/interface/progressbars/progress_standard.dds"
+		noprogresstexture = "gfx/interface/progressbars/progress_red.dds"
+		spriteType = Corneredtiled
+		spriteborder = { 6 6 }
+		
+		icon = {
+			name = "overlay"
+			texture = "gfx/interface/progressbars/progress_overlay.dds"
+			spriteType = Corneredstretched
+			spriteborder = { 2 2 }
+			size = { 100% 100% }
+			position = { 5 23 }
+		}
+		
+		text_single = {
+			text = "BOP_WINDOW_POPULAR_SUPPORT"
+			parentanchor = hcenter|top
+			size = { 550 100 }
+			position = { 0 -40 }
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		
+		text_single = {
+			text = "[GetPlayer.MakeScope.Var( 'own_bop_title' ).Title.MakeScope.Var( 'popular_support' ).GetValue|1]"
+			parentanchor = hcenter|bottom
+			size = { 550 100 }
+			position = { 0 30 }
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+	}
+	
+	container = {
+		name = "positive_interractions_text"
+		parentanchor = left|bottom
+		position = { 128 -73 }
+		
+		text_single = {
+			position = { 0 -200 }
+			text = "BOP_POS_INT_1"
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			position = { 0 -150 }
+			text = "BOP_POS_INT_2"
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			position = { 0 -100 }
+			text = "BOP_POS_INT_3"
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			position = { 0 -50 }
+			text = "BOP_POS_INT_4"
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		
+		text_single = {
+			position = { 0 0 }
+			text = "BOP_POS_INT_5"
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+	}
+	
+	button_normal = {
+		parentanchor = left|bottom
+		position = { 80 -270 }
+		name = "interraction_1"
+		
+		datacontext = "[GetScriptedGui( 'bop_pos_inter_1' )]"
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_develop_county.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		parentanchor = left|bottom
+		position = { 80 -220 }
+		name = "interraction_2"
+		
+		datacontext = "[GetScriptedGui( 'bop_pos_inter_2' )]"
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_foreign_affairs.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		parentanchor = left|bottom
+		position = { 80 -170 }
+		name = "interraction_3"
+		
+		datacontext = "[GetScriptedGui( 'bop_pos_inter_3' )]"
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_bestow_royal_favor.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		parentanchor = left|bottom
+		position = { 80 -120 }
+		name = "interraction_4"
+		
+		datacontext = "[GetScriptedGui( 'bop_pos_inter_4' )]"
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_increase_control.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		parentanchor = left|bottom
+		position = { 80 -70 }
+		name = "interraction_5"
+		
+		datacontext = "[GetScriptedGui( 'bop_pos_inter_5' )]"
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_promote_culture.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	
+	button_normal = {
+		name = "neg_interraction_1"
+		
+		datacontext = "[GetScriptedGui( 'bop_neg_inter_1' )]"
+		parentanchor = right|bottom
+		position = { -80 -270 }
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_support_schemes.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+	}
+	button_normal = {
+		name = "neg_interraction_2"
+		
+		datacontext = "[GetScriptedGui( 'bop_neg_inter_2' )]"
+		parentanchor = right|bottom
+		position = { -80 -220 }
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_domestic_affairs.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		name = "neg_interraction_3"
+		
+		datacontext = "[GetScriptedGui( 'bop_neg_inter_3' )]"
+		parentanchor = right|bottom
+		position = { -80 -170 }
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_fabricate_claim.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+	}
+	button_normal = {
+		name = "neg_interraction_4"
+		
+		datacontext = "[GetScriptedGui( 'bop_neg_inter_4' )]"
+		parentanchor = right|bottom
+		position = { -80 -120 }
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_organize_levies.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+	}
+	button_normal = {
+		name = "neg_interraction_5"
+		
+		datacontext = "[GetScriptedGui( 'bop_neg_inter_5' )]"
+		parentanchor = right|bottom
+		position = { -80 -70 }
+		effectname = "NoHighlight"
+		gfxtype = togglepushbuttongfx
+		shaderfile = "gfx/FX/pdxgui_pushbutton.shader"
+		texture = "gfx/interface/icons/council_task_types/task_disrupt_schemes.dds"
+		size = { 38 38 }
+		
+		enabled = "[ScriptedGui.IsValid( GuiScope.SetRoot( GetPlayer.MakeScope ).End )]"
+		onclick = "[ScriptedGui.Execute( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+		tooltip = "[ScriptedGui.BuildTooltip( GuiScope.SetRoot( GetPlayer.MakeScope ).AddScope('opp_char', GetPlayer.MakeScope.GetVariable( 'opposing_bop_title' ).Title.GetHolder.MakeScope ).End )]"
+	}
+	
+	container = {
+		name = "negative_interractions_text"
+		parentanchor = right|bottom
+		position = { -128 -73 }
+		
+		text_single = {
+			text = "BOP_NEG_INT_1"
+			parentanchor = right|top
+			position = { 0 -200 }
+			elide = left
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			text = "BOP_NEG_INT_2"
+			parentanchor = right|top
+			position = { 0 -150 }
+			elide = left
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			text = "BOP_NEG_INT_3"
+			parentanchor = right|top
+			position = { 0 -100 }
+			elide = left
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			text = "BOP_NEG_INT_4"
+			parentanchor = right|top
+			position = { 0 -50 }
+			elide = left
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+		text_single = {
+			text = "BOP_NEG_INT_5"
+			parentanchor = right
+			position = { 0 0 }
+			elide = left
+			fontsize = 20
+			fontsize_min = 15
+			font = "TitleFont"
+		}
+	}
+	
+	text_single = {
+		text = "BOP_WINDOW_TITLE"
+		parentanchor = hcenter|top
+		size = { 550 100 }
+		position = { 0 20 }
+		fontsize = 25
+		fontsize_min = 20
+		font = "TitleFont"
+	}
+}

@@ -1,0 +1,94 @@
+﻿beothuk_flee_south = {
+	title = beothuk_flee_title
+	desc = beothuk_flee_desc
+	
+	is_shown = {
+		ROOT = {
+			has_culture = culture:beothuk
+			capital_province = {
+				geographical_region = world_newfoundland
+			}
+		}
+	}
+	
+	cost = {
+		prestige = 100
+		gold = 100
+	}
+	
+	effect = {
+		hidden_effect = {
+			random_county = {
+				limit = {
+					OR = {
+						target_is_de_jure_liege_or_above = title:k_lenape
+						target_is_de_jure_liege_or_above = title:k_massachusetts
+					}
+					NOT = { holder.top_liege = ROOT }
+					is_coastal_county = yes
+				}
+				save_scope_as = beothuk_invasion_target_1
+			}
+			random_county = {
+				limit = {
+					OR = {
+						target_is_de_jure_liege_or_above = title:k_lenape
+						target_is_de_jure_liege_or_above = title:k_massachusetts
+					}
+					NOT = { holder.top_liege = ROOT }
+					NOT = { THIS = scope:beothuk_invasion_target_1 }
+					NOT = { this.duchy = scope:beothuk_invasion_target_1.duchy }
+					is_coastal_county = yes
+				}
+				save_scope_as = beothuk_invasion_target_2
+			}
+		}
+		trigger_event = { id = beothuk_event.0001 }
+	}
+}
+
+beothuk_unite = {
+	title = beothuk_unite_title
+	desc = beothuk_unite_desc
+	
+	is_shown = {
+		ROOT = {
+			has_culture = culture:beothuk
+			capital_province = {
+				geographical_region = world_newfoundland
+			}
+		}
+		NOT = { has_global_variable = beothuks_united }
+	}
+	
+	cost = {
+		prestige = 100
+		gold = 100
+	}
+	
+	is_valid = {
+		completely_controls_region = world_newfoundland
+	}
+	
+	effect = {
+		get_title = title:k_beothuk
+		title:d_duchy_13 = {
+			set_de_jure_liege_title = title:k_beothuk
+		}
+		title:d_duchy_14 = {
+			set_de_jure_liege_title = title:k_beothuk
+		}
+		title:d_duchy_15 = {
+			set_de_jure_liege_title = title:k_beothuk
+		}
+		title:k_beothuk = {
+			set_de_jure_liege_title = title:e_vinland
+		}
+		hidden_effect = {
+			set_global_variable = {
+				name = beothuks_united
+				value = 1
+			}
+		}
+	}
+}

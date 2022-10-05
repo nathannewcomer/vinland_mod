@@ -44,3 +44,31 @@
 		death = yes
 	}
 }
+
+900003 = {
+	name = "Norway"
+	dynasty = 200002
+	religion = norse_pagan
+	culture = norse
+	950.1.1 = {
+		birth = yes
+	}
+	999.1.1 = {
+		death = yes
+	}
+}
+
+900004 = {
+	name = "Norway"
+	dynasty = 200002
+	religion = catholic
+	culture = norse
+	father = 900003
+	970.1.1 = {
+		birth = yes
+	}
+
+	1025.1.1 = {
+		death = yes
+	}
+}

@@ -68,9 +68,18 @@ world_new_brunswick = {
 	}
 }
 
+world_newfoundland = {
+	duchies = {
+		d_duchy_13 d_duchy_14 d_duchy_15
+	}
+}
+
 world_atlantic_canada = { 
 	duchies = {
-		d_duchy_13 d_duchy_14 d_duchy_15 d_duchy_16 d_duchy_17 d_duchy_18
+		d_duchy_16 d_duchy_17 d_duchy_18
+	}
+	regions = {
+		world_newfoundland
 	}
 }
 

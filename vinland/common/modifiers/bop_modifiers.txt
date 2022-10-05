@@ -1,0 +1,9 @@
+﻿bop_intrigue_hampered_modifier = {
+	icon = intrigue_negative
+	intrigue = -4
+}
+
+bop_worthless_scheming_modifier = {
+	icon = intrigue_negative
+	intrigue = -2
+}
