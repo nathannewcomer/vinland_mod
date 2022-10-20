@@ -1,7 +1,7 @@
 1 = {
-	culture = beothuk
-	religion = animist
-	holding = castle_holding
+	culture = norse
+	religion = catholic
+	holding = tribal_holding
 }
 2 = {
 	culture = beothuk
@@ -7039,27 +7039,27 @@
 	holding = none
 }
 1409 = {
-	culture = seneca
+	culture = cayuga
 	religion = iroquois
 	holding = tribal_holding
 }
 1410 = {
-	culture = seneca
+	culture = cayuga
 	religion = iroquois
 	holding = none
 }
 1411 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = tribal_holding
 }
 1412 = {
-	culture = cayuga
+	culture = onondaga
 	religion = iroquois
 	holding = tribal_holding
 }
 1413 = {
-	culture = cayuga
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
@@ -7069,7 +7069,7 @@
 	holding = tribal_holding
 }
 1415 = {
-	culture = seneca
+	culture = cayuga
 	religion = iroquois
 	holding = none
 }
@@ -7269,12 +7269,12 @@
 	holding = tribal_holding
 }
 1455 = {
-	culture = cayuga
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
 1456 = {
-	culture = cayuga
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
@@ -8044,67 +8044,67 @@
 	holding = none
 }
 1610 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = tribal_holding
 }
 1611 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1612 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1613 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1614 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = tribal_holding
 }
 1615 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
 1616 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
 1617 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = tribal_holding
 }
 1618 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
 1619 = {
-	culture = mohawk
+	culture = onondaga
 	religion = iroquois
 	holding = none
 }
 1620 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1621 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1622 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
@@ -8159,22 +8159,22 @@
 	holding = tribal_holding
 }
 1633 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1634 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = tribal_holding
 }
 1635 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
 1636 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
@@ -8194,7 +8194,7 @@
 	holding = none
 }
 1640 = {
-	culture = mohawk
+	culture = oneida
 	religion = iroquois
 	holding = none
 }
