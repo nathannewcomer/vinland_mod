@@ -1,0 +1,47 @@
+﻿l_english:
+ ## Iroquois
+ # Mohawk
+ dynn_wolf_mohawk:0 "Okwáho"
+ dynn_bear_mohawk:0 "Ohkwá:ri"
+ dynn_turtle_mohawk:0 "A'nó:wara"
+
+ # Oneida
+ dynn_wolf_oneida:0 "Thayú:ni"
+ dynn_bear_oneida:0 "Ohkwá:li"
+ dynn_turtle_oneida:0 "A'no:wál"
+
+ # Onondaga
+ dynn_wolf_onondaga:0 "Hothahi:ionih"
+ dynn_bear_onondaga:0 "Ohgwai:ih"
+ dynn_turtle_onondaga:0 "Hanya'dëñh"
+ dynn_snipe_onondaga:0 "Odihnesi:ioh"
+ dynn_deer_onondaga:0 "De'odijinaindönda'"
+ dynn_beaver_onondaga:0 "Hona'gaia'gih"
+ dynn_heron_onondaga:0 "Heron"
+ dynn_hawk_onondaga:0 "Degaiadahkwa'"
+ dynn_eel_onondaga:0 "Ohgönde:na'"
+
+ # Cayuga
+ dynn_wolf_cayuga:0 "Honǫtahyǫ́:ni:"
+ dynn_bear_cayuga:0 "Hadihnyagwái"
+ dynn_turtle_cayuga:0 "Hadinyáhdę:"
+ dynn_snipe_cayuga:0 "Hodi'nehsí:yo'"
+ dynn_heron_cayuga:0 "Heron"
+ dynn_hawk_cayuga:0 "Hodihsw'ęgáiyo'"
+
+ # Seneca
+ dynn_wolf_seneca:0 "Honöta:yö:nih"
+ dynn_bear_seneca:0 "Hodidzöní'ga:'"
+ dynn_turtle_seneca:0 "Hadínyahdë:h"
+ dynn_snipe_seneca:0 "Hodí'nehsi:yo'"
+ dynn_deer_seneca:0 "Hodí:nyögwaiyo'"
+ dynn_beaver_seneca:0 "Hodígë'ge:ga:'"
+ dynn_heron_seneca:0 "Hodidáë'ö:ga:'"
+ dynn_hawk_seneca:0 "Hodíswë'gaiyo"
+
+ # Wyandot
+ dynn_bear_wyandot:0 "Attignawantan"
+ dynn_cord_wyandot:0 "Attigneenongnahac"
+ dynn_rock_wyandot:0 "Arendarhonon"
+ dynn_deer_wyandot:0 "Tahontaenrat"
+ dynn_bog_wyandot:0 "Ataronchrono"
