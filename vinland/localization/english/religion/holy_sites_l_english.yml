@@ -1,0 +1,10 @@
+﻿l_english:
+ # Iroquois
+ holy_site_kingston_name:0 "Cataraqui"
+ holy_site_kingston_effect_name:0 "From [holy_site|E] #weak ($holy_site_kingston_name$)#!"
+ holy_site_rochester_name:0 "Rochester"
+ holy_site_rochester_effect_name:0 ""From [holy_site|E] #weak ($holy_site_rochester_name$)#!""
+ holy_site_south_onondaga_name:0 "Onondaga Lake"
+ holy_site_south_onondaga_effect_name:0 "From [holy_site|E] #weak ($holy_site_south_onondaga_name$)#!"
+ holy_site_albany_name:0 "Pempotowwuthut-Muhhcanneuw" # Mohican name for Albany, New Yrok
+ holy_site_albany_effect_name:0 "From [holy_site|E] #weak ($holy_site_albany_name$)#!"

@@ -1,0 +1,135 @@
+﻿name_list_mohawk = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_wolf_mohawk"
+		"dynn_bear_mohawk"
+		"dynn_turtle_mohawk"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati 
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_oneida = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_wolf_oneida"
+		"dynn_bear_oneida"
+		"dynn_turtle_oneida"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_onondaga = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_wolf_onondaga"
+		"dynn_bear_onondaga"
+		"dynn_turtle_onondaga"
+		"dynn_snipe_onondaga"
+		"dynn_deer_onondaga"
+		"dynn_beaver_onondaga"
+		"dynn_heron_onondaga"
+		"dynn_hawk_onondaga"
+		"dynn_eel_onondaga"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati 
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_cayuga = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_wolf_cayuga"
+		"dynn_bear_cayuga"
+		"dynn_turtle_cayuga"
+		"dynn_snipe_cayuga"
+		"dynn_heron_cayuga"
+		"dynn_hawk_cayuga"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati 
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_seneca = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_wolf_seneca"
+		"dynn_bear_seneca"
+		"dynn_turtle_seneca"
+		"dynn_snipe_seneca"
+		"dynn_deer_seneca"
+		"dynn_beaver_seneca"
+		"dynn_heron_seneca"
+		"dynn_hawk_seneca"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati 
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_wyandot = {
+
+	# Clan names
+	dynasty_names = {
+		"dynn_bear_wyandot"
+		"dynn_cord_wyandot"
+		"dynn_rock_wyandot"
+		"dynn_deer_wyandot"
+		"dynn_bog_wyandot"
+	}
+	
+	male_names = {
+		Akiatonharónkwen Cayenquaraghta Canaqueese Canasatego Deserontyon Kanatase Koyengquahtah Sakayengwaraton Si-gwa-ah-doh-gwih Thaonawyuthe Cogwagee Teyoninhokovrawen Skenandoa Sayenqueraghta Tanacharison Ga-geh-djo-wa
+	}
+	female_names = {
+		Talise Orenda Tekahionwake Tekakwitha Iostha Degonwadonti Genessee Kahentorehtha Kahwihta Konwakeri Minnehaha Ojistah Skawennati 
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
