@@ -28,9 +28,11 @@
  name_list_caddoan:0 "Caddoan"
  name_list_monongahela:0 "Monongahela"
  
- # Northern Algonquin
+ # Innu
  name_list_beothuk:0 "Beothuk"
  name_list_innu:0 "Innu"
+
+# Anishinaabe
  name_list_ojibwe:0 "Ojibwe"
  
  # Sioux

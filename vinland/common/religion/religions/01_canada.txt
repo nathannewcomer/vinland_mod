@@ -31,8 +31,9 @@ canadian_group = {
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_appointment
 
+	# (some of) Seven Grandfather teachings
 	traits = {
-		virtues = { brave just honest }
+		virtues = { brave just honest humble }
 		sins = { craven arbitrary deceitful }
 	}
 
@@ -49,150 +50,150 @@ canadian_group = {
 	holy_order_maa = { horse_archers }
 
 	localization = {
-		HighGodName = paganism_high_god_name
-		HighGodName2 = paganism_high_god_name_2
-		HighGodNamePossessive = paganism_high_god_name_possessive
+		HighGodName = anishinaabe_high_god_name
+		HighGodName2 = anishinaabe_high_god_name_2
+		HighGodNamePossessive = anishinaabe_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_SHE
 		HighGodHerselfHimself = CHARACTER_HERSELF
 		HighGodHerHis = CHARACTER_HERHIS_HER
-		HighGodNameAlternate = paganism_high_god_name_alternate
-		HighGodNameAlternatePossessive = paganism_high_god_name_alternate_possessive
+		HighGodNameAlternate = anishinaabe_high_god_name_alternate
+		HighGodNameAlternatePossessive = anishinaabe_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = paganism_creator_god_name
-		CreatorNamePossessive = paganism_creator_god_name_possessive
+		CreatorName = anishinaabe_creator_god_name
+		CreatorNamePossessive = anishinaabe_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_SHE
 		CreatorHerHis = CHARACTER_HERHIS_HER
 		CreatorHerHim = CHARACTER_HERHIM_HER
 
 		#HealthGod
-		HealthGodName = paganism_health_god_name
-		HealthGodNamePossessive = paganism_health_god_name_possessive
+		HealthGodName = anishinaabe_health_god_name
+		HealthGodNamePossessive = anishinaabe_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_SHE
 		HealthGodHerHis = CHARACTER_HERHIS_HER
 		HealthGodHerHim = CHARACTER_HERHIM_HER
 		
 		#FertilityGod
-		FertilityGodName = paganism_fertility_god_name
-		FertilityGodNamePossessive = paganism_fertility_god_name_possessive
+		FertilityGodName = anishinaabe_fertility_god_name
+		FertilityGodNamePossessive = anishinaabe_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = paganism_wealth_god_name
-		WealthGodNamePossessive = paganism_wealth_god_name_possessive
+		WealthGodName = anishinaabe_wealth_god_name
+		WealthGodNamePossessive = anishinaabe_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_SHE
 		WealthGodHerHis = CHARACTER_HERHIS_HER
 		WealthGodHerHim = CHARACTER_HERHIM_HER
 
 		#HouseholdGod
-		HouseholdGodName = paganism_household_god_name
-		HouseholdGodNamePossessive = paganism_household_god_name_possessive
+		HouseholdGodName = anishinaabe_household_god_name
+		HouseholdGodNamePossessive = anishinaabe_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = paganism_fate_god_name
-		FateGodNamePossessive = paganism_fate_god_name_possessive
+		FateGodName = anishinaabe_fate_god_name
+		FateGodNamePossessive = anishinaabe_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = paganism_knowledge_god_name
-		KnowledgeGodNamePossessive = paganism_knowledge_god_name_possessive
+		KnowledgeGodName = anishinaabe_knowledge_god_name
+		KnowledgeGodNamePossessive = anishinaabe_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = paganism_war_god_name
-		WarGodNamePossessive = paganism_war_god_name_possessive
+		WarGodName = anishinaabe_war_god_name
+		WarGodNamePossessive = anishinaabe_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_SHE
 		WarGodHerHis = CHARACTER_HERHIS_HER
 		WarGodHerHim = CHARACTER_HERHIM_HER
 
 		#TricksterGod
-		TricksterGodName = paganism_trickster_god_name
-		TricksterGodNamePossessive = paganism_trickster_god_name_possessive
+		TricksterGodName = anishinaabe_trickster_god_name
+		TricksterGodNamePossessive = anishinaabe_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = paganism_night_god_name
-		NightGodNamePossessive = paganism_night_god_name_possessive
+		NightGodName = anishinaabe_night_god_name
+		NightGodNamePossessive = anishinaabe_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_HE
 		NightGodHerHis = CHARACTER_HERHIS_HIS
 		NightGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WaterGod
-		WaterGodName = paganism_water_god_name
-		WaterGodNamePossessive = paganism_water_god_name_possessive
+		WaterGodName = anishinaabe_water_god_name
+		WaterGodNamePossessive = anishinaabe_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_SHE
 		WaterGodHerHis = CHARACTER_HERHIS_HER
 		WaterGodHerHim = CHARACTER_HERHIM_HER
 
 
-		PantheonTerm = paganism_mother_earth_father_sky
-		PantheonTerm2 = paganism_mother_earth_father_sky_2
-		PantheonTerm3 = paganism_mother_earth_father_sky_3
+		PantheonTerm = anishinaabe_mother_earth_father_sky
+		PantheonTerm2 = anishinaabe_mother_earth_father_sky_2
+		PantheonTerm3 = anishinaabe_mother_earth_father_sky_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { paganism_high_god_name paganism_good_god_father_sky paganism_good_god_ancestors }
-		DevilName = paganism_devil_name
-		DevilNamePossessive = paganism_devil_name_possessive
+		GoodGodNames = { anishinaabe_high_god_name anishinaabe_good_god_father_sky anishinaabe_good_god_ancestors }
+		DevilName = anishinaabe_devil_name
+		DevilNamePossessive = anishinaabe_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_IT
 		DevilHerHis = CHARACTER_HERHIS_ITS
-		DevilHerselfHimself = paganism_devil_herselfhimself
-		EvilGodNames = { paganism_devil_name paganism_evil_god_decay }
-		HouseOfWorship = paganism_house_of_worship
-		HouseOfWorship2 = paganism_house_of_worship_2
-		HouseOfWorship3 = paganism_house_of_worship_3
-		HouseOfWorshipPlural = paganism_house_of_worship_plural
-		ReligiousSymbol = paganism_religious_symbol
-		ReligiousSymbol2 = paganism_religious_symbol_2
-		ReligiousSymbol3 = paganism_religious_symbol_3
-		ReligiousText = paganism_religious_text
-		ReligiousText2 = paganism_religious_text_2
-		ReligiousText3 = paganism_religious_text_3
-		ReligiousHeadName = paganism_religious_head_title
-		ReligiousHeadTitleName = paganism_religious_head_title_name
-		DevoteeMale = paganism_devotee
-		DevoteeMalePlural = paganism_devoteeplural
-		DevoteeFemale = paganism_devotee
-		DevoteeFemalePlural = paganism_devoteeplural
-		DevoteeNeuter = paganism_devotee
-		DevoteeNeuterPlural = paganism_devoteeplural
-		PriestMale = paganism_priest
-		PriestMalePlural = paganism_priest_plural
-		PriestFemale = paganism_priest
-		PriestFemalePlural = paganism_priest_plural
-		PriestNeuter = paganism_priest
-		PriestNeuterPlural = paganism_priest_plural
-		AltPriestTermPlural = paganism_priest_alternate_plural
-		BishopMale = paganism_priest
-		BishopMalePlural = paganism_priest_plural
-		BishopFemale = paganism_priest
-		BishopFemalePlural = paganism_priest_plural
-		BishopNeuter = paganism_priest
-		BishopNeuterPlural = paganism_priest_plural
-		DivineRealm = paganism_divine_realm
-		DivineRealm2 = paganism_divine_realm_2
-		DivineRealm3 = paganism_divine_realm_3
-		PositiveAfterLife = paganism_divine_realm
-		PositiveAfterLife2 = paganism_divine_realm_2
-		PositiveAfterLife3 = paganism_divine_realm_3
-		NegativeAfterLife = paganism_afterlife
-		NegativeAfterLife2 = paganism_afterlife_2
-		NegativeAfterLife3 = paganism_afterlife_3
-		DeathDeityName = paganism_death_deity_name
-		DeathDeityNamePossessive = paganism_death_deity_name_possessive
-		DeathDeitySheHe = paganism_devil_shehe
-		DeathDeityHerHis = paganism_death_deity_herhis
-		WitchGodName = witchgodname_paganism_the_shadow
-		WitchGodNamePossessive = witchgodname_paganism_the_shadow_possessive
+		DevilHerselfHimself = anishinaabe_devil_herselfhimself
+		EvilGodNames = { anishinaabe_devil_name anishinaabe_evil_god_decay }
+		HouseOfWorship = anishinaabe_house_of_worship
+		HouseOfWorship2 = anishinaabe_house_of_worship_2
+		HouseOfWorship3 = anishinaabe_house_of_worship_3
+		HouseOfWorshipPlural = anishinaabe_house_of_worship_plural
+		ReligiousSymbol = anishinaabe_religious_symbol
+		ReligiousSymbol2 = anishinaabe_religious_symbol_2
+		ReligiousSymbol3 = anishinaabe_religious_symbol_3
+		ReligiousText = anishinaabe_religious_text
+		ReligiousText2 = anishinaabe_religious_text_2
+		ReligiousText3 = anishinaabe_religious_text_3
+		ReligiousHeadName = anishinaabe_religious_head_title
+		ReligiousHeadTitleName = anishinaabe_religious_head_title_name
+		DevoteeMale = anishinaabe_devotee
+		DevoteeMalePlural = anishinaabe_devoteeplural
+		DevoteeFemale = anishinaabe_devotee
+		DevoteeFemalePlural = anishinaabe_devoteeplural
+		DevoteeNeuter = anishinaabe_devotee
+		DevoteeNeuterPlural = anishinaabe_devoteeplural
+		PriestMale = anishinaabe_priest
+		PriestMalePlural = anishinaabe_priest_plural
+		PriestFemale = anishinaabe_priest
+		PriestFemalePlural = anishinaabe_priest_plural
+		PriestNeuter = anishinaabe_priest
+		PriestNeuterPlural = anishinaabe_priest_plural
+		AltPriestTermPlural = anishinaabe_priest_alternate_plural
+		BishopMale = anishinaabe_priest
+		BishopMalePlural = anishinaabe_priest_plural
+		BishopFemale = anishinaabe_priest
+		BishopFemalePlural = anishinaabe_priest_plural
+		BishopNeuter = anishinaabe_priest
+		BishopNeuterPlural = anishinaabe_priest_plural
+		DivineRealm = anishinaabe_divine_realm
+		DivineRealm2 = anishinaabe_divine_realm_2
+		DivineRealm3 = anishinaabe_divine_realm_3
+		PositiveAfterLife = anishinaabe_divine_realm
+		PositiveAfterLife2 = anishinaabe_divine_realm_2
+		PositiveAfterLife3 = anishinaabe_divine_realm_3
+		NegativeAfterLife = anishinaabe_afterlife
+		NegativeAfterLife2 = anishinaabe_afterlife_2
+		NegativeAfterLife3 = anishinaabe_afterlife_3
+		DeathDeityName = anishinaabe_death_deity_name
+		DeathDeityNamePossessive = anishinaabe_death_deity_name_possessive
+		DeathDeitySheHe = anishinaabe_devil_shehe
+		DeathDeityHerHis = anishinaabe_death_deity_herhis
+		WitchGodName = witchgodname_anishinaabe_the_shadow
+		WitchGodNamePossessive = witchgodname_anishinaabe_the_shadow_possessive
 		WitchGodSheHe = CHARACTER_SHEHE_IT
 		WitchGodHerHis = CHARACTER_HERHIS_ITS
 		WitchGodHerHim = CHARACTER_HERHIM_IT
@@ -204,7 +205,7 @@ canadian_group = {
 	}	
 
 	faiths = {
-		toronto_faith = {
+		ojibwe_faith = {
 			color = { 0.8 0.1 0.2 }
 			icon = pagan
 			reformed_icon = pagan_reformed
