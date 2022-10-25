@@ -1,0 +1,51 @@
+# Newfoundland
+beothuk = {
+	color = beothuk
+	
+	ethos = ethos_communal
+	heritage = heritage_innu
+	language = language_cree
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+		tradition_equitable
+		tradition_sacred_groves
+	}
+	
+	name_list = name_list_beothuk
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+	ethnicities = {
+		10 = asian
+	}
+}
+
+innu = {
+	color = innu
+	
+	ethos = ethos_stoic
+	heritage = heritage_innu
+	language = language_cree
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_winter_warriors
+		tradition_hunters
+		tradition_forest_folk
+	}
+	
+	name_list = name_list_innu
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+	ethnicities = {
+		10 = asian
+	}
+}
+	

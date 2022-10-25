@@ -1,0 +1,135 @@
+﻿name_list_innu = {
+
+	# Clan names
+	dynasty_names = {
+		
+	}
+	
+	# Using broad Cree names since Innu name are hard to find online
+	male_names = {
+		Ahchuchhwahauhhatohapit
+		Ahtahkakoop
+		Assiwiyin
+		Macquettoquet
+		Kahkewistahaw
+		Kahpeaysewat
+		Kakeesheway
+		Kamdyistowesit
+		Kamiokisihkwew
+		Sikakwayan
+		Pihtokahanapiwiyin
+		Sehkosowayanew
+		Saswaypew
+		Kapapamahchakwew
+		Keskayiwew
+		Kisikawasan
+		Piapot
+		KiwisU_nce
+		KU_peyakwU_skonam
+		Wuttunee
+		Petequakey
+		Papewes
+		Mukitou
+		Maskwa
+		Mahikan
+	}
+
+	female_names = {
+		Askiwkiyatotaw
+		Kahpeaysewat
+		Kaseweetin
+		Keasik
+		Minuskipuihat
+		Nawapukayus
+		Osamuskwasis
+		Osawkihew
+		Sokanon
+		Wawetseka
+		Hurit
+		Wapun
+		# TODO need more names!
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
+
+name_list_beothuk = {
+
+	# Clan names
+	dynasty_names = {
+		
+	}
+	
+	male_names = {
+		Nonosabasut
+		# Words
+		Ashooging
+		Dogemat
+		Sosheet
+		Washawet
+		Obditch
+		Maumshet
+		Paushee
+		Popadish
+		Maudzyke
+		Woodch
+		Ashaboouth
+		Adolthtek
+		Adothe
+		Dhoorado
+		Hathemay
+		Mossessdeesh
+		Thubathew
+		Shamook
+		Obodish
+		Methie
+		Sheedeneesheet
+		Bobboosoret
+		Osweet
+		Eesheet
+		Koorae
+		Poodybeac
+		Shebon
+		Ahune
+		Wasemook
+		Causabow
+		Dewis
+		Petothorish
+		Moisamadrook
+		Wadawhegh
+	}
+
+	female_names = {
+		Demasduit
+		Shanawdithit
+		# Words
+		Abidemashick
+		Baasick
+		Manus
+		Bibidigemidic
+		Deynyad
+		Obseet
+		Abodoneek
+		Maujebathook
+		Bemoot
+		Abidish
+		Edrathin
+		Anin
+		Shamye
+		Boodowit
+		Mammadrouit
+		Kuus
+		Edachoom
+		Susut
+		Momau
+		Mamatrabet
+		Shawwayet
+		Washewiush
+		Wasumaweeseek
+		Oubee
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
