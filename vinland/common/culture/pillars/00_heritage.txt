@@ -14,10 +14,14 @@ heritage_mississippian = {
 	type = heritage
 }
 
-heritage_northern_algonquin = {
+heritage_innu = {
 	type = heritage
 }
 
 heritage_sioux = {
+	type = heritage
+}
+
+heritage_anishinaabe = {
 	type = heritage
 }

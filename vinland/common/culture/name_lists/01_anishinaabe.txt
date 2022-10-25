@@ -1,0 +1,65 @@
+name_list_ojibwe = {
+
+	# The 7 Clans/Doodems
+    # TODO clans can't marry with one another
+	dynasty_names = {
+		"dynn_crane"
+        "dynn_loon"
+        "dynn_bear"
+        "dynn_fish"
+        "dynn_marten"
+        "dynn_deer"
+        "dynn_bird"
+	}
+	
+	male_names = {
+		Anang
+        Anangokaa
+        Asiniiwin
+        Chibenashi
+        Gaa-binagwiiyaas
+        Kah-ge-ga-gah-bowh
+        Kahkewāquonāby
+        Kechewaishke
+        Makwa
+        Medweganoonind
+        Naawakamig
+        Namid
+        Nanabojo
+        Nanabozho
+        Nanabush
+        Nanabushu
+        Nee-gon-we-way-we-dun
+        Nenaa'angebi
+        Ozaawindib
+        Ti-bish-ko-gi-jik
+        Waabaanakwad
+        Wabanquot
+        Wabun-inini
+        Wah-wah-teh-go-nay-ga-bo
+        Waubojeeg
+        Wanabozho
+        Wenebojo
+        Winabojo
+        Winnaboujou
+        Wiishkobak
+        Zheewegonab
+	}
+	female_names = {
+		Aanakwadikwe
+        Aazhawigiizhigokwe
+        Ah-shah-way-gee-she-go-qua
+        Anang
+        Anangokaa
+        Ashwiyaa
+        Bamewawagezhikaquay
+        Maemaengwahn
+        Naawakamigookwe
+        Niigi'o
+        Thanadelthur
+        Waasnodae
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	founder_named_dynasties = yes
+}
