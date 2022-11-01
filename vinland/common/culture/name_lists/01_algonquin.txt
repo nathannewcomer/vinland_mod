@@ -1,0 +1,37 @@
+name_list_algonquin = {
+
+    # Clan names
+    dynasty_names = {
+        
+    }
+	
+    male_names = {
+        Abooksigun
+        Abukcheech
+        Amonute
+        Chepi
+        Hurit
+        Kesegowaase
+        Kitchi
+        Machk
+        Mahigan
+        Matunaaga
+        Opechancanough
+        Wahunsenacawh
+        Samoset
+        Squanto
+	}
+
+    female_names = {
+        Chepi
+        Hurit
+        Matoaka
+        Miskweminanocsqua
+        Numees
+        Wapun
+        Watseka
+    }
+
+    dynasty_of_location_prefix = "dynnp_of"
+    founder_named_dynasties = yes
+}

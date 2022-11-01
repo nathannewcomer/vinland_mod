@@ -13,7 +13,7 @@ mikmaq = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -39,7 +39,7 @@ maliseet = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -65,7 +65,7 @@ passamaqoddy = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -91,7 +91,7 @@ abanaki = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -117,7 +117,7 @@ lenape = {
 		tradition_tribe_unity
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -142,7 +142,7 @@ massachusett = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -167,7 +167,7 @@ penobscot = {
 		tradition_storytellers
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -192,7 +192,7 @@ nanticoke = {
 		tradition_wetlanders
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -218,7 +218,7 @@ powhatan = {
 		tradition_chivalry
 	}
 	
-	name_list = name_list_mongol
+	name_list = name_list_algonquin
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 

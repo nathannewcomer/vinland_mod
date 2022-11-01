@@ -1,11 +1,11 @@
 ﻿l_english:
 
- #Generic Pagan/Common Pagan Localization
- animism_religion:0 "Animism"
- animism_religion_adj:0 "Animist"
- animism_religion_adherent:0 "Animist"
- animism_religion_adherent_plural:0 "Animists"
- animism_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of animism."
+ #Animism
+ animism:0 "Animism"
+ animism_adj:0 "Animist"
+ animism_adherent:0 "Animist"
+ animism_adherent_plural:0 "Animists"
+ animism_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of animism."
 
  animism_high_god_name:0 "Mother Earth"
  animism_high_god_name_2:0 "$animism_high_god_name$" # Optional translation alt
