@@ -1,0 +1,102 @@
+﻿l_english:
+
+ # Algonquin religions
+ algonquin_group:0 "Algonquin"
+ algonquin_group_adj:0 "Algonquin"
+ algonquin_group_adherent:0 "Algonquin"
+ algonquin_group_adherent_plural:0 "Algonquian"
+ algonquin_group_desc:0 "Algonquin religion is centered around a creator god who created the mountains, lakes, and rivers. A trickster hero assists humanity, but not without having his fun too."
+
+ algonquin_high_god_name:0 "Glooscap"
+ algonquin_high_god_name_2:0 "$algonquin_high_god_name$" # Optional translation alt
+ algonquin_high_god_name_possessive:0 "Glooscap's"
+ algonquin_high_god_name_alternate:0 "Glooskap"
+ algonquin_high_god_name_alternate_possessive:0 "Glooskap's"
+ algonquin_good_god_father_sky:0 "$algonquin_trickster_god_name$"
+ algonquin_good_god_ancestors:0 "the ancestors"
+ algonquin_devil_name:0 "corruption"
+ algonquin_devil_name_possessive:0 "corruption's"
+ algonquin_devil_shehe:0 "it"
+ algonquin_devil_herselfhimself:0 "itself"
+ algonquin_devil_herhis:0 "its"
+ algonquin_evil_god_decay:0 "blight"
+ algonquin_evil_god_decay_possessive:0 "blight's"
+ algonquin_evil_god_drought:0 "drought"
+ algonquin_death_deity_name:0 "death"
+ algonquin_death_deity_name_possessive:0 "death's"
+ algonquin_death_deity_herhis:0 "its"
+ algonquin_mother_earth_father_sky:0 "Mother Earth and Father Sky"
+ algonquin_mother_earth_father_sky_2:0 "$algonquin_mother_earth_father_sky$" # Optional translation alt
+ algonquin_mother_earth_father_sky_3:0 "$algonquin_mother_earth_father_sky$" # Optional translation alt
+ 
+
+ algonquin_creator_god_name:0 "Odzihozo"
+ algonquin_creator_god_name_possessive:0 "Odzihozo's"
+ algonquin_health_god_name:0 "$algonquin_high_god_name$"
+ algonquin_health_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_fertility_god_name:0 "$algonquin_high_god_name$"
+ algonquin_fertility_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_wealth_god_name:0 "$algonquin_high_god_name$"
+ algonquin_wealth_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_household_god_name:0 "$algonquin_high_god_name$"
+ algonquin_household_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_fate_god_name:0 "fate"
+ algonquin_fate_god_name_possessive:0 "fate's"
+ algonquin_knowledge_god_name:0 "$algonquin_high_god_name$"
+ algonquin_knowledge_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_war_god_name:0 "$algonquin_high_god_name$"
+ algonquin_war_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_trickster_god_name:0 "$algonquin_high_god_name$"
+ algonquin_trickster_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+ algonquin_night_god_name:0 "$algonquin_trickster_god_name$"
+ algonquin_night_god_name_possessive:0 "$algonquin_trickster_god_name_possessive$"
+ algonquin_water_god_name:0 "$algonquin_high_god_name$"
+ algonquin_water_god_name_possessive:0 "$algonquin_high_god_name_possessive$"
+
+ algonquin_house_of_worship:0 "temple"
+ algonquin_house_of_worship_2:0 "$algonquin_house_of_worship$" # Optional translation alt
+ algonquin_house_of_worship_3:0 "$algonquin_house_of_worship$" # Optional translation alt
+ algonquin_house_of_worship_plural:0 "temples"
+ algonquin_religious_symbol:0 "triquetra"
+ algonquin_religious_symbol_2:0 "$algonquin_religious_symbol$" # Optional translation alt
+ algonquin_religious_symbol_3:0 "$algonquin_religious_symbol$" # Optional translation alt
+ algonquin_religious_text:0 "sacred stories"
+ algonquin_religious_text_2:0 "$algonquin_religious_text$" # Optional translation alt
+ algonquin_religious_text_3:0 "$algonquin_religious_text$" # Optional translation alt
+ algonquin_religious_head_title:0 "High Priest"
+ algonquin_religious_head_title_name:0 "High Council"
+ algonquin_devotee:0 "devotee"
+ algonquin_devoteeplural:0 "devotees"
+ algonquin_priest:0 "priest"
+ algonquin_priest_plural:0 "priests"
+ algonquin_priest_alternate_plural:1 "elders"
+ algonquin_divine_realm:0 "the Heavens"
+ algonquin_divine_realm_2:0 "$algonquin_divine_realm$" # Optional translation alt
+ algonquin_divine_realm_3:0 "$algonquin_divine_realm$" # Optional translation alt
+ algonquin_afterlife:0 "the underworld"
+ algonquin_afterlife_2:0 "$algonquin_afterlife$" # Optional translation alt
+ algonquin_afterlife_3:0 "$algonquin_afterlife$" # Optional translation alt
+ witchgodname_algonquin_the_shadow:0 "the Shadow"
+ witchgodname_algonquin_the_shadow_possessive:0 "the Shadow's"
+
+ # Wabanaki faith
+ wabanaki_faith:0 "Wabanaki"
+ wabanaki_faith_adj:0 "Wabanaki"
+ wabanaki_faith_adherent:0 "Wabanaki"
+ wabanaki_faith_adherent_plural:0 "Wabanaki"
+ wabanaki_faith_desc:0 "Odzihozo created himself and the home of the Wabanaki tribe. Glooscap is their caretaker and hero who plays humorous tricks on them."
+
+ # Ojibwe faith
+ ojibwe_faith_high_god_name:0 "Nanabozho"
+ ojibwe_faith_high_god_name_2:0 "$anishinaabe_high_god_name$" # Optional translation alt
+ ojibwe_faith_high_god_name_possessive:0 "Nanabozho's"
+ ojibwe_faith_high_god_name_alternate:0 "Wenabozho"
+ ojibwe_faith_high_god_name_alternate_possessive:0 "Wenabozho's"
+ ojibwe_faith_creator_god_name:0 "Gitche Manitou"
+ ojibwe_faith_creator_god_name_possessive:0 "Gitche Manitou's"
+
+ ojibwe_faith:0 "Ojibwe"
+ ojibwe_faith_adj:0 "Ojibwe"
+ ojibwe_faith_adherent:0 "Ojibwe"
+ ojibwe_faith_adherent_plural:0 "Ojibwe"
+ ojibwe_faith_desc:0 "Gitchi Manitou created the world as we know it. Nanabozho assists humanity while also playing tricks on them."

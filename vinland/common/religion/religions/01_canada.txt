@@ -205,22 +205,6 @@ canadian_group = {
 	}	
 
 	faiths = {
-		ojibwe_faith = {
-			color = { 0.8 0.1 0.2 }
-			icon = pagan
-			reformed_icon = pagan_reformed
-
-			holy_site = oiseau_rock
-			holy_site = bon_echo
-			holy_site = piekuakami
-
-			doctrine = unreformed_faith_doctrine
-
-			doctrine = tenet_communal_identity
-			doctrine = tenet_ancestor_worship
-			doctrine = tenet_sanctity_of_nature
-		}
-
 		ontario_faith = {
 			color = { 0.9 0.3 0.3 }
 			icon = pagan

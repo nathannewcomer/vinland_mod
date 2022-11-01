@@ -34,7 +34,7 @@ oiseau_rock = { # Oiseau Rock, Quebec
 }
 
 bon_echo = { # Bon Echo Provincial Park, Ontario
-	county = c_ontario_12
+	county = c_quebec_32
 
 	character_modifier = {
 		monthly_piety_gain_mult = 0.2
