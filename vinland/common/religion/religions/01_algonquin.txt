@@ -226,10 +226,9 @@ algonquin_group = {
 			icon = pagan
 			reformed_icon = pagan_reformed
 
-			holy_site = balanced_rock
-			holy_site = mount_katahdin
-			holy_site = kejimkujik
-			holy_site = mniku
+			holy_site = oiseau_rock
+			holy_site = bon_echo
+			holy_site = piekuakami
 
 			doctrine = unreformed_faith_doctrine
 
