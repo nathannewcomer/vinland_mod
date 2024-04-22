@@ -1,3 +1,5 @@
+# This project has been abandoned. Anybody is free to fork this.
+
 # The Saga of Erik The Red (Vinland)
 An alternate history, total conversion mod for Crusader Kings III where the Norse decide to stay in North America.
 This mod is a total conversion mod, meaning it overhauls almost everything in the game.
