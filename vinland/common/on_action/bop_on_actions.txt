@@ -1,0 +1,357 @@
+﻿on_bop_monthly = {
+	effect = {
+		every_empire = {
+			limit = {
+				AND = {
+					has_variable = bop_progress
+					has_variable = title_struggle
+					has_variable = popular_support
+				}
+			}
+			
+			holder = {
+				set_local_variable = {
+					name = bop_plus
+					value = sum_of_all_skills_value
+				}
+			}
+			var:title_struggle.holder = {
+				set_local_variable = {
+					name = bop_minus
+					value = sum_of_all_skills_value
+				}
+			}
+			change_local_variable = {
+				name = bop_plus
+				divide = 100
+			}
+			change_local_variable = {
+				name = bop_minus
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_self_change
+				value = local_var:bop_plus
+			}
+			set_variable = {
+				name = bop_opp_change
+				value = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_po_change
+				value = var:popular_support
+			}
+			change_variable = {
+				name = bop_po_change
+				add = 50
+			}
+			change_variable = {
+				name = bop_po_change
+				subtract = var:bop_progress
+			}
+			change_variable = {
+				name = bop_po_change
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = var:bop_po_change
+			}
+			set_variable = {
+				name = ps_drift
+				value = var:popular_support
+			}
+			change_variable = {
+				name = ps_drift
+				multiply = -1
+			}
+			change_variable = {
+				name = ps_drift
+				divide = 100
+			}
+			change_variable = {
+				name = popular_support
+				add = var:ps_drift
+			}
+			
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			
+			if = {
+				limit = {
+					var:bop_progress = {
+						compare_value > 100
+					}
+				}
+				
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+			else_if = {
+				limit = {
+					var:bop_progress = {
+						compare_value < 0
+					}
+				}
+				
+				var:title_struggle.holder = {
+					get_title = PREV
+				}
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+		}
+	
+		every_kingdom = {
+			limit = {
+				AND = {
+					has_variable = bop_progress
+					has_variable = title_struggle
+					has_variable = popular_support
+				}
+			}
+			
+			holder = {
+				set_local_variable = {
+					name = bop_plus
+					value = sum_of_all_skills_value
+				}
+			}
+			var:title_struggle.holder = {
+				set_local_variable = {
+					name = bop_minus
+					value = sum_of_all_skills_value
+				}
+			}
+			change_local_variable = {
+				name = bop_plus
+				divide = 100
+			}
+			change_local_variable = {
+				name = bop_minus
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_self_change
+				value = local_var:bop_plus
+			}
+			set_variable = {
+				name = bop_opp_change
+				value = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_po_change
+				value = var:popular_support
+			}
+			change_variable = {
+				name = bop_po_change
+				add = 50
+			}
+			change_variable = {
+				name = bop_po_change
+				subtract = var:bop_progress
+			}
+			change_variable = {
+				name = bop_po_change
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = var:bop_po_change
+			}
+			set_variable = {
+				name = ps_drift
+				value = var:popular_support
+			}
+			change_variable = {
+				name = ps_drift
+				multiply = -1
+			}
+			change_variable = {
+				name = ps_drift
+				divide = 100
+			}
+			change_variable = {
+				name = popular_support
+				add = var:ps_drift
+			}
+			
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			
+			if = {
+				limit = {
+					var:bop_progress = {
+						compare_value > 100
+					}
+				}
+				
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+			else_if = {
+				limit = {
+					var:bop_progress = {
+						compare_value < 0
+					}
+				}
+				
+				var:title_struggle.holder = {
+					get_title = PREV
+				}
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+		}
+		
+		every_duchy = {
+			limit = {
+				AND = {
+					has_variable = bop_progress
+					has_variable = title_struggle
+					has_variable = popular_support
+				}
+			}
+			
+			holder = {
+				set_local_variable = {
+					name = bop_plus
+					value = sum_of_all_skills_value
+				}
+			}
+			var:title_struggle.holder = {
+				set_local_variable = {
+					name = bop_minus
+					value = sum_of_all_skills_value
+				}
+			}
+			change_local_variable = {
+				name = bop_plus
+				divide = 100
+			}
+			change_local_variable = {
+				name = bop_minus
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_self_change
+				value = local_var:bop_plus
+			}
+			set_variable = {
+				name = bop_opp_change
+				value = local_var:bop_minus
+			}
+			set_variable = {
+				name = bop_po_change
+				value = var:popular_support
+			}
+			change_variable = {
+				name = bop_po_change
+				add = 50
+			}
+			change_variable = {
+				name = bop_po_change
+				subtract = var:bop_progress
+			}
+			change_variable = {
+				name = bop_po_change
+				divide = 100
+			}
+			change_variable = {
+				name = bop_progress
+				add = var:bop_po_change
+			}
+			set_variable = {
+				name = ps_drift
+				value = var:popular_support
+			}
+			change_variable = {
+				name = ps_drift
+				multiply = -1
+			}
+			change_variable = {
+				name = ps_drift
+				divide = 100
+			}
+			change_variable = {
+				name = popular_support
+				add = var:ps_drift
+			}
+			
+			change_variable = {
+				name = bop_progress
+				add = local_var:bop_plus
+			}
+			change_variable = {
+				name = bop_progress
+				subtract = local_var:bop_minus
+			}
+			
+			if = {
+				limit = {
+					var:bop_progress = {
+						compare_value > 100
+					}
+				}
+				
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+			else_if = {
+				limit = {
+					var:bop_progress = {
+						compare_value < 0
+					}
+				}
+				
+				var:title_struggle.holder = {
+					get_title = PREV
+				}
+				remove_variable = bop_progress
+				remove_variable = title_struggle
+			}
+		}
+		
+		trigger_event = { 
+			on_action = on_bop_monthly 
+			months = 1
+			delayed = yes 
+		}
+	}
+}

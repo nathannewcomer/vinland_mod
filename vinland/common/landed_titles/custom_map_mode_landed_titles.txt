@@ -1,0 +1,1279 @@
+﻿d_map_color_rg0 = {
+	color = { 255 0 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg1 = {
+	color = { 254 1 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg2 = {
+	color = { 253 2 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg3 = {
+	color = { 252 3 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg4 = {
+	color = { 251 4 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg5 = {
+	color = { 250 5 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg6 = {
+	color = { 249 6 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg7 = {
+	color = { 248 7 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg8 = {
+	color = { 247 8 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg9 = {
+	color = { 246 9 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg10 = {
+	color = { 245 10 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg11 = {
+	color = { 244 11 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg12 = {
+	color = { 243 12 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg13 = {
+	color = { 242 13 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg14 = {
+	color = { 241 14 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg15 = {
+	color = { 240 15 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg16 = {
+	color = { 239 16 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg17 = {
+	color = { 238 17 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg18 = {
+	color = { 237 18 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg19 = {
+	color = { 236 19 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg20 = {
+	color = { 235 20 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg21 = {
+	color = { 234 21 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg22 = {
+	color = { 233 22 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg23 = {
+	color = { 232 23 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg24 = {
+	color = { 231 24 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg25 = {
+	color = { 230 25 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg26 = {
+	color = { 229 26 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg27 = {
+	color = { 228 27 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg28 = {
+	color = { 227 28 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg29 = {
+	color = { 226 29 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg30 = {
+	color = { 225 30 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg31 = {
+	color = { 224 31 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg32 = {
+	color = { 223 32 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg33 = {
+	color = { 222 33 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg34 = {
+	color = { 221 34 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg35 = {
+	color = { 220 35 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg36 = {
+	color = { 219 36 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg37 = {
+	color = { 218 37 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg38 = {
+	color = { 217 38 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg39 = {
+	color = { 216 39 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg40 = {
+	color = { 215 40 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg41 = {
+	color = { 214 41 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg42 = {
+	color = { 213 42 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg43 = {
+	color = { 212 43 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg44 = {
+	color = { 211 44 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg45 = {
+	color = { 210 45 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg46 = {
+	color = { 209 46 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg47 = {
+	color = { 208 47 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg48 = {
+	color = { 207 48 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg49 = {
+	color = { 206 49 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg50 = {
+	color = { 205 50 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg51 = {
+	color = { 204 51 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg52 = {
+	color = { 203 52 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg53 = {
+	color = { 202 53 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg54 = {
+	color = { 201 54 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg55 = {
+	color = { 200 55 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg56 = {
+	color = { 199 56 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg57 = {
+	color = { 198 57 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg58 = {
+	color = { 197 58 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg59 = {
+	color = { 196 59 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg60 = {
+	color = { 195 60 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg61 = {
+	color = { 194 61 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg62 = {
+	color = { 193 62 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg63 = {
+	color = { 192 63 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg64 = {
+	color = { 191 64 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg65 = {
+	color = { 190 65 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg66 = {
+	color = { 189 66 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg67 = {
+	color = { 188 67 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg68 = {
+	color = { 187 68 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg69 = {
+	color = { 186 69 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg70 = {
+	color = { 185 70 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg71 = {
+	color = { 184 71 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg72 = {
+	color = { 183 72 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg73 = {
+	color = { 182 73 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg74 = {
+	color = { 181 74 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg75 = {
+	color = { 180 75 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg76 = {
+	color = { 179 76 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg77 = {
+	color = { 178 77 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg78 = {
+	color = { 177 78 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg79 = {
+	color = { 176 79 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg80 = {
+	color = { 175 80 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg81 = {
+	color = { 174 81 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg82 = {
+	color = { 173 82 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg83 = {
+	color = { 172 83 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg84 = {
+	color = { 171 84 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg85 = {
+	color = { 170 85 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg86 = {
+	color = { 169 86 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg87 = {
+	color = { 168 87 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg88 = {
+	color = { 167 88 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg89 = {
+	color = { 166 89 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg90 = {
+	color = { 165 90 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg91 = {
+	color = { 164 91 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg92 = {
+	color = { 163 92 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg93 = {
+	color = { 162 93 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg94 = {
+	color = { 161 94 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg95 = {
+	color = { 160 95 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg96 = {
+	color = { 159 96 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg97 = {
+	color = { 158 97 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg98 = {
+	color = { 157 98 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg99 = {
+	color = { 156 99 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg100 = {
+	color = { 155 100 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg101 = {
+	color = { 154 101 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg102 = {
+	color = { 153 102 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg103 = {
+	color = { 152 103 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg104 = {
+	color = { 151 104 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg105 = {
+	color = { 150 105 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg106 = {
+	color = { 149 106 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg107 = {
+	color = { 148 107 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg108 = {
+	color = { 147 108 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg109 = {
+	color = { 146 109 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg110 = {
+	color = { 145 110 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg111 = {
+	color = { 144 111 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg112 = {
+	color = { 143 112 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg113 = {
+	color = { 142 113 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg114 = {
+	color = { 141 114 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg115 = {
+	color = { 140 115 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg116 = {
+	color = { 139 116 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg117 = {
+	color = { 138 117 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg118 = {
+	color = { 137 118 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg119 = {
+	color = { 136 119 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg120 = {
+	color = { 135 120 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg121 = {
+	color = { 134 121 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg122 = {
+	color = { 133 122 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg123 = {
+	color = { 132 123 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg124 = {
+	color = { 131 124 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg125 = {
+	color = { 130 125 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg126 = {
+	color = { 129 126 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg127 = {
+	color = { 128 127 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg128 = {
+	color = { 127 128 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg129 = {
+	color = { 126 129 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg130 = {
+	color = { 125 130 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg131 = {
+	color = { 124 131 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg132 = {
+	color = { 123 132 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg133 = {
+	color = { 122 133 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg134 = {
+	color = { 121 134 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg135 = {
+	color = { 120 135 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg136 = {
+	color = { 119 136 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg137 = {
+	color = { 118 137 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg138 = {
+	color = { 117 138 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg139 = {
+	color = { 116 139 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg140 = {
+	color = { 115 140 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg141 = {
+	color = { 114 141 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg142 = {
+	color = { 113 142 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg143 = {
+	color = { 112 143 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg144 = {
+	color = { 111 144 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg145 = {
+	color = { 110 145 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg146 = {
+	color = { 109 146 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg147 = {
+	color = { 108 147 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg148 = {
+	color = { 107 148 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg149 = {
+	color = { 106 149 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg150 = {
+	color = { 105 150 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg151 = {
+	color = { 104 151 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg152 = {
+	color = { 103 152 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg153 = {
+	color = { 102 153 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg154 = {
+	color = { 101 154 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg155 = {
+	color = { 100 155 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg156 = {
+	color = { 99 156 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg157 = {
+	color = { 98 157 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg158 = {
+	color = { 97 158 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg159 = {
+	color = { 96 159 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg160 = {
+	color = { 95 160 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg161 = {
+	color = { 94 161 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg162 = {
+	color = { 93 162 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg163 = {
+	color = { 92 163 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg164 = {
+	color = { 91 164 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg165 = {
+	color = { 90 165 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg166 = {
+	color = { 89 166 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg167 = {
+	color = { 88 167 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg168 = {
+	color = { 87 168 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg169 = {
+	color = { 86 169 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg170 = {
+	color = { 85 170 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg171 = {
+	color = { 84 171 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg172 = {
+	color = { 83 172 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg173 = {
+	color = { 82 173 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg174 = {
+	color = { 81 174 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg175 = {
+	color = { 80 175 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg176 = {
+	color = { 79 176 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg177 = {
+	color = { 78 177 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg178 = {
+	color = { 77 178 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg179 = {
+	color = { 76 179 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg180 = {
+	color = { 75 180 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg181 = {
+	color = { 74 181 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg182 = {
+	color = { 73 182 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg183 = {
+	color = { 72 183 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg184 = {
+	color = { 71 184 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg185 = {
+	color = { 70 185 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg186 = {
+	color = { 69 186 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg187 = {
+	color = { 68 187 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg188 = {
+	color = { 67 188 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg189 = {
+	color = { 66 189 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg190 = {
+	color = { 65 190 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg191 = {
+	color = { 64 191 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg192 = {
+	color = { 63 192 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg193 = {
+	color = { 62 193 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg194 = {
+	color = { 61 194 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg195 = {
+	color = { 60 195 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg196 = {
+	color = { 59 196 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg197 = {
+	color = { 58 197 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg198 = {
+	color = { 57 198 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg199 = {
+	color = { 56 199 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg200 = {
+	color = { 55 200 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg201 = {
+	color = { 54 201 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg202 = {
+	color = { 53 202 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg203 = {
+	color = { 52 203 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg204 = {
+	color = { 51 204 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg205 = {
+	color = { 50 205 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg206 = {
+	color = { 49 206 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg207 = {
+	color = { 48 207 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg208 = {
+	color = { 47 208 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg209 = {
+	color = { 46 209 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg210 = {
+	color = { 45 210 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg211 = {
+	color = { 44 211 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg212 = {
+	color = { 43 212 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg213 = {
+	color = { 42 213 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg214 = {
+	color = { 41 214 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg215 = {
+	color = { 40 215 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg216 = {
+	color = { 39 216 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg217 = {
+	color = { 38 217 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg218 = {
+	color = { 37 218 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg219 = {
+	color = { 36 219 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg220 = {
+	color = { 35 220 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg221 = {
+	color = { 34 221 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg222 = {
+	color = { 33 222 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg223 = {
+	color = { 32 223 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg224 = {
+	color = { 31 224 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg225 = {
+	color = { 30 225 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg226 = {
+	color = { 29 226 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg227 = {
+	color = { 28 227 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg228 = {
+	color = { 27 228 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg229 = {
+	color = { 26 229 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg230 = {
+	color = { 25 230 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg231 = {
+	color = { 24 231 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg232 = {
+	color = { 23 232 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg233 = {
+	color = { 22 233 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg234 = {
+	color = { 21 234 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg235 = {
+	color = { 20 235 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg236 = {
+	color = { 19 236 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg237 = {
+	color = { 18 237 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg238 = {
+	color = { 17 238 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg239 = {
+	color = { 16 239 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg240 = {
+	color = { 15 240 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg241 = {
+	color = { 14 241 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg242 = {
+	color = { 13 242 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg243 = {
+	color = { 12 243 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg244 = {
+	color = { 11 244 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg245 = {
+	color = { 10 245 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg246 = {
+	color = { 9 246 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg247 = {
+	color = { 8 247 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg248 = {
+	color = { 7 248 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg249 = {
+	color = { 6 249 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg250 = {
+	color = { 5 250 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg251 = {
+	color = { 4 251 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg252 = {
+	color = { 3 252 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg253 = {
+	color = { 2 253 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg254 = {
+	color = { 1 254 0 }
+	can_create = { always = no }
+}
+
+d_map_color_rg255 = {
+	color = { 0 255 0 }
+	can_create = { always = no }
+}

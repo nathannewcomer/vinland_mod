@@ -3,3 +3,127 @@ c_vinland = {
 		holder = 900002
 	}
 }
+
+b_vinland = {
+	1000.1.1 = {
+		holder = 900002
+	}
+}
+
+k_vinland = {
+	1000.1.1 = {
+		holder = 900002
+	}
+}
+
+c_gros_morne = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_cape_saint_george = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_channel-port_aux_basques = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_grey_river = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_springdale = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_marystown = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_gander = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_st_johns = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_7 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_newfoundland_1 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_newfoundland_2 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_5 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_8 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_9 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_10 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_11 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_12 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_anticosti = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_3 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_4 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+c_quebec_6 = {
+	1000.1.1 = {
+		holder = 900005
+	}
+}
+
+k_norway = {
+	1000.1.1 = {
+		holder = 900004
+	}
+}
